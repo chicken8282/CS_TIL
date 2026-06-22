@@ -1,7 +1,7 @@
 {
   "date": "2026-06-22",
-  "title": "OAuth 2.0: 안전한 권한 위임 표준",
+  "title": "OAuth 2.0",
   "topic": "OAuth 2.0",
-  "summary": "OAuth 2.0은 인증이 아니라 권한 부여(Authorization) 표준**이다.",
+  "summary": "권한 부여(Authorization) 표준**이다. 사용자가 비밀번호를 직접 넘기지 않고, 서비스 간에 제한된 접근 권한을 위임한다.",
   "path": "docs/cs/2026-06-22-oauth-2-0.md"
 }
