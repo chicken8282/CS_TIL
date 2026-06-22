@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-22",
-  "title": "OAuth 2.0",
-  "topic": "OAuth 2.0",
-  "summary": "인증(Authentication)**이 아니라 **권한 부여(Authorization)** 표준이다.",
-  "path": "docs/cs/2026-06-22-oauth-2-0.md"
+  "date": "2026-06-23",
+  "title": "REST API 설계 핵심 정리",
+  "topic": "REST API design",
+  "summary": "리소스 중심 설계**: URI는 동작이 아니라 대상(명사)을 표현한다.",
+  "path": "docs/cs/2026-06-23-rest-api-design.md"
 }
