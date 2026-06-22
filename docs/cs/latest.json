@@ -2,6 +2,6 @@
   "date": "2026-06-22",
   "title": "OAuth 2.0 핵심 정리",
   "topic": "OAuth 2.0",
-  "summary": "사용자 비밀번호를 앱에 직접 주지 않고** 다른 서비스의 자원 접근을 허용하는 **인가(Authorization) 프레임워크**다.",
+  "summary": "인가(Authorization) 프레임워크**: 사용자가 비밀번호를 직접 넘기지 않고, 앱이 제한된 권한만 위임받게 한다.",
   "path": "docs/cs/2026-06-22-oauth-2-0.md"
 }
