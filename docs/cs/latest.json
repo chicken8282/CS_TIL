@@ -2,6 +2,6 @@
   "date": "2026-06-22",
   "title": "OAuth 2.0",
   "topic": "OAuth 2.0",
-  "summary": "인증(Authentication)**이 아니라 **인가(Authorization)**를 위한 표준 프로토콜",
+  "summary": "권한 부여 프레임워크**다: 사용자가 비밀번호를 직접 넘기지 않고, 앱이 제한된 자원 접근 권한만 얻는다.",
   "path": "docs/cs/2026-06-22-oauth-2-0.md"
 }
