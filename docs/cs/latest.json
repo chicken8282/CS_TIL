@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-23",
-  "title": "REST API 설계 핵심 정리",
-  "topic": "REST API design",
-  "summary": "리소스 중심 설계**: URI는 동작이 아니라 대상(명사)을 표현한다.",
-  "path": "docs/cs/2026-06-23-rest-api-design.md"
+  "date": "2026-06-24",
+  "title": "메시지 큐(Message Queue)",
+  "topic": "message queues",
+  "summary": "비동기 처리를 위해 생산자와 소비자를 분리한다.",
+  "path": "docs/cs/2026-06-24-message-queues.md"
 }
