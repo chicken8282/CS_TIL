@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-24",
-  "title": "메시지 큐(Message Queue)",
-  "topic": "message queues",
-  "summary": "비동기 처리를 위해 생산자와 소비자를 분리한다.",
-  "path": "docs/cs/2026-06-24-message-queues.md"
+  "date": "2026-06-25",
+  "title": "Cache Invalidation",
+  "topic": "cache invalidation",
+  "summary": "캐시는 빨라서 좋지만, 오래되면 틀릴 수 있다.",
+  "path": "docs/cs/2026-06-25-cache-invalidation.md"
 }
