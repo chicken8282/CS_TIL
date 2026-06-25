@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-25",
-  "title": "Cache Invalidation",
-  "topic": "cache invalidation",
-  "summary": "캐시는 빨라서 좋지만, 오래되면 틀릴 수 있다.",
-  "path": "docs/cs/2026-06-25-cache-invalidation.md"
+  "date": "2026-06-26",
+  "title": "CAP 정리(CAP Theorem)",
+  "topic": "CAP theorem",
+  "summary": "일관성(Consistency)**: 모든 클라이언트가 같은 시점에 같은 데이터를 본다.",
+  "path": "docs/cs/2026-06-26-cap-theorem.md"
 }
