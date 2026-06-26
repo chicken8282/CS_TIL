@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-26",
-  "title": "CAP 정리(CAP Theorem)",
-  "topic": "CAP theorem",
-  "summary": "일관성(Consistency)**: 모든 클라이언트가 같은 시점에 같은 데이터를 본다.",
-  "path": "docs/cs/2026-06-26-cap-theorem.md"
+  "date": "2026-06-27",
+  "title": "Consistency Models 정리",
+  "topic": "consistency models",
+  "summary": "일관성 모델**은 분산 시스템에서 “어느 시점에 어떤 값이 보이는가”를 정의한다.",
+  "path": "docs/cs/2026-06-27-consistency-models.md"
 }
