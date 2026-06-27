@@ -7,3 +7,4 @@
 - 2026-06-25 [Cache Invalidation](2026-06-25-cache-invalidation.md)
 - 2026-06-26 [CAP 정리(CAP Theorem)](2026-06-26-cap-theorem.md)
 - 2026-06-27 [Consistency Models 정리](2026-06-27-consistency-models.md)
+- 2026-06-28 [Sharding과 Partitioning 정리](2026-06-28-sharding-and-partitioning.md)
