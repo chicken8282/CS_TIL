@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-28",
-  "title": "Sharding과 Partitioning 정리",
-  "topic": "sharding and partitioning",
-  "summary": "Partitioning**: 큰 데이터를 여러 조각으로 나눠 저장·처리하는 **상위 개념**이다.",
-  "path": "docs/cs/2026-06-28-sharding-and-partitioning.md"
+  "date": "2026-06-29",
+  "title": "브라우저 렌더링",
+  "topic": "browser rendering",
+  "summary": "렌더링은 HTML/CSS/JS를 화면 픽셀로 바꾸는 과정**이다.",
+  "path": "docs/cs/2026-06-29-browser-rendering.md"
 }
