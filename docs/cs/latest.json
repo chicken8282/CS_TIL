@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-29",
-  "title": "브라우저 렌더링",
-  "topic": "browser rendering",
-  "summary": "렌더링은 HTML/CSS/JS를 화면 픽셀로 바꾸는 과정**이다.",
-  "path": "docs/cs/2026-06-29-browser-rendering.md"
+  "date": "2026-06-30",
+  "title": "이벤트 루프(Event Loop)",
+  "topic": "event loop",
+  "summary": "비동기 작업을 싱글 스레드에서 처리하게 해주는 실행 모델**이다.",
+  "path": "docs/cs/2026-06-30-event-loop.md"
 }
