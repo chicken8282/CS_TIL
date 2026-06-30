@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-30",
-  "title": "이벤트 루프(Event Loop)",
-  "topic": "event loop",
-  "summary": "비동기 작업을 싱글 스레드에서 처리하게 해주는 실행 모델**이다.",
-  "path": "docs/cs/2026-06-30-event-loop.md"
+  "date": "2026-07-01",
+  "title": "Garbage Collection(GC)",
+  "topic": "garbage collection",
+  "summary": "역할**: 더 이상 사용되지 않는 객체를 자동으로 찾아 메모리를 회수한다.",
+  "path": "docs/cs/2026-07-01-garbage-collection.md"
 }

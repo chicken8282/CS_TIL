@@ -10,3 +10,4 @@
 - 2026-06-28 [Sharding과 Partitioning 정리](2026-06-28-sharding-and-partitioning.md)
 - 2026-06-29 [브라우저 렌더링](2026-06-29-browser-rendering.md)
 - 2026-06-30 [이벤트 루프(Event Loop)](2026-06-30-event-loop.md)
+- 2026-07-01 [Garbage Collection(GC)](2026-07-01-garbage-collection.md)
