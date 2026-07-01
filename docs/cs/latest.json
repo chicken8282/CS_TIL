@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-01",
-  "title": "Garbage Collection(GC)",
-  "topic": "garbage collection",
-  "summary": "역할**: 더 이상 사용되지 않는 객체를 자동으로 찾아 메모리를 회수한다.",
-  "path": "docs/cs/2026-07-01-garbage-collection.md"
+  "date": "2026-07-02",
+  "title": "CI/CD 기본기",
+  "topic": "CI/CD fundamentals",
+  "summary": "CI(Continuous Integration)**: 코드 변경을 자주 통합하고 자동으로 빌드·테스트한다.",
+  "path": "docs/cs/2026-07-02-ci-cd-fundamentals.md"
 }
