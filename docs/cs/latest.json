@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-02",
-  "title": "CI/CD 기본기",
-  "topic": "CI/CD fundamentals",
-  "summary": "CI(Continuous Integration)**: 코드 변경을 자주 통합하고 자동으로 빌드·테스트한다.",
-  "path": "docs/cs/2026-07-02-ci-cd-fundamentals.md"
+  "date": "2026-07-03",
+  "title": "프로세스(Process)와 스레드(Thread)",
+  "topic": "process vs thread",
+  "summary": "프로세스**: 운영체제로부터 **독립된 메모리 공간**을 할당받는 실행 단위",
+  "path": "docs/cs/2026-07-03-process-vs-thread.md"
 }
