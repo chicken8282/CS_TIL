@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-03",
-  "title": "프로세스(Process)와 스레드(Thread)",
-  "topic": "process vs thread",
-  "summary": "프로세스**: 운영체제로부터 **독립된 메모리 공간**을 할당받는 실행 단위",
-  "path": "docs/cs/2026-07-03-process-vs-thread.md"
+  "date": "2026-07-04",
+  "title": "동기(Synchronous) vs 비동기(Asynchronous) 실행",
+  "topic": "synchronous vs asynchronous execution",
+  "summary": "동기**는 작업이 끝날 때까지 다음 작업을 기다린다.",
+  "path": "docs/cs/2026-07-04-synchronous-vs-asynchronous-execution.md"
 }
