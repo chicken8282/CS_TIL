@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-04",
-  "title": "동기(Synchronous) vs 비동기(Asynchronous) 실행",
-  "topic": "synchronous vs asynchronous execution",
-  "summary": "동기**는 작업이 끝날 때까지 다음 작업을 기다린다.",
-  "path": "docs/cs/2026-07-04-synchronous-vs-asynchronous-execution.md"
+  "date": "2026-07-05",
+  "title": "TCP vs UDP",
+  "topic": "TCP vs UDP",
+  "summary": "TCP**는 연결 지향, **UDP**는 비연결 지향이다.",
+  "path": "docs/cs/2026-07-05-tcp-vs-udp.md"
 }
