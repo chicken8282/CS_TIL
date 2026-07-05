@@ -15,3 +15,4 @@
 - 2026-07-03 [프로세스(Process)와 스레드(Thread)](2026-07-03-process-vs-thread.md)
 - 2026-07-04 [동기(Synchronous) vs 비동기(Asynchronous) 실행](2026-07-04-synchronous-vs-asynchronous-execution.md)
 - 2026-07-05 [TCP vs UDP](2026-07-05-tcp-vs-udp.md)
+- 2026-07-06 [HTTP 캐싱](2026-07-06-http-caching.md)

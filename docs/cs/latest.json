@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-05",
-  "title": "TCP vs UDP",
-  "topic": "TCP vs UDP",
-  "summary": "TCP**는 연결 지향, **UDP**는 비연결 지향이다.",
-  "path": "docs/cs/2026-07-05-tcp-vs-udp.md"
+  "date": "2026-07-06",
+  "title": "HTTP 캐싱",
+  "topic": "HTTP caching",
+  "summary": "목적**: 같은 리소스를 반복 요청할 때 서버 부하와 응답 지연을 줄인다.",
+  "path": "docs/cs/2026-07-06-http-caching.md"
 }
