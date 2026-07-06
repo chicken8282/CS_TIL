@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-06",
-  "title": "HTTP 캐싱",
-  "topic": "HTTP caching",
-  "summary": "목적**: 같은 리소스를 반복 요청할 때 서버 부하와 응답 지연을 줄인다.",
-  "path": "docs/cs/2026-07-06-http-caching.md"
+  "date": "2026-07-07",
+  "title": "데이터베이스 인덱스(Database Indexes)",
+  "topic": "database indexes",
+  "summary": "인덱스는 **테이블의 빠른 검색을 위한 별도 자료구조**다.",
+  "path": "docs/cs/2026-07-07-database-indexes.md"
 }
