@@ -1,22 +1,34 @@
 # CS Notes
-- 2026-06-22 [OAuth 2.0 핵심 정리](2026-06-22-oauth-2-0.md)
-- 2026-06-22 [OAuth 2.0](2026-06-22-oauth-2-0.md)
-- 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](2026-06-22-oauth-2-0.md)
-- 2026-06-23 [REST API 설계 핵심 정리](2026-06-23-rest-api-design.md)
-- 2026-06-24 [메시지 큐(Message Queue)](2026-06-24-message-queues.md)
-- 2026-06-25 [Cache Invalidation](2026-06-25-cache-invalidation.md)
-- 2026-06-26 [CAP 정리(CAP Theorem)](2026-06-26-cap-theorem.md)
-- 2026-06-27 [Consistency Models 정리](2026-06-27-consistency-models.md)
-- 2026-06-28 [Sharding과 Partitioning 정리](2026-06-28-sharding-and-partitioning.md)
-- 2026-06-29 [브라우저 렌더링](2026-06-29-browser-rendering.md)
-- 2026-06-30 [이벤트 루프(Event Loop)](2026-06-30-event-loop.md)
-- 2026-07-01 [Garbage Collection(GC)](2026-07-01-garbage-collection.md)
-- 2026-07-02 [CI/CD 기본기](2026-07-02-ci-cd-fundamentals.md)
-- 2026-07-03 [프로세스(Process)와 스레드(Thread)](2026-07-03-process-vs-thread.md)
-- 2026-07-04 [동기(Synchronous) vs 비동기(Asynchronous) 실행](2026-07-04-synchronous-vs-asynchronous-execution.md)
-- 2026-07-05 [TCP vs UDP](2026-07-05-tcp-vs-udp.md)
-- 2026-07-06 [HTTP 캐싱](2026-07-06-http-caching.md)
-- 2026-07-07 [데이터베이스 인덱스(Database Indexes)](2026-07-07-database-indexes.md)
+
+## 운영체제
+- 2026-07-01 [Garbage Collection(GC)](os/2026-07-01-garbage-collection.md)
+- 2026-07-03 [프로세스(Process)와 스레드(Thread)](os/2026-07-03-process-vs-thread.md)
 - 2026-07-07 [Locks와 Deadlocks 핵심 정리](os/2026-07-07-locks-and-deadlocks.md)
+
+## 네트워크
+- 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
+- 2026-07-06 [HTTP 캐싱](network/2026-07-06-http-caching.md)
+
+## 데이터베이스
+- 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
+- 2026-07-07 [데이터베이스 인덱스(Database Indexes)](database/2026-07-07-database-indexes.md)
+
+## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)
+
+## 웹/보안
+- 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](web-security/2026-06-22-oauth-2-0.md)
+- 2026-06-23 [REST API 설계 핵심 정리](web-security/2026-06-23-rest-api-design.md)
+- 2026-06-29 [브라우저 렌더링](web-security/2026-06-29-browser-rendering.md)
+
+## 시스템 설계
+- 2026-06-24 [메시지 큐(Message Queue)](system-design/2026-06-24-message-queues.md)
+- 2026-06-25 [Cache Invalidation](system-design/2026-06-25-cache-invalidation.md)
+- 2026-06-26 [CAP 정리(CAP Theorem)](system-design/2026-06-26-cap-theorem.md)
+- 2026-06-27 [Consistency Models 정리](system-design/2026-06-27-consistency-models.md)
+
+## DevOps
+- 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)
+- 2026-07-02 [CI/CD 기본기](devops/2026-07-02-ci-cd-fundamentals.md)
+- 2026-07-04 [동기(Synchronous) vs 비동기(Asynchronous) 실행](devops/2026-07-04-synchronous-vs-asynchronous-execution.md)
 - 2026-07-07 [컨테이너 오케스트레이션(Container Orchestration)](devops/2026-07-07-container-orchestration.md)
