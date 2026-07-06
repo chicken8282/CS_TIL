@@ -17,3 +17,6 @@
 - 2026-07-05 [TCP vs UDP](2026-07-05-tcp-vs-udp.md)
 - 2026-07-06 [HTTP 캐싱](2026-07-06-http-caching.md)
 - 2026-07-07 [데이터베이스 인덱스(Database Indexes)](2026-07-07-database-indexes.md)
+- 2026-07-07 [Locks와 Deadlocks 핵심 정리](os/2026-07-07-locks-and-deadlocks.md)
+- 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)
+- 2026-07-07 [컨테이너 오케스트레이션(Container Orchestration)](devops/2026-07-07-container-orchestration.md)

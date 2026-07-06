@@ -1,7 +1,10 @@
 {
   "date": "2026-07-07",
-  "title": "데이터베이스 인덱스(Database Indexes)",
-  "topic": "database indexes",
-  "summary": "인덱스는 **테이블의 빠른 검색을 위한 별도 자료구조**다.",
-  "path": "docs/cs/2026-07-07-database-indexes.md"
+  "title": "Locks와 Deadlocks 핵심 정리",
+  "topic": "locks and deadlocks",
+  "category": "os",
+  "category_name": "운영체제",
+  "angle": "코드 예제 중심으로",
+  "summary": "Lock**은 공유 자원에 대한 **동시 접근을 제어**해 데이터 경쟁(race condition)을 막는다.",
+  "path": "docs/cs/os/2026-07-07-locks-and-deadlocks.md"
 }
