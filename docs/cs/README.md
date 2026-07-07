@@ -34,3 +34,6 @@
 - 2026-07-07 [컨테이너 오케스트레이션(Container Orchestration)](devops/2026-07-07-container-orchestration.md)
 - 2026-07-07 [Locks와 Deadlocks](os/2026-07-07-locks-and-deadlocks.md)
 - 2026-07-07 [LRU Cache: 가장 최근에 쓴 것만 남기는 캐시](data-structures/2026-07-07-lru-cache.md)
+- 2026-07-08 [가비지 컬렉션(Garbage Collection)](os/2026-07-08-garbage-collection.md)
+- 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)
+- 2026-07-08 [블루-그린 배포와 카나리 배포](devops/2026-07-08-blue-green-and-canary-deployment.md)

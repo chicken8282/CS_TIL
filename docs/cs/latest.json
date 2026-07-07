@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-07",
-  "title": "Locks와 Deadlocks",
-  "topic": "locks and deadlocks",
+  "date": "2026-07-08",
+  "title": "가비지 컬렉션(Garbage Collection)",
+  "topic": "garbage collection",
   "category": "os",
   "category_name": "운영체제",
-  "angle": "코드 예제 중심으로",
-  "summary": "Lock**은 여러 스레드가 같은 자원에 동시에 접근할 때 **임계 구역**을 보호한다.",
-  "bullets": "• Lock**은 여러 스레드가 같은 자원에 동시에 접근할 때 **임계 구역**을 보호한다.\n• Deadlock**은 둘 이상의 스레드가 서로의 락을 기다리며 **영원히 멈춘 상태**다.\n• 실무에서는 **락 범위 최소화, 순서 통일, 타임아웃**이 핵심 대응이다.",
-  "path": "docs/cs/os/2026-07-07-locks-and-deadlocks.md"
+  "angle": "자주 하는 실수와 안티패턴 중심으로",
+  "summary": "GC는 메모리를 자동 해제**하지만, 언제 실행될지는 **예측할 수 없다",
+  "bullets": "• GC는 메모리를 자동 해제**하지만, 언제 실행될지는 **예측할 수 없다**\n• 자주 하는 실수**는 “GC가 알아서 다 해결”한다고 믿고 **객체 생명주기 관리**를 소홀히 하는 것\n• 안티패턴**은 메모리 누수, 과도한 객체 생성, 불필요한 참조 유지다",
+  "path": "docs/cs/os/2026-07-08-garbage-collection.md"
 }
