@@ -1,72 +1,76 @@
-# Locks와 Deadlocks 핵심 정리
+# Locks와 Deadlocks
 
-- **Lock**은 공유 자원에 대한 **동시 접근을 제어**해 데이터 경쟁(race condition)을 막는다.
-- **Deadlock**은 둘 이상의 스레드가 서로의 자원을 기다리며 **영원히 멈추는 상태**다.
-- 실무에서는 **락 순서 통일**, **타임아웃**, **tryLock** 같은 전략으로 예방한다.
+- **Lock**은 여러 스레드가 같은 자원에 동시에 접근할 때 **임계 구역**을 보호한다.
+- **Deadlock**은 둘 이상의 스레드가 서로의 락을 기다리며 **영원히 멈춘 상태**다.
+- 실무에서는 **락 범위 최소화, 순서 통일, 타임아웃**이 핵심 대응이다.
 
 ## Concept explanation
 
-락은 임계 구역(Critical Section)을 보호한다. 예를 들어 Java에서는 `synchronized`나 `ReentrantLock`을 사용한다.
+락은 공유 자원의 일관성을 보장한다. 예를 들어 계좌 잔액을 수정할 때, 동시에 두 스레드가 읽고 쓰면 값이 꼬일 수 있다.
 
-```java
-class Counter {
-    private int value = 0;
+```python
+import threading
 
-    public synchronized void inc() {
-        value++;
-    }
-}
+balance = 1000
+lock = threading.Lock()
+
+def deposit():
+    global balance
+    with lock:
+        temp = balance
+        temp += 100
+        balance = temp
 ```
 
-위 코드는 한 번에 한 스레드만 `inc()`를 실행하게 해 `value++`의 비원자적 문제를 막는다.
+위 코드에서 `with lock`은 임계 구역 진입을 직렬화한다. 락이 없으면 `balance`가 레이스 컨디션에 노출된다.
 
-반면 데드락은 락을 **서로 다른 순서로** 잡을 때 자주 발생한다.
+데드락은 보통 **상호 배제, 점유와 대기, 비선점, 순환 대기** 4조건이 동시에 만족될 때 발생한다.
 
-```java
-class DeadlockExample {
-    private final Object lockA = new Object();
-    private final Object lockB = new Object();
+```python
+lock_a = threading.Lock()
+lock_b = threading.Lock()
 
-    void method1() {
-        synchronized (lockA) {
-            synchronized (lockB) {
-                System.out.println("A -> B");
-            }
-        }
-    }
+def task1():
+    with lock_a:
+        with lock_b:
+            print("task1")
 
-    void method2() {
-        synchronized (lockB) {
-            synchronized (lockA) {
-                System.out.println("B -> A");
-            }
-        }
-    }
-}
+def task2():
+    with lock_b:
+        with lock_a:
+            print("task2")
 ```
 
-`method1()`이 `lockA`를 잡고 `lockB`를 기다리는 동안, `method2()`는 `lockB`를 잡고 `lockA`를 기다릴 수 있다. 이때 둘 다 멈춘다.
-
-예방 포인트:
-```java
-// 1) 항상 같은 순서로 락 획득
-// 2) tryLock으로 실패 시 재시도
-// 3) 락 범위를 최소화
-```
+`task1`은 A를 잡고 B를 기다리고, `task2`는 B를 잡고 A를 기다리면 서로 영원히 막힌다.
 
 ## Short example or analogy
 
-은행 창구와 번호표를 생각하면 된다.  
-락은 **한 창구를 한 사람만 사용**하게 하는 것, 데드락은 **A 창구 번호표를 가진 사람과 B 창구 번호표를 가진 사람이 서로의 창구만 기다리는 상황**이다.
+은행 창구를 생각하면 된다. 한 명이 번호표를 받고 창구를 쓰는 동안 다른 사람은 기다린다.  
+그런데 A 창구 담당자가 B 문서를 기다리고, B 창구 담당자가 A 문서를 기다리면 둘 다 업무를 못 한다. 이것이 데드락이다.
 
-## Interview Questions
+실무 팁:
+```python
+# 항상 같은 순서로 락 획득
+with lock_a:
+    with lock_b:
+        pass
+```
 
-**Q1. Lock과 Deadlock의 차이는?**  
-A1. Lock은 안전한 동시성을 위한 제어 수단이고, Deadlock은 락 사용이 꼬여 스레드가 서로 대기만 하는 장애 상태다.
+```python
+# 타임아웃으로 무한 대기 방지
+acquired = lock_a.acquire(timeout=1)
+if not acquired:
+    raise TimeoutError()
+```
 
-**Q2. Deadlock을 어떻게 예방하나?**  
-A2. 락 획득 순서를 통일하고, 필요 시 `tryLock()`이나 timeout을 사용하며, 동시에 잡는 락 수를 줄인다.
+## Interview questions
+
+**Q1. 락과 뮤텍스는 같은가요?**  
+A. 좁게 보면 둘 다 동기화 도구다. 실무에서는 보통 뮤텍스를 상호배제용 락으로 이해하면 된다.
+
+**Q2. 데드락을 예방하는 방법은?**  
+A. 락 획득 순서를 통일하고, 락 범위를 줄이며, 타임아웃이나 try-lock을 사용한다.
 
 ## One-line takeaway
 
-**락은 경쟁을 막고, 데드락은 락 설계를 잘못했을 때 생기는 정지 상태다.**
+**락은 안전을, 데드락은 정지를 만든다; 핵심은 “적게 잡고, 같은 순서로, 빨리 놓는 것”이다.**

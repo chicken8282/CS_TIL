@@ -1,2 +1,3 @@
 # CS Notes — 자료구조
 - 2026-07-07 [LRU Cache](2026-07-07-lru-cache.md)
+- 2026-07-07 [LRU Cache: 가장 최근에 쓴 것만 남기는 캐시](2026-07-07-lru-cache.md)

@@ -32,3 +32,5 @@
 - 2026-07-02 [CI/CD 기본기](devops/2026-07-02-ci-cd-fundamentals.md)
 - 2026-07-04 [동기(Synchronous) vs 비동기(Asynchronous) 실행](devops/2026-07-04-synchronous-vs-asynchronous-execution.md)
 - 2026-07-07 [컨테이너 오케스트레이션(Container Orchestration)](devops/2026-07-07-container-orchestration.md)
+- 2026-07-07 [Locks와 Deadlocks](os/2026-07-07-locks-and-deadlocks.md)
+- 2026-07-07 [LRU Cache: 가장 최근에 쓴 것만 남기는 캐시](data-structures/2026-07-07-lru-cache.md)

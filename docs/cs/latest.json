@@ -1,10 +1,11 @@
 {
   "date": "2026-07-07",
-  "title": "Locks와 Deadlocks 핵심 정리",
+  "title": "Locks와 Deadlocks",
   "topic": "locks and deadlocks",
   "category": "os",
   "category_name": "운영체제",
   "angle": "코드 예제 중심으로",
-  "summary": "Lock**은 공유 자원에 대한 **동시 접근을 제어**해 데이터 경쟁(race condition)을 막는다.",
+  "summary": "Lock**은 여러 스레드가 같은 자원에 동시에 접근할 때 **임계 구역**을 보호한다.",
+  "bullets": "• Lock**은 여러 스레드가 같은 자원에 동시에 접근할 때 **임계 구역**을 보호한다.\n• Deadlock**은 둘 이상의 스레드가 서로의 락을 기다리며 **영원히 멈춘 상태**다.\n• 실무에서는 **락 범위 최소화, 순서 통일, 타임아웃**이 핵심 대응이다.",
   "path": "docs/cs/os/2026-07-07-locks-and-deadlocks.md"
 }
