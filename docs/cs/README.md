@@ -37,3 +37,6 @@
 - 2026-07-08 [가비지 컬렉션(Garbage Collection)](os/2026-07-08-garbage-collection.md)
 - 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)
 - 2026-07-08 [블루-그린 배포와 카나리 배포](devops/2026-07-08-blue-green-and-canary-deployment.md)
+- 2026-07-09 [메모리 지역성(Memory Locality)](os/2026-07-09-memory-locality.md)
+- 2026-07-09 [동적 계획법(Dynamic Programming, DP)](algorithms/2026-07-09-dynamic-programming.md)
+- 2026-07-09 [Infrastructure as Code(IaC)](devops/2026-07-09-infrastructure-as-code.md)

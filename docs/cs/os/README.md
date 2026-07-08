@@ -5,3 +5,4 @@
 - 2026-07-07 [Locks와 Deadlocks 핵심 정리](2026-07-07-locks-and-deadlocks.md)
 - 2026-07-07 [Locks와 Deadlocks](2026-07-07-locks-and-deadlocks.md)
 - 2026-07-08 [가비지 컬렉션(Garbage Collection)](2026-07-08-garbage-collection.md)
+- 2026-07-09 [메모리 지역성(Memory Locality)](2026-07-09-memory-locality.md)
