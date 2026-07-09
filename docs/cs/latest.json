@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-09",
-  "title": "메모리 지역성(Memory Locality)",
-  "topic": "memory locality",
+  "date": "2026-07-10",
+  "title": "컨텍스트 스위칭(Context Switching)",
+  "topic": "context switching",
   "category": "os",
   "category_name": "운영체제",
-  "angle": "초보자에게 비유로 설명하듯",
-  "summary": "시간 지역성**: 방금 쓴/읽은 데이터는 곧 다시 쓸 가능성이 큼",
-  "bullets": "• 시간 지역성**: 방금 쓴/읽은 데이터는 곧 다시 쓸 가능성이 큼\n• 공간 지역성**: 인접한 데이터도 곧 함께 접근할 가능성이 큼\n• 성능 핵심**: CPU 캐시를 잘 맞추면 메모리 접근이 빨라짐",
-  "path": "docs/cs/os/2026-07-09-memory-locality.md"
+  "angle": "현업 적용 사례 중심으로",
+  "summary": "정의**: CPU가 실행 중인 프로세스/스레드의 상태를 저장하고 다른 작업의 상태를 복원하는 과정",
+  "bullets": "• 정의**: CPU가 실행 중인 프로세스/스레드의 상태를 저장하고 다른 작업의 상태를 복원하는 과정\n• 핵심 비용**: 문맥 저장·복원, 캐시/TLB 미스, 스케줄링 오버헤드로 인해 “일은 안 하는데 시간은 쓰는” 구간 발생\n• 현업 포인트**: 동시성 높이려고 스레드를 무작정 늘리면 처리량이 오히려 떨어질 수 있음",
+  "path": "docs/cs/os/2026-07-10-context-switching.md"
 }

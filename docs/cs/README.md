@@ -40,3 +40,6 @@
 - 2026-07-09 [메모리 지역성(Memory Locality)](os/2026-07-09-memory-locality.md)
 - 2026-07-09 [동적 계획법(Dynamic Programming, DP)](algorithms/2026-07-09-dynamic-programming.md)
 - 2026-07-09 [Infrastructure as Code(IaC)](devops/2026-07-09-infrastructure-as-code.md)
+- 2026-07-10 [컨텍스트 스위칭(Context Switching)](os/2026-07-10-context-switching.md)
+- 2026-07-10 [이진 탐색(Binary Search) 면접 핵심 정리](algorithms/2026-07-10-binary-search.md)
+- 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)
