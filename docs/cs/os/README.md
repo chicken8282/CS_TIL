@@ -7,3 +7,4 @@
 - 2026-07-08 [가비지 컬렉션(Garbage Collection)](2026-07-08-garbage-collection.md)
 - 2026-07-09 [메모리 지역성(Memory Locality)](2026-07-09-memory-locality.md)
 - 2026-07-10 [컨텍스트 스위칭(Context Switching)](2026-07-10-context-switching.md)
+- 2026-07-11 [스케줄링 알고리즘](2026-07-11-scheduling-algorithms.md)

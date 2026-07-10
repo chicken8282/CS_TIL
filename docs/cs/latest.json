@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-10",
-  "title": "컨텍스트 스위칭(Context Switching)",
-  "topic": "context switching",
+  "date": "2026-07-11",
+  "title": "스케줄링 알고리즘",
+  "topic": "scheduling algorithms",
   "category": "os",
   "category_name": "운영체제",
-  "angle": "현업 적용 사례 중심으로",
-  "summary": "정의**: CPU가 실행 중인 프로세스/스레드의 상태를 저장하고 다른 작업의 상태를 복원하는 과정",
-  "bullets": "• 정의**: CPU가 실행 중인 프로세스/스레드의 상태를 저장하고 다른 작업의 상태를 복원하는 과정\n• 핵심 비용**: 문맥 저장·복원, 캐시/TLB 미스, 스케줄링 오버헤드로 인해 “일은 안 하는데 시간은 쓰는” 구간 발생\n• 현업 포인트**: 동시성 높이려고 스레드를 무작정 늘리면 처리량이 오히려 떨어질 수 있음",
-  "path": "docs/cs/os/2026-07-10-context-switching.md"
+  "angle": "면접 질문 중심으로",
+  "summary": "목적**: CPU 사용률, 처리량, 응답시간, 대기시간의 균형을 맞추는 것",
+  "bullets": "• 목적**: CPU 사용률, 처리량, 응답시간, 대기시간의 균형을 맞추는 것\n• 핵심 포인트**: 선점형/비선점형, 공정성, 우선순위, 기아(starvation) 발생 여부\n• 면접 포인트**: 각 알고리즘의 장단점과 `어떤 상황에 적합한지` 설명할 수 있어야 함",
+  "path": "docs/cs/os/2026-07-11-scheduling-algorithms.md"
 }

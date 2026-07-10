@@ -43,3 +43,6 @@
 - 2026-07-10 [컨텍스트 스위칭(Context Switching)](os/2026-07-10-context-switching.md)
 - 2026-07-10 [이진 탐색(Binary Search) 면접 핵심 정리](algorithms/2026-07-10-binary-search.md)
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)
+- 2026-07-11 [스케줄링 알고리즘](os/2026-07-11-scheduling-algorithms.md)
+- 2026-07-11 [그리디 알고리즘(Greedy Algorithm)](algorithms/2026-07-11-greedy-algorithms.md)
+- 2026-07-11 [Branch Prediction](computer-arch/2026-07-11-branch-prediction.md)
