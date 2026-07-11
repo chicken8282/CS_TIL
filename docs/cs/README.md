@@ -46,3 +46,6 @@
 - 2026-07-11 [스케줄링 알고리즘](os/2026-07-11-scheduling-algorithms.md)
 - 2026-07-11 [그리디 알고리즘(Greedy Algorithm)](algorithms/2026-07-11-greedy-algorithms.md)
 - 2026-07-11 [Branch Prediction](computer-arch/2026-07-11-branch-prediction.md)
+- 2026-07-12 [시스템 콜(System Call)](os/2026-07-12-system-calls.md)
+- 2026-07-12 [백트래킹(Backtracking): 가지치기로 탐색 비용 줄이기](algorithms/2026-07-12-backtracking.md)
+- 2026-07-12 [캐시 계층(Cache Hierarchy)과 성능 최적화](computer-arch/2026-07-12-cache-hierarchy.md)

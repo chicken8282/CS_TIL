@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-11",
-  "title": "스케줄링 알고리즘",
-  "topic": "scheduling algorithms",
+  "date": "2026-07-12",
+  "title": "시스템 콜(System Call)",
+  "topic": "system calls",
   "category": "os",
   "category_name": "운영체제",
-  "angle": "면접 질문 중심으로",
-  "summary": "목적**: CPU 사용률, 처리량, 응답시간, 대기시간의 균형을 맞추는 것",
-  "bullets": "• 목적**: CPU 사용률, 처리량, 응답시간, 대기시간의 균형을 맞추는 것\n• 핵심 포인트**: 선점형/비선점형, 공정성, 우선순위, 기아(starvation) 발생 여부\n• 면접 포인트**: 각 알고리즘의 장단점과 `어떤 상황에 적합한지` 설명할 수 있어야 함",
-  "path": "docs/cs/os/2026-07-11-scheduling-algorithms.md"
+  "angle": "실무 트러블슈팅 관점으로",
+  "summary": "유저 모드에서 커널 모드로 들어가는 공식 경로**다.",
+  "bullets": "• 유저 모드에서 커널 모드로 들어가는 공식 경로**다.\n• 파일 I/O, 네트워크, 프로세스 제어** 같은 OS 자원을 쓰려면 결국 시스템 콜을 거친다.\n• 실무 트러블슈팅의 핵심 단서**는 `errno`, 지연 시간, 블로킹 여부, 권한/FD 상태다.",
+  "path": "docs/cs/os/2026-07-12-system-calls.md"
 }
