@@ -49,3 +49,6 @@
 - 2026-07-12 [시스템 콜(System Call)](os/2026-07-12-system-calls.md)
 - 2026-07-12 [백트래킹(Backtracking): 가지치기로 탐색 비용 줄이기](algorithms/2026-07-12-backtracking.md)
 - 2026-07-12 [캐시 계층(Cache Hierarchy)과 성능 최적화](computer-arch/2026-07-12-cache-hierarchy.md)
+- 2026-07-13 [IPC(Inter-Process Communication)](os/2026-07-13-ipc-inter-process-communication.md)
+- 2026-07-13 [투 포인터와 슬라이딩 윈도우: 성능 최적화 핵심 패턴](algorithms/2026-07-13-two-pointers-and-sliding-window.md)
+- 2026-07-13 [RISC vs CISC: 명령어 집합 설계의 차이](computer-arch/2026-07-13-risc-vs-cisc.md)

@@ -9,3 +9,4 @@
 - 2026-07-10 [컨텍스트 스위칭(Context Switching)](2026-07-10-context-switching.md)
 - 2026-07-11 [스케줄링 알고리즘](2026-07-11-scheduling-algorithms.md)
 - 2026-07-12 [시스템 콜(System Call)](2026-07-12-system-calls.md)
+- 2026-07-13 [IPC(Inter-Process Communication)](2026-07-13-ipc-inter-process-communication.md)

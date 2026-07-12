@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-12",
-  "title": "시스템 콜(System Call)",
-  "topic": "system calls",
+  "date": "2026-07-13",
+  "title": "IPC(Inter-Process Communication)",
+  "topic": "IPC (inter-process communication)",
   "category": "os",
   "category_name": "운영체제",
-  "angle": "실무 트러블슈팅 관점으로",
-  "summary": "유저 모드에서 커널 모드로 들어가는 공식 경로**다.",
-  "bullets": "• 유저 모드에서 커널 모드로 들어가는 공식 경로**다.\n• 파일 I/O, 네트워크, 프로세스 제어** 같은 OS 자원을 쓰려면 결국 시스템 콜을 거친다.\n• 실무 트러블슈팅의 핵심 단서**는 `errno`, 지연 시간, 블로킹 여부, 권한/FD 상태다.",
-  "path": "docs/cs/os/2026-07-12-system-calls.md"
+  "angle": "내부 구현 관점으로",
+  "summary": "서로 다른 프로세스는 **메모리 주소 공간이 분리**되어 있어 직접 데이터를 읽지 못한다.",
+  "bullets": "• 서로 다른 프로세스는 **메모리 주소 공간이 분리**되어 있어 직접 데이터를 읽지 못한다.\n• IPC는 **커널을 경유한 데이터 전달**과 **동기화**를 통해 프로세스 간 협업을 가능하게 한다.\n• 구현 관점에서 핵심은 **복사 비용, 블로킹/논블로킹, 동기화 원자성**이다.",
+  "path": "docs/cs/os/2026-07-13-ipc-inter-process-communication.md"
 }
