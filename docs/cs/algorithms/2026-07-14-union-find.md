@@ -39,14 +39,14 @@ class UnionFind:
 
 ```mermaid
 flowchart TD
-A[원소 x] --> B[find(x)]
+A[원소 x] --> B["find(x)"]
 B --> C{루트인가?}
-C -- 아니오 --> D[부모를 따라감]
+C -->|아니오| D[부모를 따라감]
 D --> B
-C -- 예 --> E[대표 원소 반환]
-F[union(a,b)] --> G[각 루트 찾기]
+C -->|예| E[대표 원소 반환]
+F["union(a, b)"] --> G[각 루트 찾기]
 G --> H{같은 집합?}
-H -- 아니오 --> I[작은 트리를 큰 트리에 연결]
+H -->|아니오| I[작은 트리를 큰 트리에 연결]
 ```
 
 ## Interview questions
