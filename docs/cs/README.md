@@ -61,3 +61,6 @@
 - 2026-07-14 [페이징과 세그먼테이션: 성능 최적화 관점](os/2026-07-14-paging-and-segmentation.md)
 - 2026-07-14 [Union-Find(Disjoint Set Union)](algorithms/2026-07-14-union-find.md)
 - 2026-07-14 [Out-of-Order Execution: 자주 하는 실수와 안티패턴](computer-arch/2026-07-14-out-of-order-execution.md)
+- 2026-07-14 [동기 실행과 비동기 실행: 성능 최적화 관점](devops/2026-07-14-synchronous-vs-asynchronous-execution.md)
+- 2026-07-14 [캐시 계층(Cache Hierarchy)](computer-arch/2026-07-14-cache-hierarchy.md)
+- 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)

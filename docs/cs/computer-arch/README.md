@@ -6,3 +6,4 @@
 - 2026-07-13 [RISC vs CISC](2026-07-13-risc-vs-cisc.md)
 - 2026-07-14 [Out-of-Order Execution](2026-07-14-out-of-order-execution.md)
 - 2026-07-14 [Out-of-Order Execution: 자주 하는 실수와 안티패턴](2026-07-14-out-of-order-execution.md)
+- 2026-07-14 [캐시 계층(Cache Hierarchy)](2026-07-14-cache-hierarchy.md)
