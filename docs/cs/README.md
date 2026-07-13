@@ -52,3 +52,6 @@
 - 2026-07-13 [IPC(Inter-Process Communication)](os/2026-07-13-ipc-inter-process-communication.md)
 - 2026-07-13 [투 포인터와 슬라이딩 윈도우: 성능 최적화 핵심 패턴](algorithms/2026-07-13-two-pointers-and-sliding-window.md)
 - 2026-07-13 [RISC vs CISC: 명령어 집합 설계의 차이](computer-arch/2026-07-13-risc-vs-cisc.md)
+- 2026-07-13 [IPC (Inter-Process Communication)](os/2026-07-13-ipc-inter-process-communication.md)
+- 2026-07-13 [Two Pointers와 Sliding Window](algorithms/2026-07-13-two-pointers-and-sliding-window.md)
+- 2026-07-13 [RISC vs CISC](computer-arch/2026-07-13-risc-vs-cisc.md)
