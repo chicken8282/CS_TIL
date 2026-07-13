@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-13",
-  "title": "IPC (Inter-Process Communication)",
-  "topic": "IPC (inter-process communication)",
+  "date": "2026-07-14",
+  "title": "Paging과 Segmentation",
+  "topic": "paging and segmentation",
   "category": "os",
   "category_name": "운영체제",
-  "angle": "내부 구현 관점으로",
-  "summary": "프로세스는 기본적으로 **독립된 주소 공간**을 가지므로, 통신은 커널을 경유하는 경우가 많다.",
-  "bullets": "• 프로세스는 기본적으로 **독립된 주소 공간**을 가지므로, 통신은 커널을 경유하는 경우가 많다.\n• IPC의 핵심은 **데이터 전달 + 동기화 + 권한/오버헤드 관리**이다.\n• 구현 관점에서는 **copy 비용, 블로킹, 스케줄링, 커널 버퍼 관리**가 성능을 좌우한다.",
-  "path": "docs/cs/os/2026-07-13-ipc-inter-process-communication.md"
+  "angle": "성능 최적화 관점으로",
+  "summary": "Paging**은 메모리를 고정 크기 페이지/프레임으로 나눠 **외부 단편화**를 줄이고, 주소 변환을 빠르게 한다.",
+  "bullets": "• Paging**은 메모리를 고정 크기 페이지/프레임으로 나눠 **외부 단편화**를 줄이고, 주소 변환을 빠르게 한다.\n• Segmentation**은 코드/힙/스택 같은 **논리적 단위**로 나눠 보호와 공유가 쉽지만, **외부 단편화**가 생기기 쉽다.\n• 성능 관점에서는 paging이 일반적으로 유리하고, 실제 시스템은 **세그먼트 개념을 논리 모델로 두고 paging으로 물리 배치**를 최적화한다.",
+  "path": "docs/cs/os/2026-07-14-paging-and-segmentation.md"
 }

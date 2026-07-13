@@ -11,3 +11,4 @@
 - 2026-07-12 [시스템 콜(System Call)](2026-07-12-system-calls.md)
 - 2026-07-13 [IPC(Inter-Process Communication)](2026-07-13-ipc-inter-process-communication.md)
 - 2026-07-13 [IPC (Inter-Process Communication)](2026-07-13-ipc-inter-process-communication.md)
+- 2026-07-14 [Paging과 Segmentation](2026-07-14-paging-and-segmentation.md)

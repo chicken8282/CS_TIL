@@ -55,3 +55,6 @@
 - 2026-07-13 [IPC (Inter-Process Communication)](os/2026-07-13-ipc-inter-process-communication.md)
 - 2026-07-13 [Two Pointers와 Sliding Window](algorithms/2026-07-13-two-pointers-and-sliding-window.md)
 - 2026-07-13 [RISC vs CISC](computer-arch/2026-07-13-risc-vs-cisc.md)
+- 2026-07-14 [Paging과 Segmentation](os/2026-07-14-paging-and-segmentation.md)
+- 2026-07-14 [Union-Find(Disjoint Set)](algorithms/2026-07-14-union-find.md)
+- 2026-07-14 [Out-of-Order Execution](computer-arch/2026-07-14-out-of-order-execution.md)
