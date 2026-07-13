@@ -58,3 +58,6 @@
 - 2026-07-14 [Paging과 Segmentation](os/2026-07-14-paging-and-segmentation.md)
 - 2026-07-14 [Union-Find(Disjoint Set)](algorithms/2026-07-14-union-find.md)
 - 2026-07-14 [Out-of-Order Execution](computer-arch/2026-07-14-out-of-order-execution.md)
+- 2026-07-14 [페이징과 세그먼테이션: 성능 최적화 관점](os/2026-07-14-paging-and-segmentation.md)
+- 2026-07-14 [Union-Find(Disjoint Set Union)](algorithms/2026-07-14-union-find.md)
+- 2026-07-14 [Out-of-Order Execution: 자주 하는 실수와 안티패턴](computer-arch/2026-07-14-out-of-order-execution.md)

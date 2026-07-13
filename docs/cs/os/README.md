@@ -12,3 +12,4 @@
 - 2026-07-13 [IPC(Inter-Process Communication)](2026-07-13-ipc-inter-process-communication.md)
 - 2026-07-13 [IPC (Inter-Process Communication)](2026-07-13-ipc-inter-process-communication.md)
 - 2026-07-14 [Paging과 Segmentation](2026-07-14-paging-and-segmentation.md)
+- 2026-07-14 [페이징과 세그먼테이션: 성능 최적화 관점](2026-07-14-paging-and-segmentation.md)

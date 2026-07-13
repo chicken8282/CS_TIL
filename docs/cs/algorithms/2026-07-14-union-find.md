@@ -1,60 +1,70 @@
-# Union-Find(Disjoint Set)
+# Union-Find(Disjoint Set Union)
 
-- **서로소 집합 관리**: 여러 원소가 어떤 그룹에 속하는지 빠르게 추적한다.
-- **연산 2개가 핵심**: `find`로 대표 원소를 찾고, `union`으로 두 집합을 합친다.
-- **최적화가 중요**: 경로 압축(path compression)과 union by rank/size를 쓰면 거의 O(1)에 가깝게 동작한다.
+- 서로소 집합을 관리하며, 두 원소가 같은 그룹인지 빠르게 확인한다.
+- `find`는 대표 노드를 찾고, `union`은 두 그룹을 합친다.
+- 경로 압축과 union by size/rank를 함께 사용하면 연산당 평균 시간 복잡도는 `O(α(N))`으로 사실상 상수 시간이다.
 
-## Concept explanation
+## 개념 설명
 
-Union-Find는 **집합을 트리 형태로 표현**하는 자료구조다. 각 원소는 부모를 가지며, 같은 집합의 최상단 대표 원소를 **루트(root)** 라고 한다.  
-`find(x)`는 x의 루트를 찾는다. 이때 매번 부모를 루트로 갱신하는 **경로 압축**을 하면 이후 조회가 빨라진다.  
-`union(a, b)`는 두 원소의 루트를 비교해 다른 집합이면 한쪽을 다른 쪽 아래에 붙인다. 보통 **랭크/사이즈가 작은 트리**를 큰 트리 밑에 붙여 높이를 줄인다.
+Union-Find는 여러 원소를 서로 겹치지 않는 집합으로 나누고, 집합 간 연결 관계를 관리하는 자료구조다. 초기에는 모든 원소가 자기 자신을 대표로 가지는 독립 집합이다. 두 원소를 연결하면 각 집합의 대표를 찾아 하나의 집합으로 합친다.
 
-실무/면접에서 자주 쓰이는 경우:
-- **사이클 판별**: 무방향 그래프에서 간선을 추가할 때 두 정점의 루트가 같으면 사이클
-- **네트워크 연결성**: 친구 관계, 섬 연결, 계정 그룹 병합
-- **Kruskal MST**: 간선 선택 시 같은 집합인지 빠르게 체크
+핵심 연산은 두 가지다. `find(x)`는 `x`가 속한 집합의 대표를 반환한다. 대표가 같으면 두 원소는 같은 집합에 속한다. `union(a, b)`는 `a`, `b`의 대표가 다를 때 두 집합을 병합한다.
 
-## Code example
+트리 형태로 부모를 저장하며, `parent[x] == x`이면 `x`가 대표다. `find` 수행 중 부모를 대표로 직접 바꾸는 **경로 압축**을 적용하면 다음 탐색이 빨라진다. 또한 작은 트리를 큰 트리 아래에 붙이는 **union by size**를 사용하면 트리가 불필요하게 깊어지는 것을 막을 수 있다.
+
+대표적인 활용 사례는 크루스칼 최소 신장 트리, 네트워크 연결성 검사, 사이클 탐지, 온라인으로 추가되는 친구 관계나 도로 연결 문제다. 단, 집합을 분리하거나 연결 삭제를 처리하는 기능은 기본 Union-Find만으로 어렵다.
+
+## 코드 예제
 
 ```python
-class UnionFind:
+class DSU:
     def __init__(self, n):
-        self.p = list(range(n))
-        self.r = [0]*n
+        self.parent = list(range(n))
+        self.size = [1] * n
 
     def find(self, x):
-        if self.p[x] != x:
-            self.p[x] = self.find(self.p[x])
-        return self.p[x]
+        if self.parent[x] != x:
+            self.parent[x] = self.find(self.parent[x])
+        return self.parent[x]
 
     def union(self, a, b):
         a, b = self.find(a), self.find(b)
-        if a == b: return False
-        if self.r[a] < self.r[b]: a, b = b, a
-        self.p[b] = a
-        if self.r[a] == self.r[b]: self.r[a] += 1
+        if a == b:
+            return False
+        if self.size[a] < self.size[b]:
+            a, b = b, a
+        self.parent[b] = a
+        self.size[a] += self.size[b]
         return True
+
+dsu = DSU(5)
+dsu.union(0, 1)
+dsu.union(1, 2)
+print(dsu.find(0) == dsu.find(2))  # True
 ```
+
+## 동작 흐름
 
 ```mermaid
-flowchart TD
-A[원소 x] --> B["find(x)"]
-B --> C{루트인가?}
-C -->|아니오| D[부모를 따라감]
-D --> B
-C -->|예| E[대표 원소 반환]
-F["union(a, b)"] --> G[각 루트 찾기]
-G --> H{같은 집합?}
-H -->|아니오| I[작은 트리를 큰 트리에 연결]
+flowchart LR
+    A["union(a, b)"] --> B["find(a)"]
+    A --> C["find(b)"]
+    B --> D{"대표가 같은가?"}
+    C --> D
+    D -->|예| E["이미 같은 집합"]
+    D -->|아니오| F["크기 비교 후 부모 연결"]
 ```
 
-## Interview questions
+## 면접 질문
 
-1. **경로 압축을 왜 쓰나요?**  
-   `find`를 반복할수록 트리가 평평해져 전체 성능이 크게 좋아집니다.
+### 1. 경로 압축만 사용해도 충분한가?
 
-2. **union by rank와 size의 차이는?**  
-   rank는 높이 추정값, size는 집합 크기 기준입니다. 둘 다 트리 균형을 유지하는 목적입니다.
+정확성에는 문제가 없지만 최악의 경우 트리가 길어질 수 있다. 경로 압축과 union by size 또는 rank를 함께 사용해야 안정적으로 거의 상수 시간 성능을 얻는다.
 
-**Takeaway:** Union-Find는 “같은 그룹인지 빠르게 판단하고 합치는” 문제의 표준 해법이다.
+### 2. Union-Find로 방향 그래프의 사이클을 판별할 수 있는가?
+
+일반적으로 무방향 그래프의 사이클 판별에 적합하다. 간선을 추가하기 전에 두 정점의 대표가 같다면 이미 연결된 경로가 있어 해당 간선이 사이클을 만든다. 방향 그래프는 DFS의 방문 상태나 위상 정렬을 주로 사용한다.
+
+## 한 줄 정리
+
+Union-Find는 **경로 압축과 크기 기반 병합으로 동적 연결 관계를 빠르게 관리하는 자료구조**다.
