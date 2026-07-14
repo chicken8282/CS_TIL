@@ -64,3 +64,6 @@
 - 2026-07-14 [동기 실행과 비동기 실행: 성능 최적화 관점](devops/2026-07-14-synchronous-vs-asynchronous-execution.md)
 - 2026-07-14 [캐시 계층(Cache Hierarchy)](computer-arch/2026-07-14-cache-hierarchy.md)
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
+- 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
+- 2026-07-15 [Lock과 Deadlock: 자주 하는 실수와 안티패턴](os/2026-07-15-locks-and-deadlocks.md)
+- 2026-07-15 [로드 밸런싱(Load Balancing)](network/2026-07-15-load-balancing.md)
