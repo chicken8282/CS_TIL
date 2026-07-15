@@ -67,3 +67,6 @@
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
 - 2026-07-15 [Lock과 Deadlock: 자주 하는 실수와 안티패턴](os/2026-07-15-locks-and-deadlocks.md)
 - 2026-07-15 [로드 밸런싱(Load Balancing)](network/2026-07-15-load-balancing.md)
+- 2026-07-16 [커넥션 풀링(Connection Pooling)](database/2026-07-16-connection-pooling.md)
+- 2026-07-16 [Trie(트라이): 문자열을 나무처럼 저장하는 자료구조](data-structures/2026-07-16-trie.md)
+- 2026-07-16 [최단 경로 알고리즘](algorithms/2026-07-16-shortest-path-algorithms.md)
