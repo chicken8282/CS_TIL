@@ -70,3 +70,6 @@
 - 2026-07-16 [커넥션 풀링(Connection Pooling)](database/2026-07-16-connection-pooling.md)
 - 2026-07-16 [Trie(트라이): 문자열을 나무처럼 저장하는 자료구조](data-structures/2026-07-16-trie.md)
 - 2026-07-16 [최단 경로 알고리즘](algorithms/2026-07-16-shortest-path-algorithms.md)
+- 2026-07-17 [HTTPS와 인증서](web-security/2026-07-17-https-and-certificate.md)
+- 2026-07-17 [API Gateway](system-design/2026-07-17-api-gateway.md)
+- 2026-07-17 [Blue-Green 및 Canary 배포](devops/2026-07-17-blue-green-and-canary-deployment.md)

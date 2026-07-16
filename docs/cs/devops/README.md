@@ -7,3 +7,4 @@
 - 2026-07-08 [블루-그린 배포와 카나리 배포](2026-07-08-blue-green-and-canary-deployment.md)
 - 2026-07-09 [Infrastructure as Code(IaC)](2026-07-09-infrastructure-as-code.md)
 - 2026-07-14 [동기 실행과 비동기 실행: 성능 최적화 관점](2026-07-14-synchronous-vs-asynchronous-execution.md)
+- 2026-07-17 [Blue-Green 및 Canary 배포](2026-07-17-blue-green-and-canary-deployment.md)
