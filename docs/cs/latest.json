@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-17",
-  "title": "HTTPS와 인증서",
-  "topic": "HTTPS and certificate",
-  "category": "web-security",
-  "category_name": "웹/보안",
-  "angle": "초보자에게 비유로 설명하듯",
-  "summary": "HTTPS = HTTP + TLS**: 통신 내용을 암호화해 도청을 막는다.",
-  "bullets": "• HTTPS = HTTP + TLS**: 통신 내용을 암호화해 도청을 막는다.\n• 인증서의 핵심 역할**: 접속한 서버가 진짜 `example.com`인지 증명한다.\n• TLS 핸드셰이크 후**: 공개키 암호로 안전하게 세션 키를 교환하고, 실제 데이터는 빠른 대칭키로 주고받는다.",
-  "path": "docs/cs/web-security/2026-07-17-https-and-certificate.md"
+  "date": "2026-07-18",
+  "title": "부동소수점 표현과 실무에서의 오차 처리",
+  "topic": "floating point representation",
+  "category": "computer-arch",
+  "category_name": "컴퓨터 구조",
+  "angle": "현업 적용 사례 중심으로",
+  "summary": "실수는 대부분 이진수로 정확히 표현되지 않으므로 `0.1 + 0.2 != 0.3` 같은 오차가 발생한다.",
+  "bullets": "• 실수는 대부분 이진수로 정확히 표현되지 않으므로 `0.1 + 0.2 != 0.3` 같은 오차가 발생한다.\n• IEEE 754는 부호, 지수, 가수로 값을 저장하며, `float64`도 모든 실수를 무한 정밀도로 표현하지 못한다.\n• 금액·수량·비교 로직에서는 부동소수점을 그대로 사용하지 말고 정수 단위, 고정소수점, `Decimal` 등을 선택해야 한다.",
+  "path": "docs/cs/computer-arch/2026-07-18-floating-point-representation.md"
 }

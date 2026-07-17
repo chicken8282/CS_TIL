@@ -73,3 +73,6 @@
 - 2026-07-17 [HTTPS와 인증서](web-security/2026-07-17-https-and-certificate.md)
 - 2026-07-17 [API Gateway](system-design/2026-07-17-api-gateway.md)
 - 2026-07-17 [Blue-Green 및 Canary 배포](devops/2026-07-17-blue-green-and-canary-deployment.md)
+- 2026-07-18 [부동소수점 표현과 실무에서의 오차 처리](computer-arch/2026-07-18-floating-point-representation.md)
+- 2026-07-18 [Prefetching](memory/2026-07-18-prefetching.md)
+- 2026-07-18 [RAG(Retrieval-Augmented Generation) 실무 트러블슈팅](ai-ml/2026-07-18-rag-retrieval-augmented-generation.md)
