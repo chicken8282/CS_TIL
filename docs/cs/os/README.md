@@ -14,3 +14,4 @@
 - 2026-07-14 [Paging과 Segmentation](2026-07-14-paging-and-segmentation.md)
 - 2026-07-14 [페이징과 세그먼테이션: 성능 최적화 관점](2026-07-14-paging-and-segmentation.md)
 - 2026-07-15 [Lock과 Deadlock: 자주 하는 실수와 안티패턴](2026-07-15-locks-and-deadlocks.md)
+- 2026-07-19 [스케줄링 알고리즘](2026-07-19-scheduling-algorithms.md)
