@@ -79,3 +79,6 @@
 - 2026-07-19 [스케줄링 알고리즘](os/2026-07-19-scheduling-algorithms.md)
 - 2026-07-19 [CORS 실무 트러블슈팅](network/2026-07-19-cors.md)
 - 2026-07-19 [데이터베이스 인덱스의 내부 구현](database/2026-07-19-database-indexes.md)
+- 2026-07-20 [B-Tree](data-structures/2026-07-20-b-tree.md)
+- 2026-07-20 [동적 계획법(Dynamic Programming)](algorithms/2026-07-20-dynamic-programming.md)
+- 2026-07-20 [OAuth 2.0 성능 최적화](web-security/2026-07-20-oauth-2-0.md)
