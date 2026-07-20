@@ -82,3 +82,6 @@
 - 2026-07-20 [B-Tree](data-structures/2026-07-20-b-tree.md)
 - 2026-07-20 [동적 계획법(Dynamic Programming)](algorithms/2026-07-20-dynamic-programming.md)
 - 2026-07-20 [OAuth 2.0 성능 최적화](web-security/2026-07-20-oauth-2-0.md)
+- 2026-07-21 [캐시 무효화(Cache Invalidation)](system-design/2026-07-21-cache-invalidation.md)
+- 2026-07-21 [동기 실행과 비동기 실행: 성능 최적화 관점](devops/2026-07-21-synchronous-vs-asynchronous-execution.md)
+- 2026-07-21 [CPU 파이프라인](computer-arch/2026-07-21-cpu-pipeline.md)

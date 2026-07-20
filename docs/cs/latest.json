@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-20",
-  "title": "B-Tree",
-  "topic": "B-Tree",
-  "category": "data-structures",
-  "category_name": "자료구조",
-  "angle": "실무 트러블슈팅 관점으로",
-  "summary": "다진 균형 탐색 트리**로, 한 노드에 여러 키와 자식 포인터를 저장해 트리 높이를 낮춘다.",
-  "bullets": "• 다진 균형 탐색 트리**로, 한 노드에 여러 키와 자식 포인터를 저장해 트리 높이를 낮춘다.\n• 데이터베이스 인덱스에서 디스크 I/O를 줄이는 핵심 구조이며, 탐색·삽입·삭제 평균 비용은 `O(log N)`이다.\n• 실무에서는 자료구조 자체보다 **인덱스 선택, 카디널리티, 랜덤 I/O, 페이지 분할**을 함께 진단해야 한다.",
-  "path": "docs/cs/data-structures/2026-07-20-b-tree.md"
+  "date": "2026-07-21",
+  "title": "캐시 무효화(Cache Invalidation)",
+  "topic": "cache invalidation",
+  "category": "system-design",
+  "category_name": "시스템 설계",
+  "angle": "내부 구현 관점으로",
+  "summary": "정확성의 핵심은 원본 데이터와 캐시의 일관성**이며, 만료 시간만으로는 즉시 반영을 보장할 수 없다.",
+  "bullets": "• 정확성의 핵심은 원본 데이터와 캐시의 일관성**이며, 만료 시간만으로는 즉시 반영을 보장할 수 없다.\n• 내부적으로는 `키 생성 규칙`, `TTL`, `삭제/갱신 순서`, `동시성 제어`가 무효화 품질을 결정한다.\n• 분산 환경에서는 무효화 이벤트 전달 실패, 네트워크 지연, 장애 복구 시 재동기화까지 고려해야 한다.",
+  "path": "docs/cs/system-design/2026-07-21-cache-invalidation.md"
 }
