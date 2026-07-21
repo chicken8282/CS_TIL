@@ -85,3 +85,6 @@
 - 2026-07-21 [캐시 무효화(Cache Invalidation)](system-design/2026-07-21-cache-invalidation.md)
 - 2026-07-21 [동기 실행과 비동기 실행: 성능 최적화 관점](devops/2026-07-21-synchronous-vs-asynchronous-execution.md)
 - 2026-07-21 [CPU 파이프라인](computer-arch/2026-07-21-cpu-pipeline.md)
+- 2026-07-22 [메모리 매핑 파일과 성능 최적화](memory/2026-07-22-memory-mapped-files.md)
+- 2026-07-22 [벡터 데이터베이스와 임베딩](ai-ml/2026-07-22-vector-databases-and-embeddings.md)
+- 2026-07-22 [페이징과 세그멘테이션: 자주 하는 실수와 안티패턴](os/2026-07-22-paging-and-segmentation.md)
