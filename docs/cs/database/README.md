@@ -4,3 +4,4 @@
 - 2026-07-07 [데이터베이스 인덱스(Database Indexes)](2026-07-07-database-indexes.md)
 - 2026-07-16 [커넥션 풀링(Connection Pooling)](2026-07-16-connection-pooling.md)
 - 2026-07-19 [데이터베이스 인덱스의 내부 구현](2026-07-19-database-indexes.md)
+- 2026-07-23 [쿼리 최적화: 자주 하는 실수와 안티패턴](2026-07-23-query-optimization.md)
