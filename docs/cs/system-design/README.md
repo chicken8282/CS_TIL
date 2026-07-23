@@ -6,3 +6,4 @@
 - 2026-06-27 [Consistency Models 정리](2026-06-27-consistency-models.md)
 - 2026-07-17 [API Gateway](2026-07-17-api-gateway.md)
 - 2026-07-21 [캐시 무효화(Cache Invalidation)](2026-07-21-cache-invalidation.md)
+- 2026-07-24 [Event Sourcing과 CQRS: 변경 이력을 중심으로 설계하기](2026-07-24-event-sourcing-and-cqrs.md)
