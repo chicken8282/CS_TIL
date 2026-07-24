@@ -94,3 +94,6 @@
 - 2026-07-24 [투 포인터와 슬라이딩 윈도우](algorithms/2026-07-24-two-pointers-and-sliding-window.md)
 - 2026-07-24 [SQL Injection](web-security/2026-07-24-sql-injection.md)
 - 2026-07-24 [Event Sourcing과 CQRS: 변경 이력을 중심으로 설계하기](system-design/2026-07-24-event-sourcing-and-cqrs.md)
+- 2026-07-25 [Infrastructure as Code란?](devops/2026-07-25-infrastructure-as-code.md)
+- 2026-07-25 [Out-of-Order Execution(비순차 실행)](computer-arch/2026-07-25-out-of-order-execution.md)
+- 2026-07-25 [메모리 단편화](memory/2026-07-25-memory-fragmentation.md)
