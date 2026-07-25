@@ -97,3 +97,6 @@
 - 2026-07-25 [Infrastructure as Code란?](devops/2026-07-25-infrastructure-as-code.md)
 - 2026-07-25 [Out-of-Order Execution(비순차 실행)](computer-arch/2026-07-25-out-of-order-execution.md)
 - 2026-07-25 [메모리 단편화](memory/2026-07-25-memory-fragmentation.md)
+- 2026-07-26 [모델 평가와 환각(Hallucination)](ai-ml/2026-07-26-model-evaluation-and-hallucination.md)
+- 2026-07-26 [Garbage Collection(GC)](os/2026-07-26-garbage-collection.md)
+- 2026-07-26 [TLS 핸드셰이크: 실무 트러블슈팅 중심 정리](network/2026-07-26-tls-handshake.md)
