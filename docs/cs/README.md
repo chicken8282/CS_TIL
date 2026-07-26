@@ -100,3 +100,6 @@
 - 2026-07-26 [모델 평가와 환각(Hallucination)](ai-ml/2026-07-26-model-evaluation-and-hallucination.md)
 - 2026-07-26 [Garbage Collection(GC)](os/2026-07-26-garbage-collection.md)
 - 2026-07-26 [TLS 핸드셰이크: 실무 트러블슈팅 중심 정리](network/2026-07-26-tls-handshake.md)
+- 2026-07-27 [데이터베이스 인덱스](database/2026-07-27-database-indexes.md)
+- 2026-07-27 [해시 테이블: 평균 O(1)의 함정과 실무 트러블슈팅](data-structures/2026-07-27-hash-tables.md)
+- 2026-07-27 [최단 경로 알고리즘](algorithms/2026-07-27-shortest-path-algorithms.md)

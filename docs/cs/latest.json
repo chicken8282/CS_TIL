@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-26",
-  "title": "모델 평가와 환각(Hallucination)",
-  "topic": "model evaluation and hallucination",
-  "category": "ai-ml",
-  "category_name": "AI/ML",
-  "angle": "현업 적용 사례 중심으로",
-  "summary": "모델 평가는 정확도 하나가 아니라** 사실성, 관련성, 일관성, 안전성, 비용, 지연시간을 함께 측정해야 한다.",
-  "bullets": "• 모델 평가는 정확도 하나가 아니라** 사실성, 관련성, 일관성, 안전성, 비용, 지연시간을 함께 측정해야 한다.\n• 환각은 그럴듯하지만 근거가 없거나 틀린 답변**이며, 검색·생성 결합(RAG), 출처 표시, 답변 거부 정책으로 줄인다.\n• 현업에서는 오프라인 평가와 운영 중 모니터링을 연결**해 배포 전 품질과 배포 후 회귀(regression)를 모두 관리한다.",
-  "path": "docs/cs/ai-ml/2026-07-26-model-evaluation-and-hallucination.md"
+  "date": "2026-07-27",
+  "title": "데이터베이스 인덱스",
+  "topic": "database indexes",
+  "category": "database",
+  "category_name": "데이터베이스",
+  "angle": "면접 질문 중심으로",
+  "summary": "인덱스는 검색 속도를 높이는 대신 저장 공간과 쓰기 비용을 추가한다.",
+  "bullets": "• 인덱스는 검색 속도를 높이는 대신 저장 공간과 쓰기 비용을 추가한다.\n• 복합 인덱스는 컬럼 순서가 중요하며, 일반적으로 선택도가 높고 자주 조건에 사용되는 컬럼을 앞에 둔다.\n• 인덱스가 있어도 옵티마이저가 비용을 계산해 테이블 전체 스캔을 선택할 수 있다.",
+  "path": "docs/cs/database/2026-07-27-database-indexes.md"
 }
