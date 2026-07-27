@@ -6,3 +6,4 @@
 - 2026-07-17 [HTTPS와 인증서](2026-07-17-https-and-certificate.md)
 - 2026-07-20 [OAuth 2.0 성능 최적화](2026-07-20-oauth-2-0.md)
 - 2026-07-24 [SQL Injection](2026-07-24-sql-injection.md)
+- 2026-07-28 [OAuth 2.0 실무 트러블슈팅](2026-07-28-oauth-2-0.md)

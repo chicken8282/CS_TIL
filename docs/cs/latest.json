@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-27",
-  "title": "데이터베이스 인덱스",
-  "topic": "database indexes",
-  "category": "database",
-  "category_name": "데이터베이스",
-  "angle": "면접 질문 중심으로",
-  "summary": "인덱스는 검색 속도를 높이는 대신 저장 공간과 쓰기 비용을 추가한다.",
-  "bullets": "• 인덱스는 검색 속도를 높이는 대신 저장 공간과 쓰기 비용을 추가한다.\n• 복합 인덱스는 컬럼 순서가 중요하며, 일반적으로 선택도가 높고 자주 조건에 사용되는 컬럼을 앞에 둔다.\n• 인덱스가 있어도 옵티마이저가 비용을 계산해 테이블 전체 스캔을 선택할 수 있다.",
-  "path": "docs/cs/database/2026-07-27-database-indexes.md"
+  "date": "2026-07-28",
+  "title": "OAuth 2.0 실무 트러블슈팅",
+  "topic": "OAuth 2.0",
+  "category": "web-security",
+  "category_name": "웹/보안",
+  "angle": "실무 트러블슈팅 관점으로",
+  "summary": "OAuth 2.0은 **사용자 인증 자체가 아니라 리소스 접근 권한 위임**을 위한 표준이다. 로그인 정보가 필요하면 OIDC를 함께 사용한다.",
+  "bullets": "• OAuth 2.0은 **사용자 인증 자체가 아니라 리소스 접근 권한 위임**을 위한 표준이다. 로그인 정보가 필요하면 OIDC를 함께 사용한다.\n• 일반 웹 서비스는 **Authorization Code + PKCE** 흐름을 기본으로 사용하고, `client_secret`은 브라우저나 모바일 앱에 넣지 않는다.\n• 장애의 핵심 원인은 대개 `redirect_uri`, `state`·`code_verifier`, 토큰 만료, 스코프, 서버 시간 차이, 프록시 설정이다.",
+  "path": "docs/cs/web-security/2026-07-28-oauth-2-0.md"
 }

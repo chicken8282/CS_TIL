@@ -103,3 +103,6 @@
 - 2026-07-27 [데이터베이스 인덱스](database/2026-07-27-database-indexes.md)
 - 2026-07-27 [해시 테이블: 평균 O(1)의 함정과 실무 트러블슈팅](data-structures/2026-07-27-hash-tables.md)
 - 2026-07-27 [최단 경로 알고리즘](algorithms/2026-07-27-shortest-path-algorithms.md)
+- 2026-07-28 [OAuth 2.0 실무 트러블슈팅](web-security/2026-07-28-oauth-2-0.md)
+- 2026-07-28 [메시지 큐(Message Queue)의 내부 구현](system-design/2026-07-28-message-queues.md)
+- 2026-07-28 [동기 실행 vs 비동기 실행: 성능 최적화 관점](devops/2026-07-28-synchronous-vs-asynchronous-execution.md)
