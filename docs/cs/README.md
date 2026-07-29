@@ -109,3 +109,6 @@
 - 2026-07-29 [시간 복잡도: 내부 구현 관점에서 이해하기](computer-arch/2026-07-29-time-complexity.md)
 - 2026-07-29 [Copy-on-Write(COW): 복사 비용을 늦추는 성능 최적화](memory/2026-07-29-copy-on-write.md)
 - 2026-07-29 [토크나이제이션과 어휘 사전](ai-ml/2026-07-29-tokenization-and-vocabulary.md)
+- 2026-07-30 [시스템 콜과 성능 최적화](os/2026-07-30-system-calls.md)
+- 2026-07-30 [TCP vs UDP](network/2026-07-30-tcp-vs-udp.md)
+- 2026-07-30 [Sharding과 Partitioning: 자주 하는 실수와 안티패턴](database/2026-07-30-sharding-and-partitioning.md)
