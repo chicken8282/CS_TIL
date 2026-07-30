@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-30",
-  "title": "시스템 콜과 성능 최적화",
-  "topic": "system calls",
-  "category": "os",
-  "category_name": "운영체제",
-  "angle": "성능 최적화 관점으로",
-  "summary": "시스템 콜은 사용자 모드에서 커널 모드로 전환하는 비용이 있는 경계 호출**이다.",
-  "bullets": "• 시스템 콜은 사용자 모드에서 커널 모드로 전환하는 비용이 있는 경계 호출**이다.\n• 호출 횟수와 데이터 복사량을 줄이는 것**이 성능 최적화의 핵심이다.\n• `read`, `write`, `open`, `fork`, `mmap`, `epoll_wait` 등은 목적과 비용 특성이 서로 다르다.",
-  "path": "docs/cs/os/2026-07-30-system-calls.md"
+  "date": "2026-07-31",
+  "title": "연결 리스트(Linked List)",
+  "topic": "linked list",
+  "category": "data-structures",
+  "category_name": "자료구조",
+  "angle": "코드 예제 중심으로",
+  "summary": "노드가 `데이터`와 다음 노드를 가리키는 `링크`로 연결된 선형 자료구조다.",
+  "bullets": "• 노드가 `데이터`와 다음 노드를 가리키는 `링크`로 연결된 선형 자료구조다.\n• 배열과 달리 중간 삽입·삭제 시 원소를 직접 이동하지 않아 링크 변경만으로 처리할 수 있다.\n• 임의 인덱스 접근은 느리지만, 노드 위치를 알고 있다면 삽입·삭제가 효율적이다.",
+  "path": "docs/cs/data-structures/2026-07-31-linked-list.md"
 }

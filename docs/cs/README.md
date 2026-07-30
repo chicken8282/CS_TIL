@@ -112,3 +112,6 @@
 - 2026-07-30 [시스템 콜과 성능 최적화](os/2026-07-30-system-calls.md)
 - 2026-07-30 [TCP vs UDP](network/2026-07-30-tcp-vs-udp.md)
 - 2026-07-30 [Sharding과 Partitioning: 자주 하는 실수와 안티패턴](database/2026-07-30-sharding-and-partitioning.md)
+- 2026-07-31 [연결 리스트(Linked List)](data-structures/2026-07-31-linked-list.md)
+- 2026-07-31 [동적 계획법(Dynamic Programming)과 자주 하는 실수](algorithms/2026-07-31-dynamic-programming.md)
+- 2026-07-31 [XSS와 CSRF: 브라우저를 속이는 두 가지 공격](web-security/2026-07-31-xss-and-csrf.md)
