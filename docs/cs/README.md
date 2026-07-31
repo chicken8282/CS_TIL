@@ -115,3 +115,6 @@
 - 2026-07-31 [연결 리스트(Linked List)](data-structures/2026-07-31-linked-list.md)
 - 2026-07-31 [동적 계획법(Dynamic Programming)과 자주 하는 실수](algorithms/2026-07-31-dynamic-programming.md)
 - 2026-07-31 [XSS와 CSRF: 브라우저를 속이는 두 가지 공격](web-security/2026-07-31-xss-and-csrf.md)
+- 2026-08-01 [이벤트 소싱과 CQRS: 실수와 안티패턴 중심 정리](system-design/2026-08-01-event-sourcing-and-cqrs.md)
+- 2026-08-01 [Infrastructure as Code란?](devops/2026-08-01-infrastructure-as-code.md)
+- 2026-08-01 [캐시 계층(Cache Hierarchy)](computer-arch/2026-08-01-cache-hierarchy.md)

@@ -11,3 +11,4 @@
 - 2026-07-21 [CPU 파이프라인](2026-07-21-cpu-pipeline.md)
 - 2026-07-25 [Out-of-Order Execution(비순차 실행)](2026-07-25-out-of-order-execution.md)
 - 2026-07-29 [시간 복잡도: 내부 구현 관점에서 이해하기](2026-07-29-time-complexity.md)
+- 2026-08-01 [캐시 계층(Cache Hierarchy)](2026-08-01-cache-hierarchy.md)
