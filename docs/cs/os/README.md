@@ -18,3 +18,4 @@
 - 2026-07-22 [페이징과 세그멘테이션: 자주 하는 실수와 안티패턴](2026-07-22-paging-and-segmentation.md)
 - 2026-07-26 [Garbage Collection(GC)](2026-07-26-garbage-collection.md)
 - 2026-07-30 [시스템 콜과 성능 최적화](2026-07-30-system-calls.md)
+- 2026-08-02 [프로세스 vs 스레드](2026-08-02-process-vs-thread.md)

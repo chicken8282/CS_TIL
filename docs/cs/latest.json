@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-01",
-  "title": "이벤트 소싱과 CQRS: 실수와 안티패턴 중심 정리",
-  "topic": "event sourcing and CQRS",
-  "category": "system-design",
-  "category_name": "시스템 설계",
-  "angle": "자주 하는 실수와 안티패턴 중심으로",
-  "summary": "이벤트 소싱**: 현재 상태를 덮어쓰지 않고, 상태 변경 이벤트를 저장해 필요할 때 재생한다.",
-  "bullets": "• 이벤트 소싱**: 현재 상태를 덮어쓰지 않고, 상태 변경 이벤트를 저장해 필요할 때 재생한다.\n• CQRS**: 명령 모델과 조회 모델을 분리한다. 둘은 함께 사용할 수 있지만 필수 조합은 아니다.\n• 핵심 위험은 **최종 일관성, 이벤트 스키마 변경, 중복 처리, 운영 복잡도**를 과소평가하는 것이다.",
-  "path": "docs/cs/system-design/2026-08-01-event-sourcing-and-cqrs.md"
+  "date": "2026-08-02",
+  "title": "메모리 단편화",
+  "topic": "memory fragmentation",
+  "category": "memory",
+  "category_name": "메모리 최적화",
+  "angle": "초보자에게 비유로 설명하듯",
+  "summary": "외부 단편화**: 빈 공간은 충분하지만 조각나 있어 큰 메모리를 할당하지 못하는 현상",
+  "bullets": "• 외부 단편화**: 빈 공간은 충분하지만 조각나 있어 큰 메모리를 할당하지 못하는 현상\n• 내부 단편화**: 할당받은 공간 중 실제로 사용하지 않는 부분이 생기는 현상\n• 완화 방법으로 **메모리 풀, 페이징, 적절한 할당기** 등을 사용한다",
+  "path": "docs/cs/memory/2026-08-02-memory-fragmentation.md"
 }

@@ -4,3 +4,4 @@
 - 2026-07-22 [메모리 매핑 파일과 성능 최적화](2026-07-22-memory-mapped-files.md)
 - 2026-07-25 [메모리 단편화](2026-07-25-memory-fragmentation.md)
 - 2026-07-29 [Copy-on-Write(COW): 복사 비용을 늦추는 성능 최적화](2026-07-29-copy-on-write.md)
+- 2026-08-02 [메모리 단편화](2026-08-02-memory-fragmentation.md)

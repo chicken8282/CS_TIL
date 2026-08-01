@@ -118,3 +118,6 @@
 - 2026-08-01 [이벤트 소싱과 CQRS: 실수와 안티패턴 중심 정리](system-design/2026-08-01-event-sourcing-and-cqrs.md)
 - 2026-08-01 [Infrastructure as Code란?](devops/2026-08-01-infrastructure-as-code.md)
 - 2026-08-01 [캐시 계층(Cache Hierarchy)](computer-arch/2026-08-01-cache-hierarchy.md)
+- 2026-08-02 [메모리 단편화](memory/2026-08-02-memory-fragmentation.md)
+- 2026-08-02 [RLHF: 현업에서 LLM을 사용자 의도에 맞추는 방법](ai-ml/2026-08-02-rlhf.md)
+- 2026-08-02 [프로세스 vs 스레드](os/2026-08-02-process-vs-thread.md)
