@@ -121,3 +121,6 @@
 - 2026-08-02 [메모리 단편화](memory/2026-08-02-memory-fragmentation.md)
 - 2026-08-02 [RLHF: 현업에서 LLM을 사용자 의도에 맞추는 방법](ai-ml/2026-08-02-rlhf.md)
 - 2026-08-02 [프로세스 vs 스레드](os/2026-08-02-process-vs-thread.md)
+- 2026-08-03 [HTTP/2 vs HTTP/3: 현업 적용과 선택 기준](network/2026-08-03-http-2-vs-http-3.md)
+- 2026-08-03 [MVCC(Multi-Version Concurrency Control)](database/2026-08-03-mvcc.md)
+- 2026-08-03 [LRU Cache: 실무 트러블슈팅 중심 정리](data-structures/2026-08-03-lru-cache.md)

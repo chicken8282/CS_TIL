@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-02",
-  "title": "메모리 단편화",
-  "topic": "memory fragmentation",
-  "category": "memory",
-  "category_name": "메모리 최적화",
-  "angle": "초보자에게 비유로 설명하듯",
-  "summary": "외부 단편화**: 빈 공간은 충분하지만 조각나 있어 큰 메모리를 할당하지 못하는 현상",
-  "bullets": "• 외부 단편화**: 빈 공간은 충분하지만 조각나 있어 큰 메모리를 할당하지 못하는 현상\n• 내부 단편화**: 할당받은 공간 중 실제로 사용하지 않는 부분이 생기는 현상\n• 완화 방법으로 **메모리 풀, 페이징, 적절한 할당기** 등을 사용한다",
-  "path": "docs/cs/memory/2026-08-02-memory-fragmentation.md"
+  "date": "2026-08-03",
+  "title": "HTTP/2 vs HTTP/3: 현업 적용과 선택 기준",
+  "topic": "HTTP/2 vs HTTP/3",
+  "category": "network",
+  "category_name": "네트워크",
+  "angle": "현업 적용 사례 중심으로",
+  "summary": "HTTP/2**는 TCP 위에서 멀티플렉싱과 헤더 압축을 제공해 대부분의 웹 서비스 기본값으로 적합하다.",
+  "bullets": "• HTTP/2**는 TCP 위에서 멀티플렉싱과 헤더 압축을 제공해 대부분의 웹 서비스 기본값으로 적합하다.\n• HTTP/3**는 QUIC과 UDP를 사용해 연결 수립 시간을 줄이고, 패킷 손실 시 TCP 수준의 전송 지연을 피한다.\n• 실무에서는 전면 전환보다 **HTTP/2를 기본으로 유지하면서 CDN·로드밸런서에서 HTTP/3를 선택적으로 활성화**하는 방식이 안전하다.",
+  "path": "docs/cs/network/2026-08-03-http-2-vs-http-3.md"
 }

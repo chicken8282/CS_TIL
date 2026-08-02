@@ -6,3 +6,4 @@
 - 2026-07-23 [연결 리스트(Linked List)](2026-07-23-linked-list.md)
 - 2026-07-27 [해시 테이블: 평균 O(1)의 함정과 실무 트러블슈팅](2026-07-27-hash-tables.md)
 - 2026-07-31 [연결 리스트(Linked List)](2026-07-31-linked-list.md)
+- 2026-08-03 [LRU Cache: 실무 트러블슈팅 중심 정리](2026-08-03-lru-cache.md)
