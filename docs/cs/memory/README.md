@@ -5,3 +5,4 @@
 - 2026-07-25 [메모리 단편화](2026-07-25-memory-fragmentation.md)
 - 2026-07-29 [Copy-on-Write(COW): 복사 비용을 늦추는 성능 최적화](2026-07-29-copy-on-write.md)
 - 2026-08-02 [메모리 단편화](2026-08-02-memory-fragmentation.md)
+- 2026-08-05 [메모리 풀링(Memory Pooling)과 성능 최적화](2026-08-05-memory-pooling.md)

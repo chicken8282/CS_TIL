@@ -12,3 +12,4 @@
 - 2026-07-25 [Infrastructure as Code란?](2026-07-25-infrastructure-as-code.md)
 - 2026-07-28 [동기 실행 vs 비동기 실행: 성능 최적화 관점](2026-07-28-synchronous-vs-asynchronous-execution.md)
 - 2026-08-01 [Infrastructure as Code란?](2026-08-01-infrastructure-as-code.md)
+- 2026-08-05 [컨테이너화(Containerization)와 실무 트러블슈팅](2026-08-05-containerization.md)

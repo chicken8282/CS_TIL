@@ -12,3 +12,4 @@
 - 2026-07-25 [Out-of-Order Execution(비순차 실행)](2026-07-25-out-of-order-execution.md)
 - 2026-07-29 [시간 복잡도: 내부 구현 관점에서 이해하기](2026-07-29-time-complexity.md)
 - 2026-08-01 [캐시 계층(Cache Hierarchy)](2026-08-01-cache-hierarchy.md)
+- 2026-08-05 [부동소수점 표현과 내부 구현](2026-08-05-floating-point-representation.md)

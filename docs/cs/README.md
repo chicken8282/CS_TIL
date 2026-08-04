@@ -127,3 +127,6 @@
 - 2026-08-04 [투 포인터와 슬라이딩 윈도우](algorithms/2026-08-04-two-pointers-and-sliding-window.md)
 - 2026-08-04 [JWT와 세션: 실무 트러블슈팅 중심 정리](web-security/2026-08-04-jwt-and-sessions.md)
 - 2026-08-04 [CAP 정리: 분산 시스템의 선택과 내부 구현](system-design/2026-08-04-cap-theorem.md)
+- 2026-08-05 [컨테이너화(Containerization)와 실무 트러블슈팅](devops/2026-08-05-containerization.md)
+- 2026-08-05 [부동소수점 표현과 내부 구현](computer-arch/2026-08-05-floating-point-representation.md)
+- 2026-08-05 [메모리 풀링(Memory Pooling)과 성능 최적화](memory/2026-08-05-memory-pooling.md)
