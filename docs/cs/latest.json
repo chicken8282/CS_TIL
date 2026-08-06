@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-05",
-  "title": "컨테이너화(Containerization)와 실무 트러블슈팅",
-  "topic": "containerization",
-  "category": "devops",
-  "category_name": "DevOps",
-  "angle": "실무 트러블슈팅 관점으로",
-  "summary": "이미지와 컨테이너를 구분하라:** 이미지는 실행에 필요한 파일 시스템·메타데이터의 불변 템플릿이고, 컨테이너는 이를 실행한 프로세스다.",
-  "bullets": "• 이미지와 컨테이너를 구분하라:** 이미지는 실행에 필요한 파일 시스템·메타데이터의 불변 템플릿이고, 컨테이너는 이를 실행한 프로세스다.\n• 문제는 프로세스·자원·네트워크·스토리지로 분해하라:** “컨테이너가 안 된다”는 현상을 로그, 상태, 리소스, 연결 경로별로 좁혀야 한다.\n• 재현성과 관찰 가능성이 운영 품질을 결정한다:** 고정된 이미지 태그, 명시적 환경 변수, 헬스체크, 구조화 로그를 기본값으로 둔다.",
-  "path": "docs/cs/devops/2026-08-05-containerization.md"
+  "date": "2026-08-07",
+  "title": "Sharding과 Partitioning: 성능 최적화 관점",
+  "topic": "sharding and partitioning",
+  "category": "database",
+  "category_name": "데이터베이스",
+  "angle": "성능 최적화 관점으로",
+  "summary": "Partitioning**은 하나의 논리적 테이블·데이터셋을 여러 물리 파티션으로 나누는 방식이며, 보통 단일 DB 내부에서 관리한다.",
+  "bullets": "• Partitioning**은 하나의 논리적 테이블·데이터셋을 여러 물리 파티션으로 나누는 방식이며, 보통 단일 DB 내부에서 관리한다.\n• Sharding**은 데이터를 여러 DB 서버나 노드로 분산해 저장하는 방식이다. 저장 용량과 처리량을 수평 확장할 수 있다.\n• 성능의 핵심은 **균등한 분산**, **효율적인 라우팅**, **파티션 프루닝**, **크로스 샤드 작업 최소화**다.",
+  "path": "docs/cs/database/2026-08-07-sharding-and-partitioning.md"
 }

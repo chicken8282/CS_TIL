@@ -130,3 +130,6 @@
 - 2026-08-05 [컨테이너화(Containerization)와 실무 트러블슈팅](devops/2026-08-05-containerization.md)
 - 2026-08-05 [부동소수점 표현과 내부 구현](computer-arch/2026-08-05-floating-point-representation.md)
 - 2026-08-05 [메모리 풀링(Memory Pooling)과 성능 최적화](memory/2026-08-05-memory-pooling.md)
+- 2026-08-07 [Sharding과 Partitioning: 성능 최적화 관점](database/2026-08-07-sharding-and-partitioning.md)
+- 2026-08-07 [힙(Heap)과 우선순위 큐(Priority Queue)](data-structures/2026-08-07-heap-and-priority-queue.md)
+- 2026-08-07 [최단 경로 알고리즘](algorithms/2026-08-07-shortest-path-algorithms.md)

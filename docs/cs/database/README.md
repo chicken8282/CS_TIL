@@ -8,3 +8,4 @@
 - 2026-07-27 [데이터베이스 인덱스](2026-07-27-database-indexes.md)
 - 2026-07-30 [Sharding과 Partitioning: 자주 하는 실수와 안티패턴](2026-07-30-sharding-and-partitioning.md)
 - 2026-08-03 [MVCC(Multi-Version Concurrency Control)](2026-08-03-mvcc.md)
+- 2026-08-07 [Sharding과 Partitioning: 성능 최적화 관점](2026-08-07-sharding-and-partitioning.md)
