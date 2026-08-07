@@ -133,3 +133,6 @@
 - 2026-08-07 [Sharding과 Partitioning: 성능 최적화 관점](database/2026-08-07-sharding-and-partitioning.md)
 - 2026-08-07 [힙(Heap)과 우선순위 큐(Priority Queue)](data-structures/2026-08-07-heap-and-priority-queue.md)
 - 2026-08-07 [최단 경로 알고리즘](algorithms/2026-08-07-shortest-path-algorithms.md)
+- 2026-08-08 [XSS와 CSRF](web-security/2026-08-08-xss-and-csrf.md)
+- 2026-08-08 [Circuit Breaker 패턴](system-design/2026-08-08-circuit-breaker-pattern.md)
+- 2026-08-08 [Infrastructure as Code(IaC)](devops/2026-08-08-infrastructure-as-code.md)

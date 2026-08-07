@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-07",
-  "title": "Sharding과 Partitioning: 성능 최적화 관점",
-  "topic": "sharding and partitioning",
-  "category": "database",
-  "category_name": "데이터베이스",
-  "angle": "성능 최적화 관점으로",
-  "summary": "Partitioning**은 하나의 논리적 테이블·데이터셋을 여러 물리 파티션으로 나누는 방식이며, 보통 단일 DB 내부에서 관리한다.",
-  "bullets": "• Partitioning**은 하나의 논리적 테이블·데이터셋을 여러 물리 파티션으로 나누는 방식이며, 보통 단일 DB 내부에서 관리한다.\n• Sharding**은 데이터를 여러 DB 서버나 노드로 분산해 저장하는 방식이다. 저장 용량과 처리량을 수평 확장할 수 있다.\n• 성능의 핵심은 **균등한 분산**, **효율적인 라우팅**, **파티션 프루닝**, **크로스 샤드 작업 최소화**다.",
-  "path": "docs/cs/database/2026-08-07-sharding-and-partitioning.md"
+  "date": "2026-08-08",
+  "title": "XSS와 CSRF",
+  "topic": "XSS and CSRF",
+  "category": "web-security",
+  "category_name": "웹/보안",
+  "angle": "코드 예제 중심으로",
+  "summary": "XSS(Cross-Site Scripting)**: 공격자가 삽입한 스크립트가 피해자 브라우저에서 실행되는 취약점이다.",
+  "bullets": "• XSS(Cross-Site Scripting)**: 공격자가 삽입한 스크립트가 피해자 브라우저에서 실행되는 취약점이다.\n• CSRF(Cross-Site Request Forgery)**: 피해자의 인증 쿠키를 악용해 원치 않는 요청을 보내는 공격이다.\n• 핵심 방어**: XSS는 상황별 출력 인코딩과 안전한 DOM API, CSRF는 토큰·Origin 검증·SameSite 쿠키를 사용한다.",
+  "path": "docs/cs/web-security/2026-08-08-xss-and-csrf.md"
 }
