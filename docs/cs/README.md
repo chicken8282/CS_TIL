@@ -136,3 +136,6 @@
 - 2026-08-08 [XSS와 CSRF](web-security/2026-08-08-xss-and-csrf.md)
 - 2026-08-08 [Circuit Breaker 패턴](system-design/2026-08-08-circuit-breaker-pattern.md)
 - 2026-08-08 [Infrastructure as Code(IaC)](devops/2026-08-08-infrastructure-as-code.md)
+- 2026-08-09 [브랜치 예측(Branch Prediction)](computer-arch/2026-08-09-branch-prediction.md)
+- 2026-08-09 [스택 vs 힙 할당](memory/2026-08-09-stack-vs-heap-allocation.md)
+- 2026-08-09 [Attention Mechanism](ai-ml/2026-08-09-attention-mechanism.md)

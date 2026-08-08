@@ -5,3 +5,4 @@
 - 2026-07-26 [모델 평가와 환각(Hallucination)](2026-07-26-model-evaluation-and-hallucination.md)
 - 2026-07-29 [토크나이제이션과 어휘 사전](2026-07-29-tokenization-and-vocabulary.md)
 - 2026-08-02 [RLHF: 현업에서 LLM을 사용자 의도에 맞추는 방법](2026-08-02-rlhf.md)
+- 2026-08-09 [Attention Mechanism](2026-08-09-attention-mechanism.md)
