@@ -139,3 +139,6 @@
 - 2026-08-09 [브랜치 예측(Branch Prediction)](computer-arch/2026-08-09-branch-prediction.md)
 - 2026-08-09 [스택 vs 힙 할당](memory/2026-08-09-stack-vs-heap-allocation.md)
 - 2026-08-09 [Attention Mechanism](ai-ml/2026-08-09-attention-mechanism.md)
+- 2026-08-10 [IPC(Inter-Process Communication)](os/2026-08-10-ipc-inter-process-communication.md)
+- 2026-08-10 [HTTP 캐싱](network/2026-08-10-http-caching.md)
+- 2026-08-10 [Replication(복제)](database/2026-08-10-replication.md)

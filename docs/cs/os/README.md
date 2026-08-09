@@ -19,3 +19,4 @@
 - 2026-07-26 [Garbage Collection(GC)](2026-07-26-garbage-collection.md)
 - 2026-07-30 [시스템 콜과 성능 최적화](2026-07-30-system-calls.md)
 - 2026-08-02 [프로세스 vs 스레드](2026-08-02-process-vs-thread.md)
+- 2026-08-10 [IPC(Inter-Process Communication)](2026-08-10-ipc-inter-process-communication.md)
