@@ -142,3 +142,6 @@
 - 2026-08-10 [IPC(Inter-Process Communication)](os/2026-08-10-ipc-inter-process-communication.md)
 - 2026-08-10 [HTTP 캐싱](network/2026-08-10-http-caching.md)
 - 2026-08-10 [Replication(복제)](database/2026-08-10-replication.md)
+- 2026-08-11 [LRU 캐시](data-structures/2026-08-11-lru-cache.md)
+- 2026-08-11 [동적 계획법(Dynamic Programming, DP)](algorithms/2026-08-11-dynamic-programming.md)
+- 2026-08-11 [Rate Limiting](web-security/2026-08-11-rate-limiting.md)

@@ -10,3 +10,4 @@
 - 2026-07-31 [XSS와 CSRF: 브라우저를 속이는 두 가지 공격](2026-07-31-xss-and-csrf.md)
 - 2026-08-04 [JWT와 세션: 실무 트러블슈팅 중심 정리](2026-08-04-jwt-and-sessions.md)
 - 2026-08-08 [XSS와 CSRF](2026-08-08-xss-and-csrf.md)
+- 2026-08-11 [Rate Limiting](2026-08-11-rate-limiting.md)

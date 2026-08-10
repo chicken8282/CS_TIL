@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-10",
-  "title": "IPC(Inter-Process Communication)",
-  "topic": "IPC (inter-process communication)",
-  "category": "os",
-  "category_name": "운영체제",
-  "angle": "초보자에게 비유로 설명하듯",
-  "summary": "IPC는 서로 다른 프로세스가 데이터를 주고받는 방법**이다.",
-  "bullets": "• IPC는 서로 다른 프로세스가 데이터를 주고받는 방법**이다.\n• 대표 방식은 **파이프, 메시지 큐, 공유 메모리, 소켓, 시그널**이다.\n• 프로세스 간 메모리는 기본적으로 분리되므로, IPC에는 **데이터 전달과 동기화**가 함께 필요하다.",
-  "path": "docs/cs/os/2026-08-10-ipc-inter-process-communication.md"
+  "date": "2026-08-11",
+  "title": "LRU 캐시",
+  "topic": "LRU cache",
+  "category": "data-structures",
+  "category_name": "자료구조",
+  "angle": "현업 적용 사례 중심으로",
+  "summary": "LRU(Least Recently Used)**: 캐시가 가득 차면 가장 오래 사용되지 않은 데이터를 제거한다.",
+  "bullets": "• LRU(Least Recently Used)**: 캐시가 가득 차면 가장 오래 사용되지 않은 데이터를 제거한다.\n• 핵심 자료구조**: 해시맵으로 `O(1)` 조회하고, 이중 연결 리스트로 최근 사용 순서를 `O(1)`에 변경한다.\n• 현업 적용**: DB 조회 결과, API 응답, 이미지·파일 메타데이터, 세션 정보 등을 메모리에 임시 저장해 지연 시간과 백엔드 부하를 줄인다.",
+  "path": "docs/cs/data-structures/2026-08-11-lru-cache.md"
 }

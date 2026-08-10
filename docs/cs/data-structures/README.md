@@ -8,3 +8,4 @@
 - 2026-07-31 [연결 리스트(Linked List)](2026-07-31-linked-list.md)
 - 2026-08-03 [LRU Cache: 실무 트러블슈팅 중심 정리](2026-08-03-lru-cache.md)
 - 2026-08-07 [힙(Heap)과 우선순위 큐(Priority Queue)](2026-08-07-heap-and-priority-queue.md)
+- 2026-08-11 [LRU 캐시](2026-08-11-lru-cache.md)
