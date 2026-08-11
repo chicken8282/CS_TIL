@@ -145,3 +145,6 @@
 - 2026-08-11 [LRU 캐시](data-structures/2026-08-11-lru-cache.md)
 - 2026-08-11 [동적 계획법(Dynamic Programming, DP)](algorithms/2026-08-11-dynamic-programming.md)
 - 2026-08-11 [Rate Limiting](web-security/2026-08-11-rate-limiting.md)
+- 2026-08-12 [CAP 정리: 분산 시스템의 일관성·가용성·분할 내성](system-design/2026-08-12-cap-theorem.md)
+- 2026-08-12 [컨테이너화: 실무 트러블슈팅 중심 정리](devops/2026-08-12-containerization.md)
+- 2026-08-12 [Out-of-Order Execution](computer-arch/2026-08-12-out-of-order-execution.md)

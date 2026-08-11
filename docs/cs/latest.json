@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-11",
-  "title": "LRU 캐시",
-  "topic": "LRU cache",
-  "category": "data-structures",
-  "category_name": "자료구조",
-  "angle": "현업 적용 사례 중심으로",
-  "summary": "LRU(Least Recently Used)**: 캐시가 가득 차면 가장 오래 사용되지 않은 데이터를 제거한다.",
-  "bullets": "• LRU(Least Recently Used)**: 캐시가 가득 차면 가장 오래 사용되지 않은 데이터를 제거한다.\n• 핵심 자료구조**: 해시맵으로 `O(1)` 조회하고, 이중 연결 리스트로 최근 사용 순서를 `O(1)`에 변경한다.\n• 현업 적용**: DB 조회 결과, API 응답, 이미지·파일 메타데이터, 세션 정보 등을 메모리에 임시 저장해 지연 시간과 백엔드 부하를 줄인다.",
-  "path": "docs/cs/data-structures/2026-08-11-lru-cache.md"
+  "date": "2026-08-12",
+  "title": "CAP 정리: 분산 시스템의 일관성·가용성·분할 내성",
+  "topic": "CAP theorem",
+  "category": "system-design",
+  "category_name": "시스템 설계",
+  "angle": "면접 질문 중심으로",
+  "summary": "C(Consistency, 일관성)**: 모든 노드가 같은 시점에 같은 최신 데이터를 반환한다.",
+  "bullets": "• C(Consistency, 일관성)**: 모든 노드가 같은 시점에 같은 최신 데이터를 반환한다.\n• A(Availability, 가용성)**: 정상 요청은 항상 성공 응답을 받는다. 단, 최신 데이터라는 보장은 별도다.\n• P(Partition Tolerance, 네트워크 분할 내성)**: 노드 간 네트워크 단절이나 메시지 유실이 발생해도 시스템이 동작한다.",
+  "path": "docs/cs/system-design/2026-08-12-cap-theorem.md"
 }

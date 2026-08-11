@@ -11,3 +11,4 @@
 - 2026-08-01 [이벤트 소싱과 CQRS: 실수와 안티패턴 중심 정리](2026-08-01-event-sourcing-and-cqrs.md)
 - 2026-08-04 [CAP 정리: 분산 시스템의 선택과 내부 구현](2026-08-04-cap-theorem.md)
 - 2026-08-08 [Circuit Breaker 패턴](2026-08-08-circuit-breaker-pattern.md)
+- 2026-08-12 [CAP 정리: 분산 시스템의 일관성·가용성·분할 내성](2026-08-12-cap-theorem.md)

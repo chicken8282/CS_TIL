@@ -14,3 +14,4 @@
 - 2026-08-01 [캐시 계층(Cache Hierarchy)](2026-08-01-cache-hierarchy.md)
 - 2026-08-05 [부동소수점 표현과 내부 구현](2026-08-05-floating-point-representation.md)
 - 2026-08-09 [브랜치 예측(Branch Prediction)](2026-08-09-branch-prediction.md)
+- 2026-08-12 [Out-of-Order Execution](2026-08-12-out-of-order-execution.md)
