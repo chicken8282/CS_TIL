@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-12",
-  "title": "CAP 정리: 분산 시스템의 일관성·가용성·분할 내성",
-  "topic": "CAP theorem",
-  "category": "system-design",
-  "category_name": "시스템 설계",
-  "angle": "면접 질문 중심으로",
-  "summary": "C(Consistency, 일관성)**: 모든 노드가 같은 시점에 같은 최신 데이터를 반환한다.",
-  "bullets": "• C(Consistency, 일관성)**: 모든 노드가 같은 시점에 같은 최신 데이터를 반환한다.\n• A(Availability, 가용성)**: 정상 요청은 항상 성공 응답을 받는다. 단, 최신 데이터라는 보장은 별도다.\n• P(Partition Tolerance, 네트워크 분할 내성)**: 노드 간 네트워크 단절이나 메시지 유실이 발생해도 시스템이 동작한다.",
-  "path": "docs/cs/system-design/2026-08-12-cap-theorem.md"
+  "date": "2026-08-13",
+  "title": "메모리 풀링(Memory Pooling)",
+  "topic": "memory pooling",
+  "category": "memory",
+  "category_name": "메모리 최적화",
+  "angle": "실무 트러블슈팅 관점으로",
+  "summary": "반복적으로 생성·해제되는 객체를 미리 확보해 재사용하여 할당 비용과 메모리 단편화를 줄인다.",
+  "bullets": "• 반복적으로 생성·해제되는 객체를 미리 확보해 재사용하여 할당 비용과 메모리 단편화를 줄인다.\n• 성능 향상보다 **수명 관리, 풀 고갈, 반환 누락, 동시성**이 실무 장애의 핵심 원인이다.\n• 풀 크기와 객체 수명을 잘못 정하면 메모리 절약이 아니라 메모리 고정 점유와 지연 급증으로 이어진다.",
+  "path": "docs/cs/memory/2026-08-13-memory-pooling.md"
 }

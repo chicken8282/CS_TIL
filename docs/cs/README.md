@@ -148,3 +148,6 @@
 - 2026-08-12 [CAP 정리: 분산 시스템의 일관성·가용성·분할 내성](system-design/2026-08-12-cap-theorem.md)
 - 2026-08-12 [컨테이너화: 실무 트러블슈팅 중심 정리](devops/2026-08-12-containerization.md)
 - 2026-08-12 [Out-of-Order Execution](computer-arch/2026-08-12-out-of-order-execution.md)
+- 2026-08-13 [메모리 풀링(Memory Pooling)](memory/2026-08-13-memory-pooling.md)
+- 2026-08-13 [Fine-tuning과 LoRA 내부 구현](ai-ml/2026-08-13-fine-tuning-and-lora.md)
+- 2026-08-13 [가상 메모리: 성능 최적화 관점](os/2026-08-13-virtual-memory.md)
