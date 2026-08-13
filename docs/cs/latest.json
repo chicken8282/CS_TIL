@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-13",
-  "title": "메모리 풀링(Memory Pooling)",
-  "topic": "memory pooling",
-  "category": "memory",
-  "category_name": "메모리 최적화",
-  "angle": "실무 트러블슈팅 관점으로",
-  "summary": "반복적으로 생성·해제되는 객체를 미리 확보해 재사용하여 할당 비용과 메모리 단편화를 줄인다.",
-  "bullets": "• 반복적으로 생성·해제되는 객체를 미리 확보해 재사용하여 할당 비용과 메모리 단편화를 줄인다.\n• 성능 향상보다 **수명 관리, 풀 고갈, 반환 누락, 동시성**이 실무 장애의 핵심 원인이다.\n• 풀 크기와 객체 수명을 잘못 정하면 메모리 절약이 아니라 메모리 고정 점유와 지연 급증으로 이어진다.",
-  "path": "docs/cs/memory/2026-08-13-memory-pooling.md"
+  "date": "2026-08-14",
+  "title": "WebSocket: 지속 연결과 프레임 처리의 내부 구현",
+  "topic": "WebSocket",
+  "category": "network",
+  "category_name": "네트워크",
+  "angle": "내부 구현 관점으로",
+  "summary": "HTTP Upgrade 핸드셰이크**로 TCP 연결을 WebSocket 연결로 전환한다.",
+  "bullets": "• HTTP Upgrade 핸드셰이크**로 TCP 연결을 WebSocket 연결로 전환한다.\n• 이후 데이터는 HTTP 메시지가 아니라 **프레임(frame)** 단위로 송수신한다.\n• 서버는 이벤트 루프에서 소켓을 감시하며, 마스킹·opcode·버퍼·백프레셔를 처리한다.",
+  "path": "docs/cs/network/2026-08-14-websocket.md"
 }

@@ -151,3 +151,6 @@
 - 2026-08-13 [메모리 풀링(Memory Pooling)](memory/2026-08-13-memory-pooling.md)
 - 2026-08-13 [Fine-tuning과 LoRA 내부 구현](ai-ml/2026-08-13-fine-tuning-and-lora.md)
 - 2026-08-13 [가상 메모리: 성능 최적화 관점](os/2026-08-13-virtual-memory.md)
+- 2026-08-14 [WebSocket: 지속 연결과 프레임 처리의 내부 구현](network/2026-08-14-websocket.md)
+- 2026-08-14 [정규화와 반정규화: 성능 최적화 관점](database/2026-08-14-normalization-and-denormalization.md)
+- 2026-08-14 [스택과 큐](data-structures/2026-08-14-stack-and-queue.md)

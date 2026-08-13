@@ -10,3 +10,4 @@
 - 2026-08-03 [MVCC(Multi-Version Concurrency Control)](2026-08-03-mvcc.md)
 - 2026-08-07 [Sharding과 Partitioning: 성능 최적화 관점](2026-08-07-sharding-and-partitioning.md)
 - 2026-08-10 [Replication(복제)](2026-08-10-replication.md)
+- 2026-08-14 [정규화와 반정규화: 성능 최적화 관점](2026-08-14-normalization-and-denormalization.md)
