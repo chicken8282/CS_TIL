@@ -11,3 +11,4 @@
 - 2026-08-04 [JWT와 세션: 실무 트러블슈팅 중심 정리](2026-08-04-jwt-and-sessions.md)
 - 2026-08-08 [XSS와 CSRF](2026-08-08-xss-and-csrf.md)
 - 2026-08-11 [Rate Limiting](2026-08-11-rate-limiting.md)
+- 2026-08-15 [브라우저 렌더링](2026-08-15-browser-rendering.md)
