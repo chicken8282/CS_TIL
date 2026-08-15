@@ -157,3 +157,6 @@
 - 2026-08-15 [투 포인터와 슬라이딩 윈도우](algorithms/2026-08-15-two-pointers-and-sliding-window.md)
 - 2026-08-15 [브라우저 렌더링](web-security/2026-08-15-browser-rendering.md)
 - 2026-08-15 [Consistency Models: 자주 하는 실수와 안티패턴](system-design/2026-08-15-consistency-models.md)
+- 2026-08-16 [CI/CD 기초: 자동화된 빌드·테스트·배포](devops/2026-08-16-ci-cd-fundamentals.md)
+- 2026-08-16 [시간 복잡도: 자주 하는 실수와 안티패턴](computer-arch/2026-08-16-time-complexity.md)
+- 2026-08-16 [NUMA 아키텍처](memory/2026-08-16-numa-architecture.md)

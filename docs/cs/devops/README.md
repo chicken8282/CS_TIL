@@ -15,3 +15,4 @@
 - 2026-08-05 [컨테이너화(Containerization)와 실무 트러블슈팅](2026-08-05-containerization.md)
 - 2026-08-08 [Infrastructure as Code(IaC)](2026-08-08-infrastructure-as-code.md)
 - 2026-08-12 [컨테이너화: 실무 트러블슈팅 중심 정리](2026-08-12-containerization.md)
+- 2026-08-16 [CI/CD 기초: 자동화된 빌드·테스트·배포](2026-08-16-ci-cd-fundamentals.md)

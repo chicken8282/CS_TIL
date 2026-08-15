@@ -15,3 +15,4 @@
 - 2026-08-05 [부동소수점 표현과 내부 구현](2026-08-05-floating-point-representation.md)
 - 2026-08-09 [브랜치 예측(Branch Prediction)](2026-08-09-branch-prediction.md)
 - 2026-08-12 [Out-of-Order Execution](2026-08-12-out-of-order-execution.md)
+- 2026-08-16 [시간 복잡도: 자주 하는 실수와 안티패턴](2026-08-16-time-complexity.md)
