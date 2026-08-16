@@ -160,3 +160,6 @@
 - 2026-08-16 [CI/CD 기초: 자동화된 빌드·테스트·배포](devops/2026-08-16-ci-cd-fundamentals.md)
 - 2026-08-16 [시간 복잡도: 자주 하는 실수와 안티패턴](computer-arch/2026-08-16-time-complexity.md)
 - 2026-08-16 [NUMA 아키텍처](memory/2026-08-16-numa-architecture.md)
+- 2026-08-17 [멀티모달 모델: 자주 하는 실수와 안티패턴](ai-ml/2026-08-17-multimodal-models.md)
+- 2026-08-17 [컨텍스트 스위칭(Context Switching)](os/2026-08-17-context-switching.md)
+- 2026-08-17 [TCP vs UDP: 현업에서의 선택 기준](network/2026-08-17-tcp-vs-udp.md)

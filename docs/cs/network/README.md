@@ -10,3 +10,4 @@
 - 2026-08-03 [HTTP/2 vs HTTP/3: 현업 적용과 선택 기준](2026-08-03-http-2-vs-http-3.md)
 - 2026-08-10 [HTTP 캐싱](2026-08-10-http-caching.md)
 - 2026-08-14 [WebSocket: 지속 연결과 프레임 처리의 내부 구현](2026-08-14-websocket.md)
+- 2026-08-17 [TCP vs UDP: 현업에서의 선택 기준](2026-08-17-tcp-vs-udp.md)

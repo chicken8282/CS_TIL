@@ -7,3 +7,4 @@
 - 2026-08-02 [RLHF: 현업에서 LLM을 사용자 의도에 맞추는 방법](2026-08-02-rlhf.md)
 - 2026-08-09 [Attention Mechanism](2026-08-09-attention-mechanism.md)
 - 2026-08-13 [Fine-tuning과 LoRA 내부 구현](2026-08-13-fine-tuning-and-lora.md)
+- 2026-08-17 [멀티모달 모델: 자주 하는 실수와 안티패턴](2026-08-17-multimodal-models.md)

@@ -21,3 +21,4 @@
 - 2026-08-02 [프로세스 vs 스레드](2026-08-02-process-vs-thread.md)
 - 2026-08-10 [IPC(Inter-Process Communication)](2026-08-10-ipc-inter-process-communication.md)
 - 2026-08-13 [가상 메모리: 성능 최적화 관점](2026-08-13-virtual-memory.md)
+- 2026-08-17 [컨텍스트 스위칭(Context Switching)](2026-08-17-context-switching.md)
