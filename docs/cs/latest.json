@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-17",
-  "title": "멀티모달 모델: 자주 하는 실수와 안티패턴",
-  "topic": "multimodal models",
-  "category": "ai-ml",
-  "category_name": "AI/ML",
-  "angle": "자주 하는 실수와 안티패턴 중심으로",
-  "summary": "텍스트·이미지·오디오·비디오를 함께 처리하지만, **모달리티 간 의미 정렬(alignment)** 이 자동으로 완벽해지는 것은 아니다.",
-  "bullets": "• 텍스트·이미지·오디오·비디오를 함께 처리하지만, **모달리티 간 의미 정렬(alignment)** 이 자동으로 완벽해지는 것은 아니다.\n• 입력 전처리, 해상도, 순서, 타임스탬프가 결과에 큰 영향을 주므로 **모델 호출보다 데이터 품질 검증이 먼저**다.\n• “이미지를 봤으니 사실을 안다”라고 가정하면 안 된다. OCR 오류, 환각, 편향, 프롬프트 인젝션을 별도로 방어해야 한다.",
-  "path": "docs/cs/ai-ml/2026-08-17-multimodal-models.md"
+  "date": "2026-08-18",
+  "title": "Replication(복제)",
+  "topic": "replication",
+  "category": "database",
+  "category_name": "데이터베이스",
+  "angle": "초보자에게 비유로 설명하듯",
+  "summary": "데이터를 여러 서버에 복사해 **장애 대응과 읽기 확장**을 가능하게 한다.",
+  "bullets": "• 데이터를 여러 서버에 복사해 **장애 대응과 읽기 확장**을 가능하게 한다.\n• Primary(Leader)는 쓰기를 처리하고 Replica(Follower)는 데이터를 전달받아 저장하는 방식이 흔하다.\n• 복제 지연과 일관성 수준을 고려하지 않으면 **오래된 데이터 조회**나 잘못된 장애 전환이 발생할 수 있다.",
+  "path": "docs/cs/database/2026-08-18-replication.md"
 }
