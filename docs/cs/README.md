@@ -93,6 +93,7 @@
 - 2026-08-08 [XSS와 CSRF](web-security/2026-08-08-xss-and-csrf.md)
 - 2026-08-11 [Rate Limiting](web-security/2026-08-11-rate-limiting.md)
 - 2026-08-15 [브라우저 렌더링](web-security/2026-08-15-browser-rendering.md)
+- 2026-08-19 [Rate Limiting](web-security/2026-08-19-rate-limiting.md)
 
 ## 시스템 설계
 - 2026-06-24 [메시지 큐(Message Queue)](system-design/2026-06-24-message-queues.md)
@@ -108,6 +109,7 @@
 - 2026-08-08 [Circuit Breaker 패턴](system-design/2026-08-08-circuit-breaker-pattern.md)
 - 2026-08-12 [CAP 정리: 분산 시스템의 일관성·가용성·분할 내성](system-design/2026-08-12-cap-theorem.md)
 - 2026-08-15 [Consistency Models: 자주 하는 실수와 안티패턴](system-design/2026-08-15-consistency-models.md)
+- 2026-08-19 [분산 추적(Distributed Tracing)](system-design/2026-08-19-distributed-tracing.md)
 
 ## DevOps
 - 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)
@@ -126,6 +128,7 @@
 - 2026-08-08 [Infrastructure as Code(IaC)](devops/2026-08-08-infrastructure-as-code.md)
 - 2026-08-12 [컨테이너화: 실무 트러블슈팅 중심 정리](devops/2026-08-12-containerization.md)
 - 2026-08-16 [CI/CD 기초: 자동화된 빌드·테스트·배포](devops/2026-08-16-ci-cd-fundamentals.md)
+- 2026-08-19 [컨테이너화(Containerization)와 실무 트러블슈팅](devops/2026-08-19-containerization.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)

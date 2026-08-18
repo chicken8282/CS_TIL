@@ -13,3 +13,4 @@
 - 2026-08-08 [Circuit Breaker 패턴](2026-08-08-circuit-breaker-pattern.md)
 - 2026-08-12 [CAP 정리: 분산 시스템의 일관성·가용성·분할 내성](2026-08-12-cap-theorem.md)
 - 2026-08-15 [Consistency Models: 자주 하는 실수와 안티패턴](2026-08-15-consistency-models.md)
+- 2026-08-19 [분산 추적(Distributed Tracing)](2026-08-19-distributed-tracing.md)

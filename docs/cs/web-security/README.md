@@ -12,3 +12,4 @@
 - 2026-08-08 [XSS와 CSRF](2026-08-08-xss-and-csrf.md)
 - 2026-08-11 [Rate Limiting](2026-08-11-rate-limiting.md)
 - 2026-08-15 [브라우저 렌더링](2026-08-15-browser-rendering.md)
+- 2026-08-19 [Rate Limiting](2026-08-19-rate-limiting.md)
