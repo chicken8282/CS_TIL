@@ -146,6 +146,7 @@
 - 2026-08-09 [브랜치 예측(Branch Prediction)](computer-arch/2026-08-09-branch-prediction.md)
 - 2026-08-12 [Out-of-Order Execution](computer-arch/2026-08-12-out-of-order-execution.md)
 - 2026-08-16 [시간 복잡도: 자주 하는 실수와 안티패턴](computer-arch/2026-08-16-time-complexity.md)
+- 2026-08-20 [RISC vs CISC: 명령어 집합 구조 비교](computer-arch/2026-08-20-risc-vs-cisc.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
@@ -158,6 +159,7 @@
 - 2026-08-09 [스택 vs 힙 할당](memory/2026-08-09-stack-vs-heap-allocation.md)
 - 2026-08-13 [메모리 풀링(Memory Pooling)](memory/2026-08-13-memory-pooling.md)
 - 2026-08-16 [NUMA 아키텍처](memory/2026-08-16-numa-architecture.md)
+- 2026-08-20 [메모리 정렬(Memory Alignment)과 실무 트러블슈팅](memory/2026-08-20-memory-alignment.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
@@ -169,3 +171,4 @@
 - 2026-08-09 [Attention Mechanism](ai-ml/2026-08-09-attention-mechanism.md)
 - 2026-08-13 [Fine-tuning과 LoRA 내부 구현](ai-ml/2026-08-13-fine-tuning-and-lora.md)
 - 2026-08-17 [멀티모달 모델: 자주 하는 실수와 안티패턴](ai-ml/2026-08-17-multimodal-models.md)
+- 2026-08-20 [Transformer 아키텍처: 내부 구현 관점](ai-ml/2026-08-20-transformer-architecture.md)

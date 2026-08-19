@@ -9,3 +9,4 @@
 - 2026-08-09 [스택 vs 힙 할당](2026-08-09-stack-vs-heap-allocation.md)
 - 2026-08-13 [메모리 풀링(Memory Pooling)](2026-08-13-memory-pooling.md)
 - 2026-08-16 [NUMA 아키텍처](2026-08-16-numa-architecture.md)
+- 2026-08-20 [메모리 정렬(Memory Alignment)과 실무 트러블슈팅](2026-08-20-memory-alignment.md)

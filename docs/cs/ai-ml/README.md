@@ -8,3 +8,4 @@
 - 2026-08-09 [Attention Mechanism](2026-08-09-attention-mechanism.md)
 - 2026-08-13 [Fine-tuning과 LoRA 내부 구현](2026-08-13-fine-tuning-and-lora.md)
 - 2026-08-17 [멀티모달 모델: 자주 하는 실수와 안티패턴](2026-08-17-multimodal-models.md)
+- 2026-08-20 [Transformer 아키텍처: 내부 구현 관점](2026-08-20-transformer-architecture.md)
