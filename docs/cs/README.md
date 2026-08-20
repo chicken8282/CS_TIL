@@ -20,6 +20,7 @@
 - 2026-08-10 [IPC(Inter-Process Communication)](os/2026-08-10-ipc-inter-process-communication.md)
 - 2026-08-13 [가상 메모리: 성능 최적화 관점](os/2026-08-13-virtual-memory.md)
 - 2026-08-17 [컨텍스트 스위칭(Context Switching)](os/2026-08-17-context-switching.md)
+- 2026-08-21 [페이징과 세그멘테이션: 실무 트러블슈팅 관점](os/2026-08-21-paging-and-segmentation.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -33,6 +34,7 @@
 - 2026-08-10 [HTTP 캐싱](network/2026-08-10-http-caching.md)
 - 2026-08-14 [WebSocket: 지속 연결과 프레임 처리의 내부 구현](network/2026-08-14-websocket.md)
 - 2026-08-17 [TCP vs UDP: 현업에서의 선택 기준](network/2026-08-17-tcp-vs-udp.md)
+- 2026-08-21 [HTTP/2 vs HTTP/3: 내부 구현 관점](network/2026-08-21-http-2-vs-http-3.md)
 
 ## 데이터베이스
 - 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
@@ -47,6 +49,7 @@
 - 2026-08-10 [Replication(복제)](database/2026-08-10-replication.md)
 - 2026-08-14 [정규화와 반정규화: 성능 최적화 관점](database/2026-08-14-normalization-and-denormalization.md)
 - 2026-08-18 [Replication(복제)](database/2026-08-18-replication.md)
+- 2026-08-21 [트랜잭션과 ACID: 성능 최적화 관점](database/2026-08-21-transactions-and-acid.md)
 
 ## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)

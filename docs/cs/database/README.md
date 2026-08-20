@@ -12,3 +12,4 @@
 - 2026-08-10 [Replication(복제)](2026-08-10-replication.md)
 - 2026-08-14 [정규화와 반정규화: 성능 최적화 관점](2026-08-14-normalization-and-denormalization.md)
 - 2026-08-18 [Replication(복제)](2026-08-18-replication.md)
+- 2026-08-21 [트랜잭션과 ACID: 성능 최적화 관점](2026-08-21-transactions-and-acid.md)
