@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-21",
-  "title": "페이징과 세그멘테이션: 실무 트러블슈팅 관점",
-  "topic": "paging and segmentation",
-  "category": "os",
-  "category_name": "운영체제",
-  "angle": "실무 트러블슈팅 관점으로",
-  "summary": "페이징**은 가상 메모리를 고정 크기 페이지로 나눠 외부 단편화를 줄이지만, 페이지 폴트와 TLB 미스 비용이 발생한다.",
-  "bullets": "• 페이징**은 가상 메모리를 고정 크기 페이지로 나눠 외부 단편화를 줄이지만, 페이지 폴트와 TLB 미스 비용이 발생한다.\n• 세그멘테이션**은 코드·데이터·스택처럼 논리적 단위로 나누어 보호와 공유에 유리하지만, 외부 단편화가 생길 수 있다.\n• 실무에서는 세그멘테이션 자체보다 **페이지 폴트, RSS 증가, 스왑, TLB 효율, 메모리 매핑 상태**를 주로 관찰한다.",
-  "path": "docs/cs/os/2026-08-21-paging-and-segmentation.md"
+  "date": "2026-08-22",
+  "title": "스택과 큐: 내부 구현 관점",
+  "topic": "stack and queue",
+  "category": "data-structures",
+  "category_name": "자료구조",
+  "angle": "내부 구현 관점으로",
+  "summary": "스택(Stack)**: 후입선출(LIFO) 구조이며, 배열의 끝을 `top`으로 사용하면 삽입·삭제가 평균 `O(1)`이다.",
+  "bullets": "• 스택(Stack)**: 후입선출(LIFO) 구조이며, 배열의 끝을 `top`으로 사용하면 삽입·삭제가 평균 `O(1)`이다.\n• 큐(Queue)**: 선입선출(FIFO) 구조이며, 배열에서는 원형 버퍼를 사용해야 앞쪽 빈 공간을 재사용할 수 있다.\n• 핵심 성능은 자료구조 자체보다 **인덱스 관리, 메모리 재할당, 캐시 지역성, 동시성 제어**에 의해 달라진다.",
+  "path": "docs/cs/data-structures/2026-08-22-stack-and-queue.md"
 }
