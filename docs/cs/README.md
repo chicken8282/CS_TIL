@@ -116,6 +116,7 @@
 - 2026-08-12 [CAP 정리: 분산 시스템의 일관성·가용성·분할 내성](system-design/2026-08-12-cap-theorem.md)
 - 2026-08-15 [Consistency Models: 자주 하는 실수와 안티패턴](system-design/2026-08-15-consistency-models.md)
 - 2026-08-19 [분산 추적(Distributed Tracing)](system-design/2026-08-19-distributed-tracing.md)
+- 2026-08-23 [일관성 모델과 성능 최적화](system-design/2026-08-23-consistency-models.md)
 
 ## DevOps
 - 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)
@@ -135,6 +136,7 @@
 - 2026-08-12 [컨테이너화: 실무 트러블슈팅 중심 정리](devops/2026-08-12-containerization.md)
 - 2026-08-16 [CI/CD 기초: 자동화된 빌드·테스트·배포](devops/2026-08-16-ci-cd-fundamentals.md)
 - 2026-08-19 [컨테이너화(Containerization)와 실무 트러블슈팅](devops/2026-08-19-containerization.md)
+- 2026-08-23 [CI/CD Fundamentals](devops/2026-08-23-ci-cd-fundamentals.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)
@@ -153,6 +155,7 @@
 - 2026-08-12 [Out-of-Order Execution](computer-arch/2026-08-12-out-of-order-execution.md)
 - 2026-08-16 [시간 복잡도: 자주 하는 실수와 안티패턴](computer-arch/2026-08-16-time-complexity.md)
 - 2026-08-20 [RISC vs CISC: 명령어 집합 구조 비교](computer-arch/2026-08-20-risc-vs-cisc.md)
+- 2026-08-23 [부동소수점 표현과 자주 하는 실수](computer-arch/2026-08-23-floating-point-representation.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
