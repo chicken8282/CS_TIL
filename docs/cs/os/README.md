@@ -20,3 +20,4 @@
 - 2026-08-13 [가상 메모리: 성능 최적화 관점](2026-08-13-virtual-memory.md)
 - 2026-08-17 [컨텍스트 스위칭(Context Switching)](2026-08-17-context-switching.md)
 - 2026-08-21 [페이징과 세그멘테이션: 실무 트러블슈팅 관점](2026-08-21-paging-and-segmentation.md)
+- 2026-08-24 [락과 데드락](2026-08-24-locks-and-deadlocks.md)

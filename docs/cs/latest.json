@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-23",
-  "title": "일관성 모델과 성능 최적화",
-  "topic": "consistency models",
-  "category": "system-design",
-  "category_name": "시스템 설계",
-  "angle": "성능 최적화 관점으로",
-  "summary": "강한 일관성**은 최신 데이터를 보장하지만, 지연 시간과 가용성을 희생한다.",
-  "bullets": "• 강한 일관성**은 최신 데이터를 보장하지만, 지연 시간과 가용성을 희생한다.\n• 약한 일관성**은 복제·캐시 확장에 유리하지만, 읽기 결과가 잠시 다를 수 있다.\n• 성능 최적화의 핵심은 모든 요청에 강한 일관성을 적용하지 않고, **데이터 중요도별로 모델을 분리**하는 것이다.",
-  "path": "docs/cs/system-design/2026-08-23-consistency-models.md"
+  "date": "2026-08-24",
+  "title": "NUMA 아키텍처",
+  "topic": "NUMA architecture",
+  "category": "memory",
+  "category_name": "메모리 최적화",
+  "angle": "코드 예제 중심으로",
+  "summary": "NUMA(Non-Uniform Memory Access)**는 CPU마다 가까운 로컬 메모리와 먼 원격 메모리가 존재하는 구조다.",
+  "bullets": "• NUMA(Non-Uniform Memory Access)**는 CPU마다 가까운 로컬 메모리와 먼 원격 메모리가 존재하는 구조다.\n• 스레드가 자신이 실행되는 노드의 메모리를 사용하면 빠르지만, 다른 노드의 메모리에 접근하면 지연 시간과 메모리 대역폭 비용이 증가한다.\n• 성능 최적화의 핵심은 **스레드와 데이터의 위치를 함께 배치**하는 것이다. 이를 CPU affinity와 NUMA-aware allocation으로 관리한다.",
+  "path": "docs/cs/memory/2026-08-24-numa-architecture.md"
 }

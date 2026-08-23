@@ -21,6 +21,7 @@
 - 2026-08-13 [가상 메모리: 성능 최적화 관점](os/2026-08-13-virtual-memory.md)
 - 2026-08-17 [컨텍스트 스위칭(Context Switching)](os/2026-08-17-context-switching.md)
 - 2026-08-21 [페이징과 세그멘테이션: 실무 트러블슈팅 관점](os/2026-08-21-paging-and-segmentation.md)
+- 2026-08-24 [락과 데드락](os/2026-08-24-locks-and-deadlocks.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -169,6 +170,7 @@
 - 2026-08-13 [메모리 풀링(Memory Pooling)](memory/2026-08-13-memory-pooling.md)
 - 2026-08-16 [NUMA 아키텍처](memory/2026-08-16-numa-architecture.md)
 - 2026-08-20 [메모리 정렬(Memory Alignment)과 실무 트러블슈팅](memory/2026-08-20-memory-alignment.md)
+- 2026-08-24 [NUMA 아키텍처](memory/2026-08-24-numa-architecture.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
@@ -181,3 +183,4 @@
 - 2026-08-13 [Fine-tuning과 LoRA 내부 구현](ai-ml/2026-08-13-fine-tuning-and-lora.md)
 - 2026-08-17 [멀티모달 모델: 자주 하는 실수와 안티패턴](ai-ml/2026-08-17-multimodal-models.md)
 - 2026-08-20 [Transformer 아키텍처: 내부 구현 관점](ai-ml/2026-08-20-transformer-architecture.md)
+- 2026-08-24 [프롬프트 엔지니어링: 실수와 안티패턴](ai-ml/2026-08-24-prompt-engineering.md)
