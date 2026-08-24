@@ -36,6 +36,7 @@
 - 2026-08-14 [WebSocket: 지속 연결과 프레임 처리의 내부 구현](network/2026-08-14-websocket.md)
 - 2026-08-17 [TCP vs UDP: 현업에서의 선택 기준](network/2026-08-17-tcp-vs-udp.md)
 - 2026-08-21 [HTTP/2 vs HTTP/3: 내부 구현 관점](network/2026-08-21-http-2-vs-http-3.md)
+- 2026-08-25 [CDN: 빠르게 전달하는 법보다 올바르게 캐시하는 법](network/2026-08-25-cdn.md)
 
 ## 데이터베이스
 - 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
@@ -51,6 +52,7 @@
 - 2026-08-14 [정규화와 반정규화: 성능 최적화 관점](database/2026-08-14-normalization-and-denormalization.md)
 - 2026-08-18 [Replication(복제)](database/2026-08-18-replication.md)
 - 2026-08-21 [트랜잭션과 ACID: 성능 최적화 관점](database/2026-08-21-transactions-and-acid.md)
+- 2026-08-25 [Connection Pooling이란?](database/2026-08-25-connection-pooling.md)
 
 ## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)
@@ -65,6 +67,7 @@
 - 2026-08-14 [스택과 큐](data-structures/2026-08-14-stack-and-queue.md)
 - 2026-08-18 [Bloom Filter: 대규모 조회를 줄이는 확률적 자료구조](data-structures/2026-08-18-bloom-filter.md)
 - 2026-08-22 [스택과 큐: 내부 구현 관점](data-structures/2026-08-22-stack-and-queue.md)
+- 2026-08-25 [Trie(트라이): 문자열 검색과 자동완성의 핵심 자료구조](data-structures/2026-08-25-trie.md)
 
 ## 알고리즘
 - 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)

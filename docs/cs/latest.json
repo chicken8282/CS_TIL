@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-24",
-  "title": "NUMA 아키텍처",
-  "topic": "NUMA architecture",
-  "category": "memory",
-  "category_name": "메모리 최적화",
-  "angle": "코드 예제 중심으로",
-  "summary": "NUMA(Non-Uniform Memory Access)**는 CPU마다 가까운 로컬 메모리와 먼 원격 메모리가 존재하는 구조다.",
-  "bullets": "• NUMA(Non-Uniform Memory Access)**는 CPU마다 가까운 로컬 메모리와 먼 원격 메모리가 존재하는 구조다.\n• 스레드가 자신이 실행되는 노드의 메모리를 사용하면 빠르지만, 다른 노드의 메모리에 접근하면 지연 시간과 메모리 대역폭 비용이 증가한다.\n• 성능 최적화의 핵심은 **스레드와 데이터의 위치를 함께 배치**하는 것이다. 이를 CPU affinity와 NUMA-aware allocation으로 관리한다.",
-  "path": "docs/cs/memory/2026-08-24-numa-architecture.md"
+  "date": "2026-08-25",
+  "title": "CDN: 빠르게 전달하는 법보다 올바르게 캐시하는 법",
+  "topic": "CDN",
+  "category": "network",
+  "category_name": "네트워크",
+  "angle": "자주 하는 실수와 안티패턴 중심으로",
+  "summary": "CDN은 사용자와 원본 서버 사이의 엣지 서버에 정적·동적 응답을 캐시해 지연 시간과 원본 부하를 줄인다.",
+  "bullets": "• CDN은 사용자와 원본 서버 사이의 엣지 서버에 정적·동적 응답을 캐시해 지연 시간과 원본 부하를 줄인다.**\n• 캐시 키, TTL, 무효화 정책을 잘못 설계하면 오래된 데이터 노출·사용자 간 데이터 혼재·캐시 폭탄이 발생한다.**\n• CDN은 보안 경계가 아니다. 인증, 권한 검사, 개인정보 응답 캐싱 여부를 원본과 함께 설계해야 한다.**",
+  "path": "docs/cs/network/2026-08-25-cdn.md"
 }
