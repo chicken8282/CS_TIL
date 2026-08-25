@@ -88,6 +88,7 @@
 - 2026-08-15 [투 포인터와 슬라이딩 윈도우](algorithms/2026-08-15-two-pointers-and-sliding-window.md)
 - 2026-08-18 [최단 경로 알고리즘](algorithms/2026-08-18-shortest-path-algorithms.md)
 - 2026-08-22 [동적 계획법과 성능 최적화](algorithms/2026-08-22-dynamic-programming.md)
+- 2026-08-26 [투 포인터와 슬라이딩 윈도우](algorithms/2026-08-26-two-pointers-and-sliding-window.md)
 
 ## 웹/보안
 - 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](web-security/2026-06-22-oauth-2-0.md)
@@ -104,6 +105,7 @@
 - 2026-08-15 [브라우저 렌더링](web-security/2026-08-15-browser-rendering.md)
 - 2026-08-19 [Rate Limiting](web-security/2026-08-19-rate-limiting.md)
 - 2026-08-22 [REST API 설계](web-security/2026-08-22-rest-api-design.md)
+- 2026-08-26 [HTTPS와 인증서](web-security/2026-08-26-https-and-certificate.md)
 
 ## 시스템 설계
 - 2026-06-24 [메시지 큐(Message Queue)](system-design/2026-06-24-message-queues.md)
@@ -121,6 +123,7 @@
 - 2026-08-15 [Consistency Models: 자주 하는 실수와 안티패턴](system-design/2026-08-15-consistency-models.md)
 - 2026-08-19 [분산 추적(Distributed Tracing)](system-design/2026-08-19-distributed-tracing.md)
 - 2026-08-23 [일관성 모델과 성능 최적화](system-design/2026-08-23-consistency-models.md)
+- 2026-08-26 [API Gateway](system-design/2026-08-26-api-gateway.md)
 
 ## DevOps
 - 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)

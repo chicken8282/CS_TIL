@@ -15,3 +15,4 @@
 - 2026-08-15 [Consistency Models: 자주 하는 실수와 안티패턴](2026-08-15-consistency-models.md)
 - 2026-08-19 [분산 추적(Distributed Tracing)](2026-08-19-distributed-tracing.md)
 - 2026-08-23 [일관성 모델과 성능 최적화](2026-08-23-consistency-models.md)
+- 2026-08-26 [API Gateway](2026-08-26-api-gateway.md)

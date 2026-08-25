@@ -14,3 +14,4 @@
 - 2026-08-15 [브라우저 렌더링](2026-08-15-browser-rendering.md)
 - 2026-08-19 [Rate Limiting](2026-08-19-rate-limiting.md)
 - 2026-08-22 [REST API 설계](2026-08-22-rest-api-design.md)
+- 2026-08-26 [HTTPS와 인증서](2026-08-26-https-and-certificate.md)
