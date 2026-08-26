@@ -144,6 +144,7 @@
 - 2026-08-16 [CI/CD 기초: 자동화된 빌드·테스트·배포](devops/2026-08-16-ci-cd-fundamentals.md)
 - 2026-08-19 [컨테이너화(Containerization)와 실무 트러블슈팅](devops/2026-08-19-containerization.md)
 - 2026-08-23 [CI/CD Fundamentals](devops/2026-08-23-ci-cd-fundamentals.md)
+- 2026-08-27 [컨테이너 오케스트레이션](devops/2026-08-27-container-orchestration.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)
@@ -163,6 +164,7 @@
 - 2026-08-16 [시간 복잡도: 자주 하는 실수와 안티패턴](computer-arch/2026-08-16-time-complexity.md)
 - 2026-08-20 [RISC vs CISC: 명령어 집합 구조 비교](computer-arch/2026-08-20-risc-vs-cisc.md)
 - 2026-08-23 [부동소수점 표현과 자주 하는 실수](computer-arch/2026-08-23-floating-point-representation.md)
+- 2026-08-27 [브랜치 예측(Branch Prediction)](computer-arch/2026-08-27-branch-prediction.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
@@ -177,6 +179,7 @@
 - 2026-08-16 [NUMA 아키텍처](memory/2026-08-16-numa-architecture.md)
 - 2026-08-20 [메모리 정렬(Memory Alignment)과 실무 트러블슈팅](memory/2026-08-20-memory-alignment.md)
 - 2026-08-24 [NUMA 아키텍처](memory/2026-08-24-numa-architecture.md)
+- 2026-08-27 [Prefetching: 필요하기 전에 데이터를 가져오는 전략](memory/2026-08-27-prefetching.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)

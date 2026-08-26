@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-26",
-  "title": "투 포인터와 슬라이딩 윈도우",
-  "topic": "two pointers and sliding window",
-  "category": "algorithms",
-  "category_name": "알고리즘",
-  "angle": "초보자에게 비유로 설명하듯",
-  "summary": "투 포인터**는 배열을 두 개의 인덱스로 가리키며 탐색 범위를 줄이는 기법이다.",
-  "bullets": "• 투 포인터**는 배열을 두 개의 인덱스로 가리키며 탐색 범위를 줄이는 기법이다.\n• 슬라이딩 윈도우**는 연속된 구간을 창문처럼 유지하며, 한 칸씩 밀어 효율적으로 계산한다.\n• 두 기법 모두 반복 탐색을 줄여 보통 **O(N²) 문제를 O(N)** 으로 개선한다.",
-  "path": "docs/cs/algorithms/2026-08-26-two-pointers-and-sliding-window.md"
+  "date": "2026-08-27",
+  "title": "컨테이너 오케스트레이션",
+  "topic": "container orchestration",
+  "category": "devops",
+  "category_name": "DevOps",
+  "angle": "현업 적용 사례 중심으로",
+  "summary": "여러 컨테이너의 **배포·확장·복구·네트워킹**을 자동화한다.",
+  "bullets": "• 여러 컨테이너의 **배포·확장·복구·네트워킹**을 자동화한다.\n• 대표 도구는 Kubernetes이며, AWS ECS/EKS, GCP GKE, Azure AKS처럼 관리형 서비스로도 사용한다.\n• 현업에서는 무중단 배포, 트래픽 급증 대응, 장애 컨테이너 자동 재시작에 특히 활용된다.",
+  "path": "docs/cs/devops/2026-08-27-container-orchestration.md"
 }

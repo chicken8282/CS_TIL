@@ -18,3 +18,4 @@
 - 2026-08-16 [CI/CD 기초: 자동화된 빌드·테스트·배포](2026-08-16-ci-cd-fundamentals.md)
 - 2026-08-19 [컨테이너화(Containerization)와 실무 트러블슈팅](2026-08-19-containerization.md)
 - 2026-08-23 [CI/CD Fundamentals](2026-08-23-ci-cd-fundamentals.md)
+- 2026-08-27 [컨테이너 오케스트레이션](2026-08-27-container-orchestration.md)

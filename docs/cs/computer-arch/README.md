@@ -16,3 +16,4 @@
 - 2026-08-16 [시간 복잡도: 자주 하는 실수와 안티패턴](2026-08-16-time-complexity.md)
 - 2026-08-20 [RISC vs CISC: 명령어 집합 구조 비교](2026-08-20-risc-vs-cisc.md)
 - 2026-08-23 [부동소수점 표현과 자주 하는 실수](2026-08-23-floating-point-representation.md)
+- 2026-08-27 [브랜치 예측(Branch Prediction)](2026-08-27-branch-prediction.md)
