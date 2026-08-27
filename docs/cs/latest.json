@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-27",
-  "title": "컨테이너 오케스트레이션",
-  "topic": "container orchestration",
-  "category": "devops",
-  "category_name": "DevOps",
-  "angle": "현업 적용 사례 중심으로",
-  "summary": "여러 컨테이너의 **배포·확장·복구·네트워킹**을 자동화한다.",
-  "bullets": "• 여러 컨테이너의 **배포·확장·복구·네트워킹**을 자동화한다.\n• 대표 도구는 Kubernetes이며, AWS ECS/EKS, GCP GKE, Azure AKS처럼 관리형 서비스로도 사용한다.\n• 현업에서는 무중단 배포, 트래픽 급증 대응, 장애 컨테이너 자동 재시작에 특히 활용된다.",
-  "path": "docs/cs/devops/2026-08-27-container-orchestration.md"
+  "date": "2026-08-28",
+  "title": "양자화와 모델 압축: 면접 대비 핵심 정리",
+  "topic": "quantization and model compression",
+  "category": "ai-ml",
+  "category_name": "AI/ML",
+  "angle": "면접 질문 중심으로",
+  "summary": "양자화(Quantization)**: FP32 가중치·활성값을 INT8, FP16, INT4 등 낮은 비트로 표현해 메모리와 연산 비용을 줄인다.",
+  "bullets": "• 양자화(Quantization)**: FP32 가중치·활성값을 INT8, FP16, INT4 등 낮은 비트로 표현해 메모리와 연산 비용을 줄인다.\n• 대표 압축 기법**: 양자화, 가지치기(Pruning), 지식 증류(Distillation), 저랭크 분해가 있으며 목적과 손실 특성이 다르다.\n• 핵심 트레이드오프**: 모델 크기와 지연 시간은 줄지만 정확도, 지원 연산자, 하드웨어 효율이 영향을 받으므로 배포 환경 기준으로 선택해야 한다.",
+  "path": "docs/cs/ai-ml/2026-08-28-quantization-and-model-compression.md"
 }

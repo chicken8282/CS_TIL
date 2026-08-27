@@ -22,6 +22,7 @@
 - 2026-08-17 [컨텍스트 스위칭(Context Switching)](os/2026-08-17-context-switching.md)
 - 2026-08-21 [페이징과 세그멘테이션: 실무 트러블슈팅 관점](os/2026-08-21-paging-and-segmentation.md)
 - 2026-08-24 [락과 데드락](os/2026-08-24-locks-and-deadlocks.md)
+- 2026-08-28 [스케줄링 알고리즘과 실무 트러블슈팅](os/2026-08-28-scheduling-algorithms.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -37,6 +38,7 @@
 - 2026-08-17 [TCP vs UDP: 현업에서의 선택 기준](network/2026-08-17-tcp-vs-udp.md)
 - 2026-08-21 [HTTP/2 vs HTTP/3: 내부 구현 관점](network/2026-08-21-http-2-vs-http-3.md)
 - 2026-08-25 [CDN: 빠르게 전달하는 법보다 올바르게 캐시하는 법](network/2026-08-25-cdn.md)
+- 2026-08-28 [HTTP 캐싱: 내부 구현과 검증 흐름](network/2026-08-28-http-caching.md)
 
 ## 데이터베이스
 - 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
@@ -193,3 +195,4 @@
 - 2026-08-17 [멀티모달 모델: 자주 하는 실수와 안티패턴](ai-ml/2026-08-17-multimodal-models.md)
 - 2026-08-20 [Transformer 아키텍처: 내부 구현 관점](ai-ml/2026-08-20-transformer-architecture.md)
 - 2026-08-24 [프롬프트 엔지니어링: 실수와 안티패턴](ai-ml/2026-08-24-prompt-engineering.md)
+- 2026-08-28 [양자화와 모델 압축: 면접 대비 핵심 정리](ai-ml/2026-08-28-quantization-and-model-compression.md)

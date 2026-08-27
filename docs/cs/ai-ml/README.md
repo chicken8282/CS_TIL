@@ -10,3 +10,4 @@
 - 2026-08-17 [멀티모달 모델: 자주 하는 실수와 안티패턴](2026-08-17-multimodal-models.md)
 - 2026-08-20 [Transformer 아키텍처: 내부 구현 관점](2026-08-20-transformer-architecture.md)
 - 2026-08-24 [프롬프트 엔지니어링: 실수와 안티패턴](2026-08-24-prompt-engineering.md)
+- 2026-08-28 [양자화와 모델 압축: 면접 대비 핵심 정리](2026-08-28-quantization-and-model-compression.md)

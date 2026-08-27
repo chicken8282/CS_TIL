@@ -21,3 +21,4 @@
 - 2026-08-17 [컨텍스트 스위칭(Context Switching)](2026-08-17-context-switching.md)
 - 2026-08-21 [페이징과 세그멘테이션: 실무 트러블슈팅 관점](2026-08-21-paging-and-segmentation.md)
 - 2026-08-24 [락과 데드락](2026-08-24-locks-and-deadlocks.md)
+- 2026-08-28 [스케줄링 알고리즘과 실무 트러블슈팅](2026-08-28-scheduling-algorithms.md)
