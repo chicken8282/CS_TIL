@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-28",
-  "title": "양자화와 모델 압축: 면접 대비 핵심 정리",
-  "topic": "quantization and model compression",
-  "category": "ai-ml",
-  "category_name": "AI/ML",
-  "angle": "면접 질문 중심으로",
-  "summary": "양자화(Quantization)**: FP32 가중치·활성값을 INT8, FP16, INT4 등 낮은 비트로 표현해 메모리와 연산 비용을 줄인다.",
-  "bullets": "• 양자화(Quantization)**: FP32 가중치·활성값을 INT8, FP16, INT4 등 낮은 비트로 표현해 메모리와 연산 비용을 줄인다.\n• 대표 압축 기법**: 양자화, 가지치기(Pruning), 지식 증류(Distillation), 저랭크 분해가 있으며 목적과 손실 특성이 다르다.\n• 핵심 트레이드오프**: 모델 크기와 지연 시간은 줄지만 정확도, 지원 연산자, 하드웨어 효율이 영향을 받으므로 배포 환경 기준으로 선택해야 한다.",
-  "path": "docs/cs/ai-ml/2026-08-28-quantization-and-model-compression.md"
+  "date": "2026-08-29",
+  "title": "트랜잭션과 ACID: 실무 트러블슈팅",
+  "topic": "transactions and ACID",
+  "category": "database",
+  "category_name": "데이터베이스",
+  "angle": "실무 트러블슈팅 관점으로",
+  "summary": "Atomicity**: 여러 작업을 전부 성공시키거나 전부 취소한다.",
+  "bullets": "• Atomicity**: 여러 작업을 전부 성공시키거나 전부 취소한다.\n• Consistency·Isolation**: 제약조건을 지키며, 동시 실행 중간 상태가 서로에게 노출되지 않게 한다.\n• Durability**: 커밋된 결과는 장애나 재시작 후에도 보존된다.",
+  "path": "docs/cs/database/2026-08-29-transactions-and-acid.md"
 }

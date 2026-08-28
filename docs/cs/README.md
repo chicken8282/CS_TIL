@@ -55,6 +55,7 @@
 - 2026-08-18 [Replication(복제)](database/2026-08-18-replication.md)
 - 2026-08-21 [트랜잭션과 ACID: 성능 최적화 관점](database/2026-08-21-transactions-and-acid.md)
 - 2026-08-25 [Connection Pooling이란?](database/2026-08-25-connection-pooling.md)
+- 2026-08-29 [트랜잭션과 ACID: 실무 트러블슈팅](database/2026-08-29-transactions-and-acid.md)
 
 ## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)
@@ -70,6 +71,7 @@
 - 2026-08-18 [Bloom Filter: 대규모 조회를 줄이는 확률적 자료구조](data-structures/2026-08-18-bloom-filter.md)
 - 2026-08-22 [스택과 큐: 내부 구현 관점](data-structures/2026-08-22-stack-and-queue.md)
 - 2026-08-25 [Trie(트라이): 문자열 검색과 자동완성의 핵심 자료구조](data-structures/2026-08-25-trie.md)
+- 2026-08-29 [B-Tree: 디스크 친화적 균형 탐색 트리](data-structures/2026-08-29-b-tree.md)
 
 ## 알고리즘
 - 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)
@@ -91,6 +93,7 @@
 - 2026-08-18 [최단 경로 알고리즘](algorithms/2026-08-18-shortest-path-algorithms.md)
 - 2026-08-22 [동적 계획법과 성능 최적화](algorithms/2026-08-22-dynamic-programming.md)
 - 2026-08-26 [투 포인터와 슬라이딩 윈도우](algorithms/2026-08-26-two-pointers-and-sliding-window.md)
+- 2026-08-29 [최단 경로 알고리즘과 성능 최적화](algorithms/2026-08-29-shortest-path-algorithms.md)
 
 ## 웹/보안
 - 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](web-security/2026-06-22-oauth-2-0.md)

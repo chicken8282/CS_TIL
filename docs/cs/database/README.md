@@ -14,3 +14,4 @@
 - 2026-08-18 [Replication(복제)](2026-08-18-replication.md)
 - 2026-08-21 [트랜잭션과 ACID: 성능 최적화 관점](2026-08-21-transactions-and-acid.md)
 - 2026-08-25 [Connection Pooling이란?](2026-08-25-connection-pooling.md)
+- 2026-08-29 [트랜잭션과 ACID: 실무 트러블슈팅](2026-08-29-transactions-and-acid.md)
