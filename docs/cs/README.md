@@ -111,6 +111,7 @@
 - 2026-08-19 [Rate Limiting](web-security/2026-08-19-rate-limiting.md)
 - 2026-08-22 [REST API 설계](web-security/2026-08-22-rest-api-design.md)
 - 2026-08-26 [HTTPS와 인증서](web-security/2026-08-26-https-and-certificate.md)
+- 2026-08-30 [REST API 설계: 내부 구현 관점](web-security/2026-08-30-rest-api-design.md)
 
 ## 시스템 설계
 - 2026-06-24 [메시지 큐(Message Queue)](system-design/2026-06-24-message-queues.md)
@@ -129,6 +130,7 @@
 - 2026-08-19 [분산 추적(Distributed Tracing)](system-design/2026-08-19-distributed-tracing.md)
 - 2026-08-23 [일관성 모델과 성능 최적화](system-design/2026-08-23-consistency-models.md)
 - 2026-08-26 [API Gateway](system-design/2026-08-26-api-gateway.md)
+- 2026-08-30 [캐시 무효화(Cache Invalidation)와 성능 최적화](system-design/2026-08-30-cache-invalidation.md)
 
 ## DevOps
 - 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)
@@ -150,6 +152,7 @@
 - 2026-08-19 [컨테이너화(Containerization)와 실무 트러블슈팅](devops/2026-08-19-containerization.md)
 - 2026-08-23 [CI/CD Fundamentals](devops/2026-08-23-ci-cd-fundamentals.md)
 - 2026-08-27 [컨테이너 오케스트레이션](devops/2026-08-27-container-orchestration.md)
+- 2026-08-30 [CI/CD fundamentals](devops/2026-08-30-ci-cd-fundamentals.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)

@@ -15,3 +15,4 @@
 - 2026-08-19 [Rate Limiting](2026-08-19-rate-limiting.md)
 - 2026-08-22 [REST API 설계](2026-08-22-rest-api-design.md)
 - 2026-08-26 [HTTPS와 인증서](2026-08-26-https-and-certificate.md)
+- 2026-08-30 [REST API 설계: 내부 구현 관점](2026-08-30-rest-api-design.md)

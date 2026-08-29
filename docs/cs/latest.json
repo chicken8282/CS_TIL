@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-29",
-  "title": "트랜잭션과 ACID: 실무 트러블슈팅",
-  "topic": "transactions and ACID",
-  "category": "database",
-  "category_name": "데이터베이스",
-  "angle": "실무 트러블슈팅 관점으로",
-  "summary": "Atomicity**: 여러 작업을 전부 성공시키거나 전부 취소한다.",
-  "bullets": "• Atomicity**: 여러 작업을 전부 성공시키거나 전부 취소한다.\n• Consistency·Isolation**: 제약조건을 지키며, 동시 실행 중간 상태가 서로에게 노출되지 않게 한다.\n• Durability**: 커밋된 결과는 장애나 재시작 후에도 보존된다.",
-  "path": "docs/cs/database/2026-08-29-transactions-and-acid.md"
+  "date": "2026-08-30",
+  "title": "REST API 설계: 내부 구현 관점",
+  "topic": "REST API design",
+  "category": "web-security",
+  "category_name": "웹/보안",
+  "angle": "내부 구현 관점으로",
+  "summary": "리소스 중심 모델링**: URL은 동작보다 리소스를 표현하고, HTTP 메서드로 행위를 구분한다.",
+  "bullets": "• 리소스 중심 모델링**: URL은 동작보다 리소스를 표현하고, HTTP 메서드로 행위를 구분한다.\n• 일관된 계약**: 상태 코드, 응답 형식, 오류 구조, 페이지네이션을 표준화해야 클라이언트와 서버를 독립적으로 변경할 수 있다.\n• 서버 내부 흐름 고려**: 라우팅 이후 인증·검증·트랜잭션·저장소 호출·직렬화가 안정적으로 연결되어야 한다.",
+  "path": "docs/cs/web-security/2026-08-30-rest-api-design.md"
 }
