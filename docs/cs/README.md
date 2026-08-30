@@ -173,6 +173,7 @@
 - 2026-08-20 [RISC vs CISC: 명령어 집합 구조 비교](computer-arch/2026-08-20-risc-vs-cisc.md)
 - 2026-08-23 [부동소수점 표현과 자주 하는 실수](computer-arch/2026-08-23-floating-point-representation.md)
 - 2026-08-27 [브랜치 예측(Branch Prediction)](computer-arch/2026-08-27-branch-prediction.md)
+- 2026-08-31 [인터럽트와 예외: 성능 최적화 관점](computer-arch/2026-08-31-interrupts-and-exceptions.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
@@ -188,6 +189,7 @@
 - 2026-08-20 [메모리 정렬(Memory Alignment)과 실무 트러블슈팅](memory/2026-08-20-memory-alignment.md)
 - 2026-08-24 [NUMA 아키텍처](memory/2026-08-24-numa-architecture.md)
 - 2026-08-27 [Prefetching: 필요하기 전에 데이터를 가져오는 전략](memory/2026-08-27-prefetching.md)
+- 2026-08-31 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-08-31-memory-mapped-files.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
@@ -202,3 +204,4 @@
 - 2026-08-20 [Transformer 아키텍처: 내부 구현 관점](ai-ml/2026-08-20-transformer-architecture.md)
 - 2026-08-24 [프롬프트 엔지니어링: 실수와 안티패턴](ai-ml/2026-08-24-prompt-engineering.md)
 - 2026-08-28 [양자화와 모델 압축: 면접 대비 핵심 정리](ai-ml/2026-08-28-quantization-and-model-compression.md)
+- 2026-08-31 [모델 평가와 환각](ai-ml/2026-08-31-model-evaluation-and-hallucination.md)

@@ -12,3 +12,4 @@
 - 2026-08-20 [메모리 정렬(Memory Alignment)과 실무 트러블슈팅](2026-08-20-memory-alignment.md)
 - 2026-08-24 [NUMA 아키텍처](2026-08-24-numa-architecture.md)
 - 2026-08-27 [Prefetching: 필요하기 전에 데이터를 가져오는 전략](2026-08-27-prefetching.md)
+- 2026-08-31 [메모리 매핑 파일(Memory-Mapped File)](2026-08-31-memory-mapped-files.md)
