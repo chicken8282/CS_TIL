@@ -23,6 +23,7 @@
 - 2026-08-21 [페이징과 세그멘테이션: 실무 트러블슈팅 관점](os/2026-08-21-paging-and-segmentation.md)
 - 2026-08-24 [락과 데드락](os/2026-08-24-locks-and-deadlocks.md)
 - 2026-08-28 [스케줄링 알고리즘과 실무 트러블슈팅](os/2026-08-28-scheduling-algorithms.md)
+- 2026-09-01 [프로세스 vs 스레드](os/2026-09-01-process-vs-thread.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -39,6 +40,7 @@
 - 2026-08-21 [HTTP/2 vs HTTP/3: 내부 구현 관점](network/2026-08-21-http-2-vs-http-3.md)
 - 2026-08-25 [CDN: 빠르게 전달하는 법보다 올바르게 캐시하는 법](network/2026-08-25-cdn.md)
 - 2026-08-28 [HTTP 캐싱: 내부 구현과 검증 흐름](network/2026-08-28-http-caching.md)
+- 2026-09-01 [WebSocket: 실수와 안티패턴 중심 정리](network/2026-09-01-websocket.md)
 
 ## 데이터베이스
 - 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
@@ -56,6 +58,7 @@
 - 2026-08-21 [트랜잭션과 ACID: 성능 최적화 관점](database/2026-08-21-transactions-and-acid.md)
 - 2026-08-25 [Connection Pooling이란?](database/2026-08-25-connection-pooling.md)
 - 2026-08-29 [트랜잭션과 ACID: 실무 트러블슈팅](database/2026-08-29-transactions-and-acid.md)
+- 2026-09-01 [쿼리 최적화(Query Optimization)](database/2026-09-01-query-optimization.md)
 
 ## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)
