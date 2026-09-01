@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-01",
-  "title": "프로세스 vs 스레드",
-  "topic": "process vs thread",
-  "category": "os",
-  "category_name": "운영체제",
-  "angle": "코드 예제 중심으로",
-  "summary": "프로세스(Process)**는 독립적인 메모리 공간을 가진 실행 단위이며, 장애 격리와 보안에 유리하다.",
-  "bullets": "• 프로세스(Process)**는 독립적인 메모리 공간을 가진 실행 단위이며, 장애 격리와 보안에 유리하다.\n• 스레드(Thread)**는 프로세스 내부의 실행 흐름으로, 같은 메모리를 공유하므로 생성과 전환 비용이 낮다.\n• 공유 메모리는 빠르지만 경쟁 조건이 발생할 수 있어 락, 원자 연산, 메시지 전달 등 동기화가 필요하다.",
-  "path": "docs/cs/os/2026-09-01-process-vs-thread.md"
+  "date": "2026-09-02",
+  "title": "Trie(트라이): 문자열 검색의 기본과 실수 방지",
+  "topic": "trie",
+  "category": "data-structures",
+  "category_name": "자료구조",
+  "angle": "자주 하는 실수와 안티패턴 중심으로",
+  "summary": "문자열을 공통 접두사 기준으로 저장해 검색·자동완성에 유리하다.",
+  "bullets": "• 문자열을 공통 접두사 기준으로 저장해 검색·자동완성에 유리하다.\n• 삽입과 검색 시간은 문자열 길이를 `L`이라 할 때 `O(L)`이다.\n• `is_end` 표시 누락, 자식 노드 관리 방식 선택 오류, 삭제 로직 실수가 가장 흔하다.",
+  "path": "docs/cs/data-structures/2026-09-02-trie.md"
 }

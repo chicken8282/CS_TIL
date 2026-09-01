@@ -75,6 +75,7 @@
 - 2026-08-22 [스택과 큐: 내부 구현 관점](data-structures/2026-08-22-stack-and-queue.md)
 - 2026-08-25 [Trie(트라이): 문자열 검색과 자동완성의 핵심 자료구조](data-structures/2026-08-25-trie.md)
 - 2026-08-29 [B-Tree: 디스크 친화적 균형 탐색 트리](data-structures/2026-08-29-b-tree.md)
+- 2026-09-02 [Trie(트라이): 문자열 검색의 기본과 실수 방지](data-structures/2026-09-02-trie.md)
 
 ## 알고리즘
 - 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)
@@ -97,6 +98,7 @@
 - 2026-08-22 [동적 계획법과 성능 최적화](algorithms/2026-08-22-dynamic-programming.md)
 - 2026-08-26 [투 포인터와 슬라이딩 윈도우](algorithms/2026-08-26-two-pointers-and-sliding-window.md)
 - 2026-08-29 [최단 경로 알고리즘과 성능 최적화](algorithms/2026-08-29-shortest-path-algorithms.md)
+- 2026-09-02 [동적 계획법(Dynamic Programming, DP)](algorithms/2026-09-02-dynamic-programming.md)
 
 ## 웹/보안
 - 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](web-security/2026-06-22-oauth-2-0.md)
@@ -115,6 +117,7 @@
 - 2026-08-22 [REST API 설계](web-security/2026-08-22-rest-api-design.md)
 - 2026-08-26 [HTTPS와 인증서](web-security/2026-08-26-https-and-certificate.md)
 - 2026-08-30 [REST API 설계: 내부 구현 관점](web-security/2026-08-30-rest-api-design.md)
+- 2026-09-02 [SQL Injection](web-security/2026-09-02-sql-injection.md)
 
 ## 시스템 설계
 - 2026-06-24 [메시지 큐(Message Queue)](system-design/2026-06-24-message-queues.md)
