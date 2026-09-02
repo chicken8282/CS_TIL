@@ -137,6 +137,7 @@
 - 2026-08-23 [일관성 모델과 성능 최적화](system-design/2026-08-23-consistency-models.md)
 - 2026-08-26 [API Gateway](system-design/2026-08-26-api-gateway.md)
 - 2026-08-30 [캐시 무효화(Cache Invalidation)와 성능 최적화](system-design/2026-08-30-cache-invalidation.md)
+- 2026-09-03 [API Gateway란?](system-design/2026-09-03-api-gateway.md)
 
 ## DevOps
 - 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)
@@ -159,6 +160,7 @@
 - 2026-08-23 [CI/CD Fundamentals](devops/2026-08-23-ci-cd-fundamentals.md)
 - 2026-08-27 [컨테이너 오케스트레이션](devops/2026-08-27-container-orchestration.md)
 - 2026-08-30 [CI/CD fundamentals](devops/2026-08-30-ci-cd-fundamentals.md)
+- 2026-09-03 [컨테이너 오케스트레이션](devops/2026-09-03-container-orchestration.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)
@@ -180,6 +182,7 @@
 - 2026-08-23 [부동소수점 표현과 자주 하는 실수](computer-arch/2026-08-23-floating-point-representation.md)
 - 2026-08-27 [브랜치 예측(Branch Prediction)](computer-arch/2026-08-27-branch-prediction.md)
 - 2026-08-31 [인터럽트와 예외: 성능 최적화 관점](computer-arch/2026-08-31-interrupts-and-exceptions.md)
+- 2026-09-03 [시간 복잡도(Time Complexity)](computer-arch/2026-09-03-time-complexity.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)

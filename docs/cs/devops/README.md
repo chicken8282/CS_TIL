@@ -20,3 +20,4 @@
 - 2026-08-23 [CI/CD Fundamentals](2026-08-23-ci-cd-fundamentals.md)
 - 2026-08-27 [컨테이너 오케스트레이션](2026-08-27-container-orchestration.md)
 - 2026-08-30 [CI/CD fundamentals](2026-08-30-ci-cd-fundamentals.md)
+- 2026-09-03 [컨테이너 오케스트레이션](2026-09-03-container-orchestration.md)
