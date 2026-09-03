@@ -13,3 +13,4 @@
 - 2026-08-24 [NUMA 아키텍처](2026-08-24-numa-architecture.md)
 - 2026-08-27 [Prefetching: 필요하기 전에 데이터를 가져오는 전략](2026-08-27-prefetching.md)
 - 2026-08-31 [메모리 매핑 파일(Memory-Mapped File)](2026-08-31-memory-mapped-files.md)
+- 2026-09-04 [Prefetching: 필요한 데이터를 미리 가져오는 최적화](2026-09-04-prefetching.md)

@@ -12,3 +12,4 @@
 - 2026-08-24 [프롬프트 엔지니어링: 실수와 안티패턴](2026-08-24-prompt-engineering.md)
 - 2026-08-28 [양자화와 모델 압축: 면접 대비 핵심 정리](2026-08-28-quantization-and-model-compression.md)
 - 2026-08-31 [모델 평가와 환각](2026-08-31-model-evaluation-and-hallucination.md)
+- 2026-09-04 [RAG (Retrieval-Augmented Generation) 면접 정리](2026-09-04-rag-retrieval-augmented-generation.md)

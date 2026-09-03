@@ -24,6 +24,7 @@
 - 2026-08-24 [락과 데드락](os/2026-08-24-locks-and-deadlocks.md)
 - 2026-08-28 [스케줄링 알고리즘과 실무 트러블슈팅](os/2026-08-28-scheduling-algorithms.md)
 - 2026-09-01 [프로세스 vs 스레드](os/2026-09-01-process-vs-thread.md)
+- 2026-09-04 [Garbage Collection과 실무 트러블슈팅](os/2026-09-04-garbage-collection.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -199,6 +200,7 @@
 - 2026-08-24 [NUMA 아키텍처](memory/2026-08-24-numa-architecture.md)
 - 2026-08-27 [Prefetching: 필요하기 전에 데이터를 가져오는 전략](memory/2026-08-27-prefetching.md)
 - 2026-08-31 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-08-31-memory-mapped-files.md)
+- 2026-09-04 [Prefetching: 필요한 데이터를 미리 가져오는 최적화](memory/2026-09-04-prefetching.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
@@ -214,3 +216,4 @@
 - 2026-08-24 [프롬프트 엔지니어링: 실수와 안티패턴](ai-ml/2026-08-24-prompt-engineering.md)
 - 2026-08-28 [양자화와 모델 압축: 면접 대비 핵심 정리](ai-ml/2026-08-28-quantization-and-model-compression.md)
 - 2026-08-31 [모델 평가와 환각](ai-ml/2026-08-31-model-evaluation-and-hallucination.md)
+- 2026-09-04 [RAG (Retrieval-Augmented Generation) 면접 정리](ai-ml/2026-09-04-rag-retrieval-augmented-generation.md)

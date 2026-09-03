@@ -23,3 +23,4 @@
 - 2026-08-24 [락과 데드락](2026-08-24-locks-and-deadlocks.md)
 - 2026-08-28 [스케줄링 알고리즘과 실무 트러블슈팅](2026-08-28-scheduling-algorithms.md)
 - 2026-09-01 [프로세스 vs 스레드](2026-09-01-process-vs-thread.md)
+- 2026-09-04 [Garbage Collection과 실무 트러블슈팅](2026-09-04-garbage-collection.md)
