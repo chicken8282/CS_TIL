@@ -15,3 +15,4 @@
 - 2026-08-25 [CDN: 빠르게 전달하는 법보다 올바르게 캐시하는 법](2026-08-25-cdn.md)
 - 2026-08-28 [HTTP 캐싱: 내부 구현과 검증 흐름](2026-08-28-http-caching.md)
 - 2026-09-01 [WebSocket: 실수와 안티패턴 중심 정리](2026-09-01-websocket.md)
+- 2026-09-05 [DNS 해석(DNS Resolution)](2026-09-05-dns-resolution.md)
