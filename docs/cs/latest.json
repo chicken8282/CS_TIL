@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-05",
-  "title": "DNS 해석(DNS Resolution)",
-  "topic": "DNS resolution",
-  "category": "network",
-  "category_name": "네트워크",
-  "angle": "면접 질문 중심으로",
-  "summary": "도메인 이름을 IP 주소로 변환하는 계층형 분산 시스템이다.",
-  "bullets": "• 도메인 이름을 IP 주소로 변환하는 계층형 분산 시스템이다.\n• 브라우저·OS·리졸버의 캐시를 먼저 확인하므로 매번 권한 DNS 서버까지 요청하지 않는다.\n• 재귀 조회와 반복 조회를 구분하고, TTL·레코드 타입·실패 원인을 설명할 수 있어야 한다.",
-  "path": "docs/cs/network/2026-09-05-dns-resolution.md"
+  "date": "2026-09-06",
+  "title": "투 포인터와 슬라이딩 윈도우",
+  "topic": "two pointers and sliding window",
+  "category": "algorithms",
+  "category_name": "알고리즘",
+  "angle": "실무 트러블슈팅 관점으로",
+  "summary": "투 포인터**는 정렬된 배열이나 연속 구간을 두 인덱스로 탐색해 시간 복잡도를 줄인다.",
+  "bullets": "• 투 포인터**는 정렬된 배열이나 연속 구간을 두 인덱스로 탐색해 시간 복잡도를 줄인다.\n• 슬라이딩 윈도우**는 `[left, right]` 구간을 유지하며 조건에 따라 양 끝을 이동한다.\n• 실무에서는 포인터 이동 조건, 윈도우 상태 갱신, 빈 입력과 경계값 처리가 장애의 주요 원인이다.",
+  "path": "docs/cs/algorithms/2026-09-06-two-pointers-and-sliding-window.md"
 }

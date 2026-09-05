@@ -17,3 +17,4 @@
 - 2026-08-26 [HTTPS와 인증서](2026-08-26-https-and-certificate.md)
 - 2026-08-30 [REST API 설계: 내부 구현 관점](2026-08-30-rest-api-design.md)
 - 2026-09-02 [SQL Injection](2026-09-02-sql-injection.md)
+- 2026-09-06 [OAuth 2.0 내부 구현 관점](2026-09-06-oauth-2-0.md)
