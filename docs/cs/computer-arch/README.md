@@ -19,3 +19,4 @@
 - 2026-08-27 [브랜치 예측(Branch Prediction)](2026-08-27-branch-prediction.md)
 - 2026-08-31 [인터럽트와 예외: 성능 최적화 관점](2026-08-31-interrupts-and-exceptions.md)
 - 2026-09-03 [시간 복잡도(Time Complexity)](2026-09-03-time-complexity.md)
+- 2026-09-07 [RISC vs CISC: 성능 최적화 관점](2026-09-07-risc-vs-cisc.md)

@@ -168,6 +168,7 @@
 - 2026-08-27 [컨테이너 오케스트레이션](devops/2026-08-27-container-orchestration.md)
 - 2026-08-30 [CI/CD fundamentals](devops/2026-08-30-ci-cd-fundamentals.md)
 - 2026-09-03 [컨테이너 오케스트레이션](devops/2026-09-03-container-orchestration.md)
+- 2026-09-07 [이벤트 루프(Event Loop)](devops/2026-09-07-event-loop.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)
@@ -190,6 +191,7 @@
 - 2026-08-27 [브랜치 예측(Branch Prediction)](computer-arch/2026-08-27-branch-prediction.md)
 - 2026-08-31 [인터럽트와 예외: 성능 최적화 관점](computer-arch/2026-08-31-interrupts-and-exceptions.md)
 - 2026-09-03 [시간 복잡도(Time Complexity)](computer-arch/2026-09-03-time-complexity.md)
+- 2026-09-07 [RISC vs CISC: 성능 최적화 관점](computer-arch/2026-09-07-risc-vs-cisc.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
@@ -207,6 +209,7 @@
 - 2026-08-27 [Prefetching: 필요하기 전에 데이터를 가져오는 전략](memory/2026-08-27-prefetching.md)
 - 2026-08-31 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-08-31-memory-mapped-files.md)
 - 2026-09-04 [Prefetching: 필요한 데이터를 미리 가져오는 최적화](memory/2026-09-04-prefetching.md)
+- 2026-09-07 [Copy-on-Write](memory/2026-09-07-copy-on-write.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
