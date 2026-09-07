@@ -24,3 +24,4 @@
 - 2026-08-28 [스케줄링 알고리즘과 실무 트러블슈팅](2026-08-28-scheduling-algorithms.md)
 - 2026-09-01 [프로세스 vs 스레드](2026-09-01-process-vs-thread.md)
 - 2026-09-04 [Garbage Collection과 실무 트러블슈팅](2026-09-04-garbage-collection.md)
+- 2026-09-08 [시스템 콜(System Call)](2026-09-08-system-calls.md)

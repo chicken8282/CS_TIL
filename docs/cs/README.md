@@ -25,6 +25,7 @@
 - 2026-08-28 [스케줄링 알고리즘과 실무 트러블슈팅](os/2026-08-28-scheduling-algorithms.md)
 - 2026-09-01 [프로세스 vs 스레드](os/2026-09-01-process-vs-thread.md)
 - 2026-09-04 [Garbage Collection과 실무 트러블슈팅](os/2026-09-04-garbage-collection.md)
+- 2026-09-08 [시스템 콜(System Call)](os/2026-09-08-system-calls.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -43,6 +44,7 @@
 - 2026-08-28 [HTTP 캐싱: 내부 구현과 검증 흐름](network/2026-08-28-http-caching.md)
 - 2026-09-01 [WebSocket: 실수와 안티패턴 중심 정리](network/2026-09-01-websocket.md)
 - 2026-09-05 [DNS 해석(DNS Resolution)](network/2026-09-05-dns-resolution.md)
+- 2026-09-08 [HTTP/2 vs HTTP/3: 차이와 자주 하는 실수](network/2026-09-08-http-2-vs-http-3.md)
 
 ## 데이터베이스
 - 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
@@ -226,3 +228,4 @@
 - 2026-08-28 [양자화와 모델 압축: 면접 대비 핵심 정리](ai-ml/2026-08-28-quantization-and-model-compression.md)
 - 2026-08-31 [모델 평가와 환각](ai-ml/2026-08-31-model-evaluation-and-hallucination.md)
 - 2026-09-04 [RAG (Retrieval-Augmented Generation) 면접 정리](ai-ml/2026-09-04-rag-retrieval-augmented-generation.md)
+- 2026-09-08 [벡터 데이터베이스와 임베딩: 성능 최적화 중심 정리](ai-ml/2026-09-08-vector-databases-and-embeddings.md)
