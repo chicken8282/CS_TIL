@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-08",
-  "title": "벡터 데이터베이스와 임베딩: 성능 최적화 중심 정리",
-  "topic": "vector databases and embeddings",
-  "category": "ai-ml",
-  "category_name": "AI/ML",
-  "angle": "성능 최적화 관점으로",
-  "summary": "임베딩 차원과 모델 선택**이 저장 공간, 검색 지연 시간, 정확도를 좌우한다.",
-  "bullets": "• 임베딩 차원과 모델 선택**이 저장 공간, 검색 지연 시간, 정확도를 좌우한다.\n• HNSW·IVF 같은 근사 최근접 탐색(ANN)** 으로 전체 스캔을 피하되, 정확도와 지연 시간의 균형을 조정한다.\n• 성능은 인덱스뿐 아니라 **메타데이터 필터, 배치 처리, 캐시, 하드웨어, 측정 지표**까지 함께 최적화해야 한다.",
-  "path": "docs/cs/ai-ml/2026-09-08-vector-databases-and-embeddings.md"
+  "date": "2026-09-09",
+  "title": "쿼리 최적화(Query Optimization)",
+  "topic": "query optimization",
+  "category": "database",
+  "category_name": "데이터베이스",
+  "angle": "코드 예제 중심으로",
+  "summary": "실행 계획을 먼저 확인한다.** `EXPLAIN`, `EXPLAIN ANALYZE`로 풀스캔, 조인 순서, 예상·실제 행 수를 비교한다.",
+  "bullets": "• 실행 계획을 먼저 확인한다.** `EXPLAIN`, `EXPLAIN ANALYZE`로 풀스캔, 조인 순서, 예상·실제 행 수를 비교한다.\n• 인덱스는 조건·정렬·조인 패턴에 맞게 설계한다.** 단순히 컬럼마다 인덱스를 추가하면 쓰기 비용과 저장 공간이 증가한다.\n• 읽는 데이터와 반환하는 데이터를 줄인다.** 필요한 컬럼만 조회하고, 선택도가 높은 조건을 적용하며, 페이지네이션과 N+1 문제를 관리한다.",
+  "path": "docs/cs/database/2026-09-09-query-optimization.md"
 }

@@ -64,6 +64,7 @@
 - 2026-08-29 [트랜잭션과 ACID: 실무 트러블슈팅](database/2026-08-29-transactions-and-acid.md)
 - 2026-09-01 [쿼리 최적화(Query Optimization)](database/2026-09-01-query-optimization.md)
 - 2026-09-05 [데이터베이스 인덱스: 실무 트러블슈팅](database/2026-09-05-database-indexes.md)
+- 2026-09-09 [쿼리 최적화(Query Optimization)](database/2026-09-09-query-optimization.md)
 
 ## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)
@@ -82,6 +83,7 @@
 - 2026-08-29 [B-Tree: 디스크 친화적 균형 탐색 트리](data-structures/2026-08-29-b-tree.md)
 - 2026-09-02 [Trie(트라이): 문자열 검색의 기본과 실수 방지](data-structures/2026-09-02-trie.md)
 - 2026-09-05 [해시 테이블(Hash Table)의 내부 구현](data-structures/2026-09-05-hash-tables.md)
+- 2026-09-09 [연결 리스트(Linked List)](data-structures/2026-09-09-linked-list.md)
 
 ## 알고리즘
 - 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)
@@ -106,6 +108,7 @@
 - 2026-08-29 [최단 경로 알고리즘과 성능 최적화](algorithms/2026-08-29-shortest-path-algorithms.md)
 - 2026-09-02 [동적 계획법(Dynamic Programming, DP)](algorithms/2026-09-02-dynamic-programming.md)
 - 2026-09-06 [투 포인터와 슬라이딩 윈도우](algorithms/2026-09-06-two-pointers-and-sliding-window.md)
+- 2026-09-09 [최단 경로 알고리즘](algorithms/2026-09-09-shortest-path-algorithms.md)
 
 ## 웹/보안
 - 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](web-security/2026-06-22-oauth-2-0.md)

@@ -17,3 +17,4 @@
 - 2026-08-29 [트랜잭션과 ACID: 실무 트러블슈팅](2026-08-29-transactions-and-acid.md)
 - 2026-09-01 [쿼리 최적화(Query Optimization)](2026-09-01-query-optimization.md)
 - 2026-09-05 [데이터베이스 인덱스: 실무 트러블슈팅](2026-09-05-database-indexes.md)
+- 2026-09-09 [쿼리 최적화(Query Optimization)](2026-09-09-query-optimization.md)
