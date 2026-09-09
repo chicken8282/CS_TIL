@@ -18,3 +18,4 @@
 - 2026-08-30 [REST API 설계: 내부 구현 관점](2026-08-30-rest-api-design.md)
 - 2026-09-02 [SQL Injection](2026-09-02-sql-injection.md)
 - 2026-09-06 [OAuth 2.0 내부 구현 관점](2026-09-06-oauth-2-0.md)
+- 2026-09-10 [SQL Injection: 자주 하는 실수와 안티패턴](2026-09-10-sql-injection.md)

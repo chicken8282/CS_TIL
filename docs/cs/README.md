@@ -129,6 +129,7 @@
 - 2026-08-30 [REST API 설계: 내부 구현 관점](web-security/2026-08-30-rest-api-design.md)
 - 2026-09-02 [SQL Injection](web-security/2026-09-02-sql-injection.md)
 - 2026-09-06 [OAuth 2.0 내부 구현 관점](web-security/2026-09-06-oauth-2-0.md)
+- 2026-09-10 [SQL Injection: 자주 하는 실수와 안티패턴](web-security/2026-09-10-sql-injection.md)
 
 ## 시스템 설계
 - 2026-06-24 [메시지 큐(Message Queue)](system-design/2026-06-24-message-queues.md)
@@ -150,6 +151,7 @@
 - 2026-08-30 [캐시 무효화(Cache Invalidation)와 성능 최적화](system-design/2026-08-30-cache-invalidation.md)
 - 2026-09-03 [API Gateway란?](system-design/2026-09-03-api-gateway.md)
 - 2026-09-06 [메시지 큐와 성능 최적화](system-design/2026-09-06-message-queues.md)
+- 2026-09-10 [이벤트 소싱과 CQRS](system-design/2026-09-10-event-sourcing-and-cqrs.md)
 
 ## DevOps
 - 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)
@@ -174,6 +176,7 @@
 - 2026-08-30 [CI/CD fundamentals](devops/2026-08-30-ci-cd-fundamentals.md)
 - 2026-09-03 [컨테이너 오케스트레이션](devops/2026-09-03-container-orchestration.md)
 - 2026-09-07 [이벤트 루프(Event Loop)](devops/2026-09-07-event-loop.md)
+- 2026-09-10 [컨테이너 오케스트레이션](devops/2026-09-10-container-orchestration.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)

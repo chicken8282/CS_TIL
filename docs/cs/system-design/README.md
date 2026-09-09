@@ -19,3 +19,4 @@
 - 2026-08-30 [캐시 무효화(Cache Invalidation)와 성능 최적화](2026-08-30-cache-invalidation.md)
 - 2026-09-03 [API Gateway란?](2026-09-03-api-gateway.md)
 - 2026-09-06 [메시지 큐와 성능 최적화](2026-09-06-message-queues.md)
+- 2026-09-10 [이벤트 소싱과 CQRS](2026-09-10-event-sourcing-and-cqrs.md)
