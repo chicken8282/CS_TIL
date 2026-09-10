@@ -20,3 +20,4 @@
 - 2026-08-31 [인터럽트와 예외: 성능 최적화 관점](2026-08-31-interrupts-and-exceptions.md)
 - 2026-09-03 [시간 복잡도(Time Complexity)](2026-09-03-time-complexity.md)
 - 2026-09-07 [RISC vs CISC: 성능 최적화 관점](2026-09-07-risc-vs-cisc.md)
+- 2026-09-11 [DMA(Direct Memory Access)](2026-09-11-dma.md)

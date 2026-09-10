@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-10",
-  "title": "SQL Injection: 자주 하는 실수와 안티패턴",
-  "topic": "SQL injection",
-  "category": "web-security",
-  "category_name": "웹/보안",
-  "angle": "자주 하는 실수와 안티패턴 중심으로",
-  "summary": "사용자 입력을 문자열 연결로 SQL에 삽입하면 공격자가 쿼리 구조를 바꿀 수 있다.",
-  "bullets": "• 사용자 입력을 문자열 연결로 SQL에 삽입하면 공격자가 쿼리 구조를 바꿀 수 있다.\n• `PreparedStatement`를 사용해도 테이블명·정렬 기준 같은 식별자를 직접 조합하면 여전히 위험하다.\n• ORM 사용만으로 안전해지지 않으며, 권한 최소화와 오류·로그 관리까지 함께 적용해야 한다.",
-  "path": "docs/cs/web-security/2026-09-10-sql-injection.md"
+  "date": "2026-09-11",
+  "title": "DMA(Direct Memory Access)",
+  "topic": "DMA",
+  "category": "computer-arch",
+  "category_name": "컴퓨터 구조",
+  "angle": "초보자에게 비유로 설명하듯",
+  "summary": "DMA는 주변 장치가 CPU 대신 메모리에 직접 데이터를 읽고 쓰는 방식**이다.",
+  "bullets": "• DMA는 주변 장치가 CPU 대신 메모리에 직접 데이터를 읽고 쓰는 방식**이다.\n• CPU는 전송을 매 바이트 처리하지 않고, **주소·크기·방향을 설정한 뒤 작업을 맡긴다**.\n• 전송이 끝나면 DMA가 **인터럽트로 CPU에 완료를 알린다**.",
+  "path": "docs/cs/computer-arch/2026-09-11-dma.md"
 }

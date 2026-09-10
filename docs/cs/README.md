@@ -200,6 +200,7 @@
 - 2026-08-31 [인터럽트와 예외: 성능 최적화 관점](computer-arch/2026-08-31-interrupts-and-exceptions.md)
 - 2026-09-03 [시간 복잡도(Time Complexity)](computer-arch/2026-09-03-time-complexity.md)
 - 2026-09-07 [RISC vs CISC: 성능 최적화 관점](computer-arch/2026-09-07-risc-vs-cisc.md)
+- 2026-09-11 [DMA(Direct Memory Access)](computer-arch/2026-09-11-dma.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
@@ -218,6 +219,7 @@
 - 2026-08-31 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-08-31-memory-mapped-files.md)
 - 2026-09-04 [Prefetching: 필요한 데이터를 미리 가져오는 최적화](memory/2026-09-04-prefetching.md)
 - 2026-09-07 [Copy-on-Write](memory/2026-09-07-copy-on-write.md)
+- 2026-09-11 [메모리 단편화](memory/2026-09-11-memory-fragmentation.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
@@ -235,3 +237,4 @@
 - 2026-08-31 [모델 평가와 환각](ai-ml/2026-08-31-model-evaluation-and-hallucination.md)
 - 2026-09-04 [RAG (Retrieval-Augmented Generation) 면접 정리](ai-ml/2026-09-04-rag-retrieval-augmented-generation.md)
 - 2026-09-08 [벡터 데이터베이스와 임베딩: 성능 최적화 중심 정리](ai-ml/2026-09-08-vector-databases-and-embeddings.md)
+- 2026-09-11 [AI 에이전트와 도구 사용](ai-ml/2026-09-11-ai-agents-and-tool-use.md)
