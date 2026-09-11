@@ -17,3 +17,4 @@
 - 2026-09-01 [WebSocket: 실수와 안티패턴 중심 정리](2026-09-01-websocket.md)
 - 2026-09-05 [DNS 해석(DNS Resolution)](2026-09-05-dns-resolution.md)
 - 2026-09-08 [HTTP/2 vs HTTP/3: 차이와 자주 하는 실수](2026-09-08-http-2-vs-http-3.md)
+- 2026-09-12 [CDN(Content Delivery Network)](2026-09-12-cdn.md)

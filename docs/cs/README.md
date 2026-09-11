@@ -26,6 +26,7 @@
 - 2026-09-01 [프로세스 vs 스레드](os/2026-09-01-process-vs-thread.md)
 - 2026-09-04 [Garbage Collection과 실무 트러블슈팅](os/2026-09-04-garbage-collection.md)
 - 2026-09-08 [시스템 콜(System Call)](os/2026-09-08-system-calls.md)
+- 2026-09-12 [가상 메모리](os/2026-09-12-virtual-memory.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -45,6 +46,7 @@
 - 2026-09-01 [WebSocket: 실수와 안티패턴 중심 정리](network/2026-09-01-websocket.md)
 - 2026-09-05 [DNS 해석(DNS Resolution)](network/2026-09-05-dns-resolution.md)
 - 2026-09-08 [HTTP/2 vs HTTP/3: 차이와 자주 하는 실수](network/2026-09-08-http-2-vs-http-3.md)
+- 2026-09-12 [CDN(Content Delivery Network)](network/2026-09-12-cdn.md)
 
 ## 데이터베이스
 - 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
@@ -65,6 +67,7 @@
 - 2026-09-01 [쿼리 최적화(Query Optimization)](database/2026-09-01-query-optimization.md)
 - 2026-09-05 [데이터베이스 인덱스: 실무 트러블슈팅](database/2026-09-05-database-indexes.md)
 - 2026-09-09 [쿼리 최적화(Query Optimization)](database/2026-09-09-query-optimization.md)
+- 2026-09-12 [MVCC(Multi-Version Concurrency Control)](database/2026-09-12-mvcc.md)
 
 ## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)

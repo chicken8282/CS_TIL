@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-11",
-  "title": "DMA(Direct Memory Access)",
-  "topic": "DMA",
-  "category": "computer-arch",
-  "category_name": "컴퓨터 구조",
-  "angle": "초보자에게 비유로 설명하듯",
-  "summary": "DMA는 주변 장치가 CPU 대신 메모리에 직접 데이터를 읽고 쓰는 방식**이다.",
-  "bullets": "• DMA는 주변 장치가 CPU 대신 메모리에 직접 데이터를 읽고 쓰는 방식**이다.\n• CPU는 전송을 매 바이트 처리하지 않고, **주소·크기·방향을 설정한 뒤 작업을 맡긴다**.\n• 전송이 끝나면 DMA가 **인터럽트로 CPU에 완료를 알린다**.",
-  "path": "docs/cs/computer-arch/2026-09-11-dma.md"
+  "date": "2026-09-12",
+  "title": "가상 메모리",
+  "topic": "virtual memory",
+  "category": "os",
+  "category_name": "운영체제",
+  "angle": "현업 적용 사례 중심으로",
+  "summary": "프로세스마다 독립적인 가상 주소 공간을 제공해 메모리 격리와 실행 안정성을 높인다.",
+  "bullets": "• 프로세스마다 독립적인 가상 주소 공간을 제공해 메모리 격리와 실행 안정성을 높인다.\n• 필요한 페이지만 실제 RAM에 적재하는 수요 페이징으로 메모리를 효율적으로 사용한다.\n• TLB, 페이지 폴트, 스왑, 컨테이너 메모리 제한을 이해해야 성능 문제를 진단할 수 있다.",
+  "path": "docs/cs/os/2026-09-12-virtual-memory.md"
 }
