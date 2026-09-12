@@ -87,6 +87,7 @@
 - 2026-09-02 [Trie(트라이): 문자열 검색의 기본과 실수 방지](data-structures/2026-09-02-trie.md)
 - 2026-09-05 [해시 테이블(Hash Table)의 내부 구현](data-structures/2026-09-05-hash-tables.md)
 - 2026-09-09 [연결 리스트(Linked List)](data-structures/2026-09-09-linked-list.md)
+- 2026-09-13 [해시 테이블(Hash Table)](data-structures/2026-09-13-hash-tables.md)
 
 ## 알고리즘
 - 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)
@@ -112,6 +113,7 @@
 - 2026-09-02 [동적 계획법(Dynamic Programming, DP)](algorithms/2026-09-02-dynamic-programming.md)
 - 2026-09-06 [투 포인터와 슬라이딩 윈도우](algorithms/2026-09-06-two-pointers-and-sliding-window.md)
 - 2026-09-09 [최단 경로 알고리즘](algorithms/2026-09-09-shortest-path-algorithms.md)
+- 2026-09-13 [동적 계획법(Dynamic Programming)과 실무 트러블슈팅](algorithms/2026-09-13-dynamic-programming.md)
 
 ## 웹/보안
 - 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](web-security/2026-06-22-oauth-2-0.md)
@@ -133,6 +135,7 @@
 - 2026-09-02 [SQL Injection](web-security/2026-09-02-sql-injection.md)
 - 2026-09-06 [OAuth 2.0 내부 구현 관점](web-security/2026-09-06-oauth-2-0.md)
 - 2026-09-10 [SQL Injection: 자주 하는 실수와 안티패턴](web-security/2026-09-10-sql-injection.md)
+- 2026-09-13 [JWT와 세션: 내부 구현 관점](web-security/2026-09-13-jwt-and-sessions.md)
 
 ## 시스템 설계
 - 2026-06-24 [메시지 큐(Message Queue)](system-design/2026-06-24-message-queues.md)

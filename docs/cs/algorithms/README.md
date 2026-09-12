@@ -22,3 +22,4 @@
 - 2026-09-02 [동적 계획법(Dynamic Programming, DP)](2026-09-02-dynamic-programming.md)
 - 2026-09-06 [투 포인터와 슬라이딩 윈도우](2026-09-06-two-pointers-and-sliding-window.md)
 - 2026-09-09 [최단 경로 알고리즘](2026-09-09-shortest-path-algorithms.md)
+- 2026-09-13 [동적 계획법(Dynamic Programming)과 실무 트러블슈팅](2026-09-13-dynamic-programming.md)
