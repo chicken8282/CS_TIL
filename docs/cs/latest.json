@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-13",
-  "title": "해시 테이블(Hash Table)",
-  "topic": "hash tables",
-  "category": "data-structures",
-  "category_name": "자료구조",
-  "angle": "면접 질문 중심으로",
-  "summary": "평균 `O(1)`**에 키로 값을 조회·삽입·삭제할 수 있지만, 충돌이 많으면 최악 `O(n)`이 된다.",
-  "bullets": "• 평균 `O(1)`**에 키로 값을 조회·삽입·삭제할 수 있지만, 충돌이 많으면 최악 `O(n)`이 된다.\n• 핵심 요소는 **해시 함수, 버킷 배열, 충돌 해결 전략, 리사이징**이다.\n• 면접에서는 평균/최악 시간 복잡도, 충돌 처리, 로드 팩터, `HashMap`과 `TreeMap` 차이를 자주 묻는다.",
-  "path": "docs/cs/data-structures/2026-09-13-hash-tables.md"
+  "date": "2026-09-14",
+  "title": "메시지 큐와 실무 트러블슈팅",
+  "topic": "message queues",
+  "category": "system-design",
+  "category_name": "시스템 설계",
+  "angle": "실무 트러블슈팅 관점으로",
+  "summary": "핵심 1:** 메시지 큐는 생산자와 소비자를 분리해 트래픽을 완충하고 비동기 처리를 가능하게 한다.",
+  "bullets": "• 핵심 1:** 메시지 큐는 생산자와 소비자를 분리해 트래픽을 완충하고 비동기 처리를 가능하게 한다.\n• 핵심 2:** 장애의 핵심 지표는 큐 적체량, 처리 지연, 소비자 처리율, 재시도 횟수, DLQ 유입량이다.\n• 핵심 3:** 중복 전달은 정상적으로 발생할 수 있으므로 소비자는 멱등성을 보장해야 한다.",
+  "path": "docs/cs/system-design/2026-09-14-message-queues.md"
 }

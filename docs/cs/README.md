@@ -158,6 +158,7 @@
 - 2026-09-03 [API Gateway란?](system-design/2026-09-03-api-gateway.md)
 - 2026-09-06 [메시지 큐와 성능 최적화](system-design/2026-09-06-message-queues.md)
 - 2026-09-10 [이벤트 소싱과 CQRS](system-design/2026-09-10-event-sourcing-and-cqrs.md)
+- 2026-09-14 [메시지 큐와 실무 트러블슈팅](system-design/2026-09-14-message-queues.md)
 
 ## DevOps
 - 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)
@@ -183,6 +184,7 @@
 - 2026-09-03 [컨테이너 오케스트레이션](devops/2026-09-03-container-orchestration.md)
 - 2026-09-07 [이벤트 루프(Event Loop)](devops/2026-09-07-event-loop.md)
 - 2026-09-10 [컨테이너 오케스트레이션](devops/2026-09-10-container-orchestration.md)
+- 2026-09-14 [이벤트 루프(Event Loop)](devops/2026-09-14-event-loop.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)
@@ -207,6 +209,7 @@
 - 2026-09-03 [시간 복잡도(Time Complexity)](computer-arch/2026-09-03-time-complexity.md)
 - 2026-09-07 [RISC vs CISC: 성능 최적화 관점](computer-arch/2026-09-07-risc-vs-cisc.md)
 - 2026-09-11 [DMA(Direct Memory Access)](computer-arch/2026-09-11-dma.md)
+- 2026-09-14 [브랜치 예측(Branch Prediction)과 성능 최적화](computer-arch/2026-09-14-branch-prediction.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
