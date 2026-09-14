@@ -27,6 +27,7 @@
 - 2026-09-04 [Garbage Collection과 실무 트러블슈팅](os/2026-09-04-garbage-collection.md)
 - 2026-09-08 [시스템 콜(System Call)](os/2026-09-08-system-calls.md)
 - 2026-09-12 [가상 메모리](os/2026-09-12-virtual-memory.md)
+- 2026-09-15 [메모리 지역성(Memory Locality)](os/2026-09-15-memory-locality.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -229,6 +230,7 @@
 - 2026-09-04 [Prefetching: 필요한 데이터를 미리 가져오는 최적화](memory/2026-09-04-prefetching.md)
 - 2026-09-07 [Copy-on-Write](memory/2026-09-07-copy-on-write.md)
 - 2026-09-11 [메모리 단편화](memory/2026-09-11-memory-fragmentation.md)
+- 2026-09-15 [Copy-on-Write(COW)](memory/2026-09-15-copy-on-write.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)
@@ -247,3 +249,4 @@
 - 2026-09-04 [RAG (Retrieval-Augmented Generation) 면접 정리](ai-ml/2026-09-04-rag-retrieval-augmented-generation.md)
 - 2026-09-08 [벡터 데이터베이스와 임베딩: 성능 최적화 중심 정리](ai-ml/2026-09-08-vector-databases-and-embeddings.md)
 - 2026-09-11 [AI 에이전트와 도구 사용](ai-ml/2026-09-11-ai-agents-and-tool-use.md)
+- 2026-09-15 [토큰화와 어휘(Vocabulary): 성능 최적화 관점](ai-ml/2026-09-15-tokenization-and-vocabulary.md)

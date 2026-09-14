@@ -26,3 +26,4 @@
 - 2026-09-04 [Garbage Collection과 실무 트러블슈팅](2026-09-04-garbage-collection.md)
 - 2026-09-08 [시스템 콜(System Call)](2026-09-08-system-calls.md)
 - 2026-09-12 [가상 메모리](2026-09-12-virtual-memory.md)
+- 2026-09-15 [메모리 지역성(Memory Locality)](2026-09-15-memory-locality.md)
