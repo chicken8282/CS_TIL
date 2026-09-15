@@ -48,6 +48,7 @@
 - 2026-09-05 [DNS 해석(DNS Resolution)](network/2026-09-05-dns-resolution.md)
 - 2026-09-08 [HTTP/2 vs HTTP/3: 차이와 자주 하는 실수](network/2026-09-08-http-2-vs-http-3.md)
 - 2026-09-12 [CDN(Content Delivery Network)](network/2026-09-12-cdn.md)
+- 2026-09-16 [로드 밸런싱과 성능 최적화](network/2026-09-16-load-balancing.md)
 
 ## 데이터베이스
 - 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
@@ -69,6 +70,7 @@
 - 2026-09-05 [데이터베이스 인덱스: 실무 트러블슈팅](database/2026-09-05-database-indexes.md)
 - 2026-09-09 [쿼리 최적화(Query Optimization)](database/2026-09-09-query-optimization.md)
 - 2026-09-12 [MVCC(Multi-Version Concurrency Control)](database/2026-09-12-mvcc.md)
+- 2026-09-16 [Sharding과 Partitioning](database/2026-09-16-sharding-and-partitioning.md)
 
 ## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)
@@ -89,6 +91,7 @@
 - 2026-09-05 [해시 테이블(Hash Table)의 내부 구현](data-structures/2026-09-05-hash-tables.md)
 - 2026-09-09 [연결 리스트(Linked List)](data-structures/2026-09-09-linked-list.md)
 - 2026-09-13 [해시 테이블(Hash Table)](data-structures/2026-09-13-hash-tables.md)
+- 2026-09-16 [힙과 우선순위 큐: 자주 하는 실수와 안티패턴](data-structures/2026-09-16-heap-and-priority-queue.md)
 
 ## 알고리즘
 - 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)

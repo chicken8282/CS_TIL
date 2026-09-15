@@ -18,3 +18,4 @@
 - 2026-09-05 [해시 테이블(Hash Table)의 내부 구현](2026-09-05-hash-tables.md)
 - 2026-09-09 [연결 리스트(Linked List)](2026-09-09-linked-list.md)
 - 2026-09-13 [해시 테이블(Hash Table)](2026-09-13-hash-tables.md)
+- 2026-09-16 [힙과 우선순위 큐: 자주 하는 실수와 안티패턴](2026-09-16-heap-and-priority-queue.md)
