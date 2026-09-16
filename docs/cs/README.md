@@ -118,6 +118,7 @@
 - 2026-09-06 [투 포인터와 슬라이딩 윈도우](algorithms/2026-09-06-two-pointers-and-sliding-window.md)
 - 2026-09-09 [최단 경로 알고리즘](algorithms/2026-09-09-shortest-path-algorithms.md)
 - 2026-09-13 [동적 계획법(Dynamic Programming)과 실무 트러블슈팅](algorithms/2026-09-13-dynamic-programming.md)
+- 2026-09-17 [투 포인터와 슬라이딩 윈도우](algorithms/2026-09-17-two-pointers-and-sliding-window.md)
 
 ## 웹/보안
 - 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](web-security/2026-06-22-oauth-2-0.md)
@@ -140,6 +141,7 @@
 - 2026-09-06 [OAuth 2.0 내부 구현 관점](web-security/2026-09-06-oauth-2-0.md)
 - 2026-09-10 [SQL Injection: 자주 하는 실수와 안티패턴](web-security/2026-09-10-sql-injection.md)
 - 2026-09-13 [JWT와 세션: 내부 구현 관점](web-security/2026-09-13-jwt-and-sessions.md)
+- 2026-09-17 [XSS와 CSRF: 자주 하는 실수와 안티패턴](web-security/2026-09-17-xss-and-csrf.md)
 
 ## 시스템 설계
 - 2026-06-24 [메시지 큐(Message Queue)](system-design/2026-06-24-message-queues.md)
@@ -163,6 +165,7 @@
 - 2026-09-06 [메시지 큐와 성능 최적화](system-design/2026-09-06-message-queues.md)
 - 2026-09-10 [이벤트 소싱과 CQRS](system-design/2026-09-10-event-sourcing-and-cqrs.md)
 - 2026-09-14 [메시지 큐와 실무 트러블슈팅](system-design/2026-09-14-message-queues.md)
+- 2026-09-17 [Circuit Breaker 패턴](system-design/2026-09-17-circuit-breaker-pattern.md)
 
 ## DevOps
 - 2026-06-30 [이벤트 루프(Event Loop)](devops/2026-06-30-event-loop.md)
