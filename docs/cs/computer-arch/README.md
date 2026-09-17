@@ -22,3 +22,4 @@
 - 2026-09-07 [RISC vs CISC: 성능 최적화 관점](2026-09-07-risc-vs-cisc.md)
 - 2026-09-11 [DMA(Direct Memory Access)](2026-09-11-dma.md)
 - 2026-09-14 [브랜치 예측(Branch Prediction)과 성능 최적화](2026-09-14-branch-prediction.md)
+- 2026-09-18 [인터럽트와 예외](2026-09-18-interrupts-and-exceptions.md)

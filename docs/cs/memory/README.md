@@ -17,3 +17,4 @@
 - 2026-09-07 [Copy-on-Write](2026-09-07-copy-on-write.md)
 - 2026-09-11 [메모리 단편화](2026-09-11-memory-fragmentation.md)
 - 2026-09-15 [Copy-on-Write(COW)](2026-09-15-copy-on-write.md)
+- 2026-09-18 [스택 vs 힙 할당](2026-09-18-stack-vs-heap-allocation.md)

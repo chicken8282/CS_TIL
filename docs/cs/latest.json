@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-17",
-  "title": "투 포인터와 슬라이딩 윈도우",
-  "topic": "two pointers and sliding window",
-  "category": "algorithms",
-  "category_name": "알고리즘",
-  "angle": "코드 예제 중심으로",
-  "summary": "투 포인터**는 배열의 양끝 또는 같은 방향의 두 인덱스를 움직여 탐색 시간을 줄이는 기법이다.",
-  "bullets": "• 투 포인터**는 배열의 양끝 또는 같은 방향의 두 인덱스를 움직여 탐색 시간을 줄이는 기법이다.\n• 슬라이딩 윈도우**는 연속된 구간을 유지하며 `right`로 확장하고 `left`로 축소한다.\n• 두 기법 모두 이미 확인한 원소를 반복해서 보지 않아, 많은 경우 `O(N²)` 탐색을 `O(N)`으로 개선한다.",
-  "path": "docs/cs/algorithms/2026-09-17-two-pointers-and-sliding-window.md"
+  "date": "2026-09-18",
+  "title": "블루-그린과 카나리 배포: 실수와 안티패턴 중심",
+  "topic": "blue-green and canary deployment",
+  "category": "devops",
+  "category_name": "DevOps",
+  "angle": "자주 하는 실수와 안티패턴 중심으로",
+  "summary": "블루-그린**은 두 환경을 준비한 뒤 트래픽을 한 번에 전환해 빠르게 롤백한다.",
+  "bullets": "• 블루-그린**은 두 환경을 준비한 뒤 트래픽을 한 번에 전환해 빠르게 롤백한다.\n• 카나리**는 일부 트래픽이나 사용자에게 먼저 배포해 위험을 점진적으로 검증한다.\n• 배포 전략보다 중요한 것은 **관측성, 데이터 호환성, 자동 롤백 기준**이다.",
+  "path": "docs/cs/devops/2026-09-18-blue-green-and-canary-deployment.md"
 }

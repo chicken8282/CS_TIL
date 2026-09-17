@@ -192,6 +192,7 @@
 - 2026-09-07 [이벤트 루프(Event Loop)](devops/2026-09-07-event-loop.md)
 - 2026-09-10 [컨테이너 오케스트레이션](devops/2026-09-10-container-orchestration.md)
 - 2026-09-14 [이벤트 루프(Event Loop)](devops/2026-09-14-event-loop.md)
+- 2026-09-18 [블루-그린과 카나리 배포: 실수와 안티패턴 중심](devops/2026-09-18-blue-green-and-canary-deployment.md)
 
 ## 컴퓨터 구조
 - 2026-07-10 [CPU Pipeline](computer-arch/2026-07-10-cpu-pipeline.md)
@@ -217,6 +218,7 @@
 - 2026-09-07 [RISC vs CISC: 성능 최적화 관점](computer-arch/2026-09-07-risc-vs-cisc.md)
 - 2026-09-11 [DMA(Direct Memory Access)](computer-arch/2026-09-11-dma.md)
 - 2026-09-14 [브랜치 예측(Branch Prediction)과 성능 최적화](computer-arch/2026-09-14-branch-prediction.md)
+- 2026-09-18 [인터럽트와 예외](computer-arch/2026-09-18-interrupts-and-exceptions.md)
 
 ## 메모리 최적화
 - 2026-07-14 [메모리 매핑 파일(Memory-Mapped File)](memory/2026-07-14-memory-mapped-files.md)
@@ -237,6 +239,7 @@
 - 2026-09-07 [Copy-on-Write](memory/2026-09-07-copy-on-write.md)
 - 2026-09-11 [메모리 단편화](memory/2026-09-11-memory-fragmentation.md)
 - 2026-09-15 [Copy-on-Write(COW)](memory/2026-09-15-copy-on-write.md)
+- 2026-09-18 [스택 vs 힙 할당](memory/2026-09-18-stack-vs-heap-allocation.md)
 
 ## AI/ML
 - 2026-07-15 [Transformer 아키텍처](ai-ml/2026-07-15-transformer-architecture.md)

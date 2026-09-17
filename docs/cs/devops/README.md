@@ -24,3 +24,4 @@
 - 2026-09-07 [이벤트 루프(Event Loop)](2026-09-07-event-loop.md)
 - 2026-09-10 [컨테이너 오케스트레이션](2026-09-10-container-orchestration.md)
 - 2026-09-14 [이벤트 루프(Event Loop)](2026-09-14-event-loop.md)
+- 2026-09-18 [블루-그린과 카나리 배포: 실수와 안티패턴 중심](2026-09-18-blue-green-and-canary-deployment.md)
