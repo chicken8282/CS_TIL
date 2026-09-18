@@ -19,3 +19,4 @@
 - 2026-09-08 [HTTP/2 vs HTTP/3: 차이와 자주 하는 실수](2026-09-08-http-2-vs-http-3.md)
 - 2026-09-12 [CDN(Content Delivery Network)](2026-09-12-cdn.md)
 - 2026-09-16 [로드 밸런싱과 성능 최적화](2026-09-16-load-balancing.md)
+- 2026-09-19 [WebSocket](2026-09-19-websocket.md)

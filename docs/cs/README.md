@@ -28,6 +28,7 @@
 - 2026-09-08 [시스템 콜(System Call)](os/2026-09-08-system-calls.md)
 - 2026-09-12 [가상 메모리](os/2026-09-12-virtual-memory.md)
 - 2026-09-15 [메모리 지역성(Memory Locality)](os/2026-09-15-memory-locality.md)
+- 2026-09-19 [IPC(프로세스 간 통신)](os/2026-09-19-ipc-inter-process-communication.md)
 
 ## 네트워크
 - 2026-07-05 [TCP vs UDP](network/2026-07-05-tcp-vs-udp.md)
@@ -49,6 +50,7 @@
 - 2026-09-08 [HTTP/2 vs HTTP/3: 차이와 자주 하는 실수](network/2026-09-08-http-2-vs-http-3.md)
 - 2026-09-12 [CDN(Content Delivery Network)](network/2026-09-12-cdn.md)
 - 2026-09-16 [로드 밸런싱과 성능 최적화](network/2026-09-16-load-balancing.md)
+- 2026-09-19 [WebSocket](network/2026-09-19-websocket.md)
 
 ## 데이터베이스
 - 2026-06-28 [Sharding과 Partitioning 정리](database/2026-06-28-sharding-and-partitioning.md)
@@ -259,3 +261,4 @@
 - 2026-09-08 [벡터 데이터베이스와 임베딩: 성능 최적화 중심 정리](ai-ml/2026-09-08-vector-databases-and-embeddings.md)
 - 2026-09-11 [AI 에이전트와 도구 사용](ai-ml/2026-09-11-ai-agents-and-tool-use.md)
 - 2026-09-15 [토큰화와 어휘(Vocabulary): 성능 최적화 관점](ai-ml/2026-09-15-tokenization-and-vocabulary.md)
+- 2026-09-19 [RLHF(Reinforcement Learning from Human Feedback)](ai-ml/2026-09-19-rlhf.md)
