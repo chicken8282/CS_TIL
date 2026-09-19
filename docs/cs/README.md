@@ -73,6 +73,7 @@
 - 2026-09-09 [쿼리 최적화(Query Optimization)](database/2026-09-09-query-optimization.md)
 - 2026-09-12 [MVCC(Multi-Version Concurrency Control)](database/2026-09-12-mvcc.md)
 - 2026-09-16 [Sharding과 Partitioning](database/2026-09-16-sharding-and-partitioning.md)
+- 2026-09-20 [MVCC(Multi-Version Concurrency Control)](database/2026-09-20-mvcc.md)
 
 ## 자료구조
 - 2026-07-07 [LRU Cache](data-structures/2026-07-07-lru-cache.md)
@@ -94,6 +95,7 @@
 - 2026-09-09 [연결 리스트(Linked List)](data-structures/2026-09-09-linked-list.md)
 - 2026-09-13 [해시 테이블(Hash Table)](data-structures/2026-09-13-hash-tables.md)
 - 2026-09-16 [힙과 우선순위 큐: 자주 하는 실수와 안티패턴](data-structures/2026-09-16-heap-and-priority-queue.md)
+- 2026-09-20 [LRU 캐시](data-structures/2026-09-20-lru-cache.md)
 
 ## 알고리즘
 - 2026-07-08 [BFS와 DFS: 그래프를 탐색하는 두 가지 방식](algorithms/2026-07-08-bfs-and-dfs.md)
@@ -121,6 +123,7 @@
 - 2026-09-09 [최단 경로 알고리즘](algorithms/2026-09-09-shortest-path-algorithms.md)
 - 2026-09-13 [동적 계획법(Dynamic Programming)과 실무 트러블슈팅](algorithms/2026-09-13-dynamic-programming.md)
 - 2026-09-17 [투 포인터와 슬라이딩 윈도우](algorithms/2026-09-17-two-pointers-and-sliding-window.md)
+- 2026-09-20 [최단 경로 알고리즘: 실무 트러블슈팅 중심 정리](algorithms/2026-09-20-shortest-path-algorithms.md)
 
 ## 웹/보안
 - 2026-06-22 [OAuth 2.0: 안전한 권한 위임 표준](web-security/2026-06-22-oauth-2-0.md)

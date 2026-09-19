@@ -19,3 +19,4 @@
 - 2026-09-09 [연결 리스트(Linked List)](2026-09-09-linked-list.md)
 - 2026-09-13 [해시 테이블(Hash Table)](2026-09-13-hash-tables.md)
 - 2026-09-16 [힙과 우선순위 큐: 자주 하는 실수와 안티패턴](2026-09-16-heap-and-priority-queue.md)
+- 2026-09-20 [LRU 캐시](2026-09-20-lru-cache.md)

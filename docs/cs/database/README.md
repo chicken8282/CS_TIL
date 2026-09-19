@@ -20,3 +20,4 @@
 - 2026-09-09 [쿼리 최적화(Query Optimization)](2026-09-09-query-optimization.md)
 - 2026-09-12 [MVCC(Multi-Version Concurrency Control)](2026-09-12-mvcc.md)
 - 2026-09-16 [Sharding과 Partitioning](2026-09-16-sharding-and-partitioning.md)
+- 2026-09-20 [MVCC(Multi-Version Concurrency Control)](2026-09-20-mvcc.md)

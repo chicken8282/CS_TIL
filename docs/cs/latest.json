@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-19",
-  "title": "RLHF(Reinforcement Learning from Human Feedback)",
-  "topic": "RLHF",
-  "category": "ai-ml",
-  "category_name": "AI/ML",
-  "angle": "초보자에게 비유로 설명하듯",
-  "summary": "목표:** 사람의 선호를 반영해 언어 모델의 답변을 더 유용하고 안전하게 만든다.",
-  "bullets": "• 목표:** 사람의 선호를 반영해 언어 모델의 답변을 더 유용하고 안전하게 만든다.\n• 핵심 흐름:** 사람의 비교 평가 → 보상 모델 학습 → 강화학습으로 언어 모델 조정.\n• 주의점:** 사람의 판단과 평가 기준에 의존하므로 편향, 과도한 거절, 보상 해킹이 발생할 수 있다.",
-  "path": "docs/cs/ai-ml/2026-09-19-rlhf.md"
+  "date": "2026-09-20",
+  "title": "MVCC(Multi-Version Concurrency Control)",
+  "topic": "MVCC",
+  "category": "database",
+  "category_name": "데이터베이스",
+  "angle": "현업 적용 사례 중심으로",
+  "summary": "핵심:** 읽기 작업과 쓰기 작업이 서로를 불필요하게 차단하지 않도록 행의 여러 버전을 관리한다.",
+  "bullets": "• 핵심:** 읽기 작업과 쓰기 작업이 서로를 불필요하게 차단하지 않도록 행의 여러 버전을 관리한다.\n• 현업 효과:** 주문 조회, 피드 조회처럼 읽기가 많은 서비스에서 락 경합과 지연을 줄인다.\n• 주의점:** 오래 열린 트랜잭션은 과거 버전 정리를 방해해 저장 공간 증가와 성능 저하를 유발한다.",
+  "path": "docs/cs/database/2026-09-20-mvcc.md"
 }
